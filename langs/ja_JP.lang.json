@@ -464,7 +464,9 @@
   },
   "assets/data/areas/jungle.json": {
     "name": "無題",
+    "floors.0.name": "en_US",
     "floors.0.maps.0.name": "失われたパワールーム<<A<<[CHANGED 2018/07/09]",
+    "floors.1.name": "en_US",
     "floors.1.maps.0.name": "侵食された洞窟・入り口",
     "floors.1.maps.1.name": "侵食された洞窟・迷路",
     "floors.1.maps.2.name": "聖なる池<<A<<[CHANGED 2017/11/27]",
@@ -543,6 +545,7 @@
   },
   "assets/data/areas/rhombus-sqr.json": {
     "name": "ロンバス広場",
+    "floors.0.name": "en_US",
     "floors.0.maps.0.name": "ロンバス・アリーナ<<A<<[CHANGED 2018/07/09]",
     "floors.0.maps.1.name": "クロスセントラル<<A<<[CHANGED 2017/11/04]",
     "floors.0.maps.2.name": "住宅地<<A<<[CHANGED 2018/07/09]",
@@ -557,6 +560,7 @@
     "floors.0.maps.11.name": "ヴェストロビッチ邸宅<<A<<[CHANGED 2018/09/02]",
     "floors.0.maps.12.name": "レアアイテム & その他<<A<<[CHANGED 2018/09/14]",
     "floors.0.maps.13.name": "アリーナカフェ<<A<<[CHANGED 2018/09/14]",
+    "floors.1.name": "en_US",
     "floors.1.maps.0.name": "ニューカマーズブリッジ",
     "floors.1.maps.1.name": "ニューカマーズブリッジ・終点",
     "floors.1.maps.2.name": "クロスセントラル・バルコニー",
@@ -689,14 +693,65 @@
     "floors.1.name": "地階",
     "floors.1.maps.0.name": "最初の試練"
   },
+  "assets/data/characters/adventurers/female-braid-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-braid-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-dut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-dut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-pony-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-pony-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-bald-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-bald-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-headband-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-headband-white.json": {
+    "name": ""
+  },
   "assets/data/characters/adventurers/male-pirate.json": {
     "name": "スパーリング<<A<<[CHANGED 2017/11/04]"
   },
   "assets/data/characters/adventurers-jungle/female-leader.json": {
     "name": "マダキ<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/adventurers-jungle/female-white-hat-pigtails.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/female-white-hat.json": {
+    "name": ""
+  },
   "assets/data/characters/adventurers-jungle/leader-female.json": {
     "name": "マダキ<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/adventurers-jungle/male-black-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/male-white-hat-monocle.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/male-white-ponytail.json": {
+    "name": ""
   },
   "assets/data/characters/advisors/female-nerd-combat.json": {
     "name": "戦闘オタク<<A<<[CHANGED 2017/11/04]"
@@ -781,11 +836,47 @@
   "assets/data/characters/baki/eldress.json": {
     "name": "長老"
   },
+  "assets/data/characters/baki/female-beige.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-pink.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-yellow-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-yellow-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-green-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-green-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-pink-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-pink-tall.json": {
+    "name": ""
+  },
   "assets/data/characters/baki/male-shad-tradeleader.json": {
     "name": "クネイ・テハブ<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/baki/male-yellow-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-yellow-tall.json": {
+    "name": ""
+  },
   "assets/data/characters/baki/painter.json": {
     "name": "ペインター<<A<<[CHANGED 2017/11/04]"
+  },
+  "assets/data/characters/baki/thief-man-dude.json": {
+    "name": ""
   },
   "assets/data/characters/basin/boogie.json": {
     "name": "ブージーマン"
@@ -796,14 +887,74 @@
   "assets/data/characters/basin/don-vita.json": {
     "name": "ドン・ヴィータ"
   },
+  "assets/data/characters/basin/female-blond.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-umbrella-laser.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-umbrella.json": {
+    "name": ""
+  },
   "assets/data/characters/basin/major.json": {
     "name": "サリヴァン<<A<<[CHANGED 2017/11/27]"
   },
   "assets/data/characters/basin/male-bodyguard.json": {
     "name": "ビンス<<A<<[CHANGED 2018/03/14]"
   },
+  "assets/data/characters/basin/male-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-hat-2.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-punk.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-purple.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-raincoat.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-umbrella.json": {
+    "name": ""
+  },
   "assets/data/characters/basin/sciene-lady.json": {
     "name": "ドクター・クレツィア<<A<<[CHANGED 2018/03/14]"
+  },
+  "assets/data/characters/bergen/female-hoodie-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-monk-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-small-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-small-fancy-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-blue.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-fancy-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-silver.json": {
+    "name": ""
   },
   "assets/data/characters/bergen/frobbit-legend.json": {
     "name": "伝説のウサギ<<A<<[CHANGED 2018/07/09]"
@@ -811,17 +962,128 @@
   "assets/data/characters/bergen/male-goatman-white.json": {
     "name": "<<A<<[CHANGED 2018/09/17]"
   },
+  "assets/data/characters/bergen/male-hoodie-simple.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-monk-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-old-mustache.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-tall-bald-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-tall-bald-white.json": {
+    "name": ""
+  },
   "assets/data/characters/bergen/mayor.json": {
     "name": "ベルゲンの村長"
+  },
+  "assets/data/characters/bergen/nonbinary-monk-leader.json": {
+    "name": "en_US"
   },
   "assets/data/characters/bergen/one-holiday-man.json": {
     "name": "ホリデーマン"
   },
+  "assets/data/characters/business/crosscode-ceo.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/female-dut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-dut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-longhair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-longhair-white.json": {
+    "name": ""
+  },
   "assets/data/characters/business/female-redhair-sexy-brown.json": {
     "name": "リーダ<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/business/female-shorthair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-shorthair-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/fridgeguy-male-old-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-female-blonde.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-female-brown-chub.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-male-fullhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-male-halfhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heatergirl-female.json": {
+    "name": ""
+  },
   "assets/data/characters/business/leader-bergen-female.json": {
     "name": "ミセス・サマーズ<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/business/leader-jungle.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/leader-rh-male-wheelchair.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-black-bald.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-white-sidehair.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-white.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-lockhart-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-lockhart-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-old-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-old-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-sidecut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-sidecut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-toupee-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-toupee-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-wheelchair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-wheelchair-white.json": {
+    "name": ""
   },
   "assets/data/characters/cargo-crew/bot.json": {
     "name": "ギア・ボット"
@@ -925,14 +1187,122 @@
   "assets/data/characters/gods/triblader.json": {
     "name": "壁<<A<<[CHANGED 2017/08/03]"
   },
+  "assets/data/characters/greenies/female-farmer-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-farmer-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-flowers-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-flowers-white.json": {
+    "name": ""
+  },
   "assets/data/characters/greenies/female-researcher.json": {
     "name": "タラチュ・リップス"
+  },
+  "assets/data/characters/greenies/female-terranigma-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-terranigma-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-farmer-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-farmer-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hipster-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hipster-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-baki/female-leader-shad.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-blonde-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-brunette-flower.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-examiner-white.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/greenies-jungle/male-beard-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-beard-red.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-glasses-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-leader-black.json": {
+    "name": "en_US"
   },
   "assets/data/characters/guards/captain-female-hairbun.json": {
     "name": "スターリング曹長<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/guards/captain-male-normal-blonde.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/guards/captain-male-normal-darkhair.json": {
+    "name": "en_US"
+  },
   "assets/data/characters/guards/captain-male-oneleg.json": {
     "name": "ニーロス曹長<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/guards/female-hairs-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-hairs-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-small-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-tall-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-beefy-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-beefy-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-bulky-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-bulky-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-hairs-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-hairs-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-normal-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-normal-white.json": {
+    "name": ""
   },
   "assets/data/characters/guards/male-red-glasses.json": {
     "name": "ラスティー<<A<<[CHANGED 2018/08/28]"
@@ -945,6 +1315,39 @@
   },
   "assets/data/characters/jungle/female-albino.json": {
     "name": "ク・タラ<<A<<[CHANGED 2017/11/27]"
+  },
+  "assets/data/characters/jungle/female-beige.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-pink.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-yellow-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-yellow-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-green-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-green-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-pink-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-pink-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-yellow-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-yellow-tall.json": {
+    "name": ""
   },
   "assets/data/characters/main/buggy.json": {
     "name": "バギー"
@@ -1008,8 +1411,26 @@
     "name": "シズカ",
     "realname": "シズカ"
   },
+  "assets/data/characters/miners/female-pigtails-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/female-ponytail-white.json": {
+    "name": ""
+  },
   "assets/data/characters/miners/leader-male-beard.json": {
     "name": "マクエディンティル<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/miners/male-blackbeard-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-brownbeard-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-brownshirt-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-redmuffler-white.json": {
+    "name": ""
   },
   "assets/data/characters/misc/advisor-researcher.json": {
     "name": "アディ<<A<<[CHANGED 2017/11/04]"
@@ -1020,6 +1441,12 @@
   "assets/data/characters/misc/henry-researcher.json": {
     "name": "ヘンリー"
   },
+  "assets/data/characters/misc/hidden.json": {
+    "name": ""
+  },
+  "assets/data/characters/misc/menu-effect-large.json": {
+    "name": ""
+  },
   "assets/data/characters/misc/oldman.json": {
     "name": "老人<<A<<[CHANGED 2018/07/09]"
   },
@@ -1029,23 +1456,134 @@
   "assets/data/characters/misc/radical-fish.json": {
     "name": "ラディカル・フィッシュ"
   },
+  "assets/data/characters/monks/female-longhair-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/female-shorthair-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-white.json": {
+    "name": ""
+  },
   "assets/data/characters/monks/nonbinary-leader.json": {
     "name": "ネムー<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/nomads/female-redheadscarf.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/female-shorthair-bluetunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/female-whiteheadscarf-longhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-blackhair-purpletunic.json": {
+    "name": ""
   },
   "assets/data/characters/nomads/male-fancy-leader.json": {
     "name": "マヒル<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/nomads/male-redheadscarf-browntunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-whiteheadscarf-browntunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-whiteheadscarf-redtunic.json": {
+    "name": ""
+  },
   "assets/data/characters/objects/barrier.json": {
     "name": "壁"
+  },
+  "assets/data/characters/objects/car-1-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-1.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-2-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-2.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-3-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-3.json": {
+    "name": ""
   },
   "assets/data/characters/objects/driller-h-f-s.json": {
     "name": "壁"
   },
+  "assets/data/characters/objects/largeHeatMetalBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/largeJungleBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/smallJungleBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/td-doorOpener.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/td-energySucker.json": {
+    "name": ""
+  },
   "assets/data/characters/rookie-harbor/faction-fd-female-leader.json": {
     "name": "エレニア<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/rookie-harbor/faction-fd-male-tucos.json": {
+    "name": ""
+  },
   "assets/data/characters/rookie-harbor/faction-foa-man-chiefgarden.json": {
     "name": "マンザナ<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-offcr-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-sgt.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-big-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-big-blue.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-ms-steak.json": {
+    "name": "Ms. Steak"
+  },
+  "assets/data/characters/rookie-harbor/female-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-small-red.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-tall-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-big-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-big-red.json": {
+    "name": ""
   },
   "assets/data/characters/rookie-harbor/man-business.json": {
     "name": "ノムズワース<<A<<[CHANGED 2018/08/28]"
@@ -1053,17 +1591,382 @@
   "assets/data/characters/rookie-harbor/man-shop.json": {
     "name": "タラ<<A<<[CHANGED 2017/12/11]"
   },
+  "assets/data/characters/rookie-harbor/man-small-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-tall-mustache.json": {
+    "name": "en_US"
+  },
   "assets/data/characters/rookie-harbor/poet.json": {
     "name": "詩人"
+  },
+  "assets/data/characters/rookie-harbor/thief-man-big-eyepatch.json": {
+    "name": ""
   },
   "assets/data/characters/rookie-harbor/van-pummelson.json": {
     "name": "ヴァン・パメルゾン<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/credits/backers.json": {
-    "entries.header.header": "Indiegogo バッカー<<A<<[CHANGED 2018/09/14]"
+    "entries.header.header": "Indiegogo バッカー<<A<<[CHANGED 2018/09/14]",
+    "entries.testers.header": "en_US",
+    "entries.testers.names.0": "Mil",
+    "entries.testers.names.1": "Dennis 'HerrDekay' Kröner",
+    "entries.testers.names.2": "Filip Antkowiak",
+    "entries.testers.names.3": "Mathias 'lucmat' Luckas",
+    "entries.testers.names.4": "Art Zoe",
+    "entries.testers.names.5": "Banana Man (BM)",
+    "entries.testers.names.6": "David \"Cherry\" Trapp",
+    "entries.testers.names.7": "J. \"Wervyn\" Wert",
+    "entries.testers.names.8": "Moya Schiller",
+    "entries.testers.names.9": "catnip513",
+    "entries.testers.names.10": "CombatToast",
+    "entries.testers.names.11": "Dennis 'Repko' Klein",
+    "entries.testers.names.12": "Marcel & Tiffy",
+    "entries.testers.names.13": "Stephen Shiu",
+    "entries.testers.names.14": "Andreas \"Sonnen Krieger\" Nuding",
+    "entries.testers.names.15": "Andrew S Burns",
+    "entries.testers.names.16": "Carolin Kresse",
+    "entries.testers.names.17": "Christian \"DFYX\" Käser",
+    "entries.testers.names.18": "Daniel 'dna' Heimann",
+    "entries.testers.names.19": "Dreath",
+    "entries.testers.names.20": "EclipsedHusky",
+    "entries.testers.names.21": "Graeme 'Thee Forsaken One' Foote",
+    "entries.testers.names.22": "Jákup Fuglø",
+    "entries.testers.names.23": "Lennart Kessler",
+    "entries.testers.names.24": "Manuel",
+    "entries.testers.names.25": "Max Hafenheld_Max Valerius",
+    "entries.testers.names.26": "Michael A. 'netwarrior1981' Sevay",
+    "entries.testers.names.27": "Michael V. Olson",
+    "entries.testers.names.28": "Philipp Dörfler",
+    "entries.testers.names.29": "Raen 'Red' Andaleio",
+    "entries.testers.names.30": "Rassi19",
+    "entries.testers.names.31": "Samuel 'Samylots' Beaudoin",
+    "entries.testers.names.32": "Tian 'thenameisuppercase' Xu",
+    "entries.testers.names.33": "YUTAKA ARMDroid SUZUKI",
+    "entries.testers.names.34": "Andrew Keturi",
+    "entries.testers.names.35": "Dominic Meier",
+    "entries.testers.names.36": "Dopsi",
+    "entries.testers.names.37": "Johannes Böckmann",
+    "entries.testers.names.38": "KainDarkfire",
+    "entries.testers.names.39": "Martin Senges",
+    "entries.testers.names.40": "Nathan Losee",
+    "entries.testers.names.41": "Ryan \"Raytaku\" Elias",
+    "entries.testers.names.42": "Samuel Carter",
+    "entries.testers.names.43": "Sebastian Klein",
+    "entries.testers.names.44": "Shelanoir",
+    "entries.testers.names.45": "Alexander 'Akuni' Ernst",
+    "entries.testers.names.46": "Andrew Airmet",
+    "entries.testers.names.47": "Anthony Haller",
+    "entries.testers.names.48": "Ben Lalande",
+    "entries.testers.names.49": "Cameron Yarger",
+    "entries.testers.names.50": "CannedDisaster",
+    "entries.testers.names.51": "Chisos de'Gondra",
+    "entries.testers.names.52": "Christopher Babic",
+    "entries.testers.names.53": "Corbin Roderick",
+    "entries.testers.names.54": "David Goodenough",
+    "entries.testers.names.55": "Dukmos",
+    "entries.testers.names.56": "Erik Heilig",
+    "entries.testers.names.57": "깐츄럴",
+    "entries.testers.names.58": "Flanneko",
+    "entries.testers.names.59": "Grauken",
+    "entries.testers.names.60": "Hai Tien 'High' Tran",
+    "entries.testers.names.61": "Henrik 'Gori' Landin",
+    "entries.testers.names.62": "Hugo 'Svintoo🇸🇪' Ankarloo",
+    "entries.testers.names.63": "Jan 'Sephibox' Polland",
+    "entries.testers.names.64": "Joshua \"Candescence\" Braico",
+    "entries.testers.names.65": "Kay Elspas",
+    "entries.testers.names.66": "Kevin Lanzmich",
+    "entries.testers.names.67": "Kjetil 'Kientero' Dypfest",
+    "entries.testers.names.68": "Konstantin Weber",
+    "entries.testers.names.69": "Koukai",
+    "entries.testers.names.70": "Lukas Daniel Klausner",
+    "entries.testers.names.71": "Mark Williamson",
+    "entries.testers.names.72": "Maximilian 'BananaTeddy' Hering",
+    "entries.testers.names.73": "Maximilian 'ikari_01' Rehkopf",
+    "entries.testers.names.74": "Mike Hall",
+    "entries.testers.names.75": "Morgan H.",
+    "entries.testers.names.76": "Motherboard",
+    "entries.testers.names.77": "Nhan ‘Jason’ Pham",
+    "entries.testers.names.78": "Paul Zaczkiewicz",
+    "entries.testers.names.79": "Peter 'Damanation' Ovelmen",
+    "entries.testers.names.80": "Ridge Shrubsall",
+    "entries.testers.names.81": "Ryan Charles-Edwin Holt",
+    "entries.testers.names.82": "Sebastian 'Tetrakern' Vetter",
+    "entries.testers.names.83": "shauntmw",
+    "entries.testers.names.84": "Stefan Dühring",
+    "entries.testers.names.85": "Stefan Kulzer",
+    "entries.testers.names.86": "Suryce",
+    "entries.testers.names.87": "Tanja 'Trixy' Molle",
+    "entries.testers.names.88": "Thau",
+    "entries.testers.names.89": "TheRusty22 (Shizuka-GotThePower)",
+    "entries.testers.names.90": "Tililio",
+    "entries.testers.names.91": "Urinstein",
+    "entries.testers.names.92": "Verde F. Piuma",
+    "entries.testers.names.93": "Vincent 'ViMaSter' Mahnke",
+    "entries.testers.names.94": "Will \"Radnar\" Kilgore",
+    "entries.testers.names.95": "Will Horwitz",
+    "entries.testers.names.96": "William Gottschalk",
+    "entries.testers.names.97": "Yujiro 'finalbeta' Nakamura",
+    "entries.testers.names.98": "Christopher 'CryZe' Serr",
+    "entries.testers.names.99": "Enalye",
+    "entries.testers.names.100": "Ignacio 'Nnubes256' Gutiérrez",
+    "entries.testers.names.101": "Ingo Rößner",
+    "entries.testers.names.102": "Miguel \"ProgramGamer\" Arseneault",
+    "entries.testers.names.103": "Superstinker666",
+    "entries.testers.names.104": "Vincent Vielva",
+    "entries.testers.names.105": "esotericist",
+    "entries.testers.names.106": "Justin \"Lotus\" Fruhling",
+    "entries.testers.names.107": "Luis \"The Luis\" Cruz",
+    "entries.testers.names.108": "Mike J Ferens",
+    "entries.testers.names.109": "@denomdemon",
+    "entries.testers.names.110": "@remmythical",
+    "entries.testers.names.111": "Aaron C. Scott",
+    "entries.testers.names.112": "Adrian 'adiac' Aurnhammer",
+    "entries.testers.names.113": "Adrian 'Firecrow' Boivin",
+    "entries.testers.names.114": "Alan 'Porkchop' Yeoh",
+    "entries.testers.names.115": "Aleksei 'LAS' Lebedev",
+    "entries.testers.names.116": "Alexander \"A_Dude\" Eder",
+    "entries.testers.names.117": "Alexander 'lxndio' Korn",
+    "entries.testers.names.118": "Alexander [Dewm] Rahemat",
+    "entries.testers.names.119": "Allen Crimmins",
+    "entries.testers.names.120": "Amar 'MasterMario' Hekalo",
+    "entries.testers.names.121": "Andreas 'cfxxl' Gebert",
+    "entries.testers.names.122": "Andreas Wieser",
+    "entries.testers.names.123": "Anton \"BonzenKuh\" Gres",
+    "entries.testers.names.124": "Arne Gehrking",
+    "entries.testers.names.125": "Audric 'Hixan' Trossat",
+    "entries.testers.names.126": "Brian Hardison",
+    "entries.testers.names.127": "Brice 'Dais' Marson",
+    "entries.testers.names.128": "Carl Endres, Technomagus",
+    "entries.testers.names.129": "cenras ",
+    "entries.testers.names.130": "Christian Boisjoli",
+    "entries.testers.names.131": "Clankinator",
+    "entries.testers.names.132": "Conrad Geisel",
+    "entries.testers.names.133": "crediar",
+    "entries.testers.names.134": "Daniel 'danbruegge' Brüggemann",
+    "entries.testers.names.135": "Daniel 'Tschakko' Frisch",
+    "entries.testers.names.136": "Daniel Gonzalez - Daniss4",
+    "entries.testers.names.137": "Daniel Spieldenner",
+    "entries.testers.names.138": "David \"TaDavidID\" Tarakanoff",
+    "entries.testers.names.139": "David Håkansson",
+    "entries.testers.names.140": "Dennis Apitz",
+    "entries.testers.names.141": "Derek 'Der999' West",
+    "entries.testers.names.142": "Dogi the wallcrusher",
+    "entries.testers.names.143": "Draco 'Reality' Dynasty",
+    "entries.testers.names.144": "edabonacci",
+    "entries.testers.names.145": "Eduardo 'KGrindelwald' Chang",
+    "entries.testers.names.146": "Emilio \"Deathberry\" Lachaine",
+    "entries.testers.names.147": "Emmanuel TRASSART",
+    "entries.testers.names.148": "Enno Hansjürgen",
+    "entries.testers.names.149": "Eric 'BreakerBeam' Tacher",
+    "entries.testers.names.150": "Erik 'Teras' Steinhagen",
+    "entries.testers.names.151": "Felix the Unmighty",
+    "entries.testers.names.152": "flgr",
+    "entries.testers.names.153": "FuBe 0815",
+    "entries.testers.names.154": "Giovanni Tagliamonte",
+    "entries.testers.names.155": "Glagroon",
+    "entries.testers.names.156": "Glenn Tomczak",
+    "entries.testers.names.157": "gRuFtY",
+    "entries.testers.names.158": "HamsterBob",
+    "entries.testers.names.159": "Hayden McAfee",
+    "entries.testers.names.160": "Haydon Bakker",
+    "entries.testers.names.161": "Hendrik Wilka",
+    "entries.testers.names.162": "Horoneru",
+    "entries.testers.names.163": "Iker 'Scrivaret' River(Hexa)cast",
+    "entries.testers.names.164": "itfitz",
+    "entries.testers.names.165": "Jack 'Czar' Morris",
+    "entries.testers.names.166": "James 'Jimmeth' Mulholland",
+    "entries.testers.names.167": "James 'Nazacra' Fryer",
+    "entries.testers.names.168": "James Gregor",
+    "entries.testers.names.169": "Jan 'Barney' Schneider",
+    "entries.testers.names.170": "Jan Meraide Wiesenauer ",
+    "entries.testers.names.171": "Jan van den Brand",
+    "entries.testers.names.172": "Jannis Lennart Hell",
+    "entries.testers.names.173": "Jay \"Seraph\" Dietrich",
+    "entries.testers.names.174": "Jörg Tremmel",
+    "entries.testers.names.175": "Jens \"Kuro\" Reuter",
+    "entries.testers.names.176": "Jeremy 'Gwen' Vroegen",
+    "entries.testers.names.177": "Jerodar",
+    "entries.testers.names.178": "Johannes \"warraptor2\" Nguyen",
+    "entries.testers.names.179": "Johnny Ratfiend",
+    "entries.testers.names.180": "Jonas Dahms",
+    "entries.testers.names.181": "Jonathan Goetz",
+    "entries.testers.names.182": "Joshua 'Xyfero' Findon",
+    "entries.testers.names.183": "Julia \"FlareShard\" Hartl",
+    "entries.testers.names.184": "Julian Mattke",
+    "entries.testers.names.185": "Juri Weber",
+    "entries.testers.names.186": "Kat 'Neptune' Tyler",
+    "entries.testers.names.187": "Kevin \"Keybe\" Bahrs",
+    "entries.testers.names.188": "Kevin Mayorga",
+    "entries.testers.names.189": "Kevin Patches Holbrook",
+    "entries.testers.names.190": "Kevin W. - \"MasterKain94\"",
+    "entries.testers.names.191": "Kieron Overton",
+    "entries.testers.names.192": "Kira 'Antichrist' Uhlig",
+    "entries.testers.names.193": "Konstantin Zyryanov",
+    "entries.testers.names.194": "KooBooLdd",
+    "entries.testers.names.195": "Kosac07",
+    "entries.testers.names.196": "Kuzma",
+    "entries.testers.names.197": "Kyle Slazinik",
+    "entries.testers.names.198": "Lagen Scheit",
+    "entries.testers.names.199": "Lina 'Auxeras' Dzierzbicki",
+    "entries.testers.names.200": "Lucas 'Ensis' Thiemann",
+    "entries.testers.names.201": "Luna Huizinga (PixelGirl)",
+    "entries.testers.names.202": "Manuel 'Geeklich' Martinez",
+    "entries.testers.names.203": "Marco 'Rommsta' Friedrichs",
+    "entries.testers.names.204": "Martin \"Takaya\" Böhme",
+    "entries.testers.names.205": "Matt 'Buggzor' Sobolewski",
+    "entries.testers.names.206": "Matthew Campagna",
+    "entries.testers.names.207": "Matthias 'DodoCommando' Lubbers",
+    "entries.testers.names.208": "Max \"Vesperia\" B.",
+    "entries.testers.names.209": "Michael \"Kaoschan\" Gajda",
+    "entries.testers.names.210": "Michael 'Sephka' Perkins",
+    "entries.testers.names.211": "Miguel 'MkayIndianaJones' Christiansen",
+    "entries.testers.names.212": "Mithaldu",
+    "entries.testers.names.213": "Mitsuru Sangral",
+    "entries.testers.names.214": "My Breakfast This Morning",
+    "entries.testers.names.215": "NATEINCAPS",
+    "entries.testers.names.216": "Nathan Ogden",
+    "entries.testers.names.217": "Nenoa",
+    "entries.testers.names.218": "Nickolay 'ForsakenFox' Ryzhov",
+    "entries.testers.names.219": "Niklas Rohde / xXBlackEnergyXx",
+    "entries.testers.names.220": "Nils 'ExDeath' Lenertat",
+    "entries.testers.names.221": "Oliver Nischwitz",
+    "entries.testers.names.222": "Om Mani 'Peme' Hung",
+    "entries.testers.names.223": "Omer Neu",
+    "entries.testers.names.224": "PakratosR7",
+    "entries.testers.names.225": "Panzareon",
+    "entries.testers.names.226": "Patrick Keller",
+    "entries.testers.names.227": "Pedroichi",
+    "entries.testers.names.228": "Peter Kristoffersen",
+    "entries.testers.names.229": "Philippe Lagardere",
+    "entries.testers.names.230": "Phiqu",
+    "entries.testers.names.231": "Pierre \"Clipperton\" Macaire",
+    "entries.testers.names.232": "psam",
+    "entries.testers.names.233": "Quang Hue Tran",
+    "entries.testers.names.234": "ReploidSham",
+    "entries.testers.names.235": "Richard Nichols",
+    "entries.testers.names.236": "Robert 'Tsett' Zimmermann",
+    "entries.testers.names.237": "Robert Fogle",
+    "entries.testers.names.238": "RoccoR",
+    "entries.testers.names.239": "Rota Fortunae",
+    "entries.testers.names.240": "Rotdoz",
+    "entries.testers.names.241": "Rowanism",
+    "entries.testers.names.242": "Ryuxan",
+    "entries.testers.names.243": "S. \"Innocentia\" Harlos",
+    "entries.testers.names.244": "Scott Dennison (SukottoD)",
+    "entries.testers.names.245": "Sean \"CyberKitsune\" McClenaghan",
+    "entries.testers.names.246": "Shawn",
+    "entries.testers.names.247": "Starbeamrainbowlabs",
+    "entries.testers.names.248": "Stefan Roderich Richter",
+    "entries.testers.names.249": "Stefan Schatzl",
+    "entries.testers.names.250": "Sunshine Bear",
+    "entries.testers.names.251": "Sven Zimmermann",
+    "entries.testers.names.252": "Tiago Bluemel Cardoso",
+    "entries.testers.names.253": "Timothy \"Shachihoko\" Miller",
+    "entries.testers.names.254": "Torsten Spieldenner",
+    "entries.testers.names.255": "ToxicPercival",
+    "entries.testers.names.256": "Trypetide",
+    "entries.testers.names.257": "TwiliLink",
+    "entries.testers.names.258": "Vanessa the Williams",
+    "entries.testers.names.259": "Victor Massini",
+    "entries.testers.names.260": "Vincent Paul Dinger aka Ark626",
+    "entries.testers.names.261": "Wieland 'Der Schilderich' Möbus",
+    "entries.testers.names.262": "Will Cho",
+    "entries.testers.names.263": "Wybe \"WhyBe\" Janssen",
+    "entries.testers.names.264": "Xephyr",
+    "entries.testers.names.265": "XSystem252",
+    "entries.testers.names.266": "Yamakyu",
+    "entries.testers.names.267": "Yashoro",
+    "entries.testers.names.268": "Zur700",
+    "entries.testers.names.269": "6bruno9",
+    "entries.testers.names.270": "Adrien Voirol",
+    "entries.testers.names.271": "Alex \"*Mute\" R.",
+    "entries.testers.names.272": "Alexander \"Borgmo\" Yuschuk",
+    "entries.testers.names.273": "Andreas 'audi1993' Hartmann",
+    "entries.testers.names.274": "Anton 'mrkun' Chaynikov",
+    "entries.testers.names.275": "Arkblonable",
+    "entries.testers.names.276": "BeardBear",
+    "entries.testers.names.277": "Benjamin Lipton",
+    "entries.testers.names.278": "Boris Schierle",
+    "entries.testers.names.279": "Brandon 'Brat' Parsons",
+    "entries.testers.names.280": "Caleb Bott \"Cyberbrickmaster\"",
+    "entries.testers.names.281": "Cem KenDeep Anar",
+    "entries.testers.names.282": "Cheynas",
+    "entries.testers.names.283": "Christian Masser",
+    "entries.testers.names.284": "Clemens Sielaff",
+    "entries.testers.names.285": "Daniel \"Firechu\" Roa",
+    "entries.testers.names.286": "David Henninger",
+    "entries.testers.names.287": "Devon Obrecht",
+    "entries.testers.names.288": "DFDelta",
+    "entries.testers.names.289": "Disinterested_",
+    "entries.testers.names.290": "Dominik 'Enkidu' Freiburg",
+    "entries.testers.names.291": "Eddie \"VPURecover\" Mitchell",
+    "entries.testers.names.292": "Erik \"Migon\" Lystad",
+    "entries.testers.names.293": "Fabian Guth",
+    "entries.testers.names.294": "Flavio Chierichetti",
+    "entries.testers.names.295": "Frankstar",
+    "entries.testers.names.296": "FrozenTux",
+    "entries.testers.names.297": "GamerXP",
+    "entries.testers.names.298": "Heine Elias Karlsen Andersen",
+    "entries.testers.names.299": "Ignacio '4RobeRT' Recio Gómez",
+    "entries.testers.names.300": "Jacob Jakobsson",
+    "entries.testers.names.301": "Jan-Niklas Carstensen",
+    "entries.testers.names.302": "Jason Fortin",
+    "entries.testers.names.303": "Jendrik \"paranoidSpectre\" Witt",
+    "entries.testers.names.304": "Jenocke",
+    "entries.testers.names.305": "Jens 'Assakes' Haarmann",
+    "entries.testers.names.306": "Jesse Philemon ",
+    "entries.testers.names.307": "Josh 'Rex705' Clark",
+    "entries.testers.names.308": "Julian Chan",
+    "entries.testers.names.309": "Kyle Baadsvik",
+    "entries.testers.names.310": "Laurent Haan",
+    "entries.testers.names.311": "Lawrence Shagsworth",
+    "entries.testers.names.312": "Lucien 'Phundrak' Cartier-Tilet",
+    "entries.testers.names.313": "Marcel 'CrayveN' Funk",
+    "entries.testers.names.314": "Mike 'vapier' Frysinger",
+    "entries.testers.names.315": "Motom",
+    "entries.testers.names.316": "Mouzi",
+    "entries.testers.names.317": "Nam 'Blitznae' Le",
+    "entries.testers.names.318": "Namregog",
+    "entries.testers.names.319": "Niklas Ley",
+    "entries.testers.names.320": "Nils Budde ",
+    "entries.testers.names.321": "Oleg \"Olesch\" Yuschuk",
+    "entries.testers.names.322": "Orphansmith",
+    "entries.testers.names.323": "Pat Neeland (Patois)",
+    "entries.testers.names.324": "Pavel Khlopin",
+    "entries.testers.names.325": "RenjixD",
+    "entries.testers.names.326": "Robin Skowronnek",
+    "entries.testers.names.327": "Samuel \"Sääähm\" Gruber",
+    "entries.testers.names.328": "Sangmook Lee",
+    "entries.testers.names.329": "Scaine",
+    "entries.testers.names.330": "Schaaf dasMaeh",
+    "entries.testers.names.331": "Scott McKie",
+    "entries.testers.names.332": "Sebastian 'Paneka' Mauch",
+    "entries.testers.names.333": "Silas Coldfire",
+    "entries.testers.names.334": "Smurphicus",
+    "entries.testers.names.335": "SoundHunter",
+    "entries.testers.names.336": "Stephen east",
+    "entries.testers.names.337": "Sylvester Veenstra ",
+    "entries.testers.names.338": "Tarik Horton",
+    "entries.testers.names.339": "Teddy 'Gåsen' Sjöström",
+    "entries.testers.names.340": "Tim 'Kazsh' Hagedorn",
+    "entries.testers.names.341": "Tim Platzke",
+    "entries.testers.names.342": "Timbo",
+    "entries.testers.names.343": "Tobias 'Tobi042' Theobald",
+    "entries.testers.names.344": "Tony C",
+    "entries.testers.names.345": "Toyoch",
+    "entries.testers.names.346": "Tyler Thomas",
+    "entries.testers.names.347": "WhenChukAttacks",
+    "entries.testers.names.348": "William O'Neill",
+    "entries.testers.names.349": "Windsor 'TLG' Kasekende",
+    "entries.testers.names.350": "Yann 'Sabata' Perrichon"
   },
   "assets/data/credits/beta-tester.json": {
     "entries.header.header": "ベタ版テスター<<A<<[CHANGED 2018/09/14]",
+    "entries.testers.header": "en_US",
     "entries.testers.names.0": "Adrian \"Firecrow\" Boivin<<A<<[CHANGED 2018/09/17]",
     "entries.testers.names.1": "Dennis 'HerrDekay' Kröner<<A<<[CHANGED 2018/08/28]",
     "entries.testers.names.2": "Eivind \"flesk\" K. Nilsbakken<<A<<[CHANGED 2018/08/28]",
@@ -3076,7 +3979,7 @@
     "commonEvents.fixCombatRank.event.1.titleText": "戦闘ランク有効",
     "commonEvents.fixCombatRank.event.1.text": "今は無効化すべきでない、戦闘ランクが有効になった。",
     "commonEvents.newSkills.event.1.thenStep.1.title": "サーキット更新",
-    "commonEvents.newSkills.event.1.thenStep.1.content": "",
+    "commonEvents.newSkills.event.1.thenStep.1.content": "This update introduces many new skills including \\c[3]all level two combat arts\\c[0]. In addition, some skills have been moved.\n\nThat's why we recommend you to reset your circuit to reassign your skill points.\n\n\\c[3]Do you want to reset all your circuits?\\c[0]",
     "commonEvents.newSkills.event.1.thenStep.1.acceptStep.1.object": "サーキットツリー確認",
     "commonEvents.circuitOverride.event.6.thenStep.2.object": "\\v[item.428.name] x \\v[tmp.circuitOverrideCount]<<A<<[CHANGED 2017/12/11]",
     "commonEvents.circuitOverride.event.6.thenStep.4.titleText": "サーキットリセット機能更新<<A<<[CHANGED 2017/12/11]",
@@ -3237,24 +4140,25 @@
     "drops.STONE_AGES.name": "時空の芽<<A<<[CHANGED 2018/07/09]",
     "drops.STONE_AGES.subArea": "\\c[3]\\v[area.rhombus-sqr.name]\\c[0]の隔絶された庭園地帯で見つけた。<<A<<[CHANGED 2018/08/01]",
     "drops.Cold-Dng-1-bug.name": "アルファ・エッグポット",
+    "drops.Cold-Dng-1-bug.subArea": "en_US",
     "drops.Cold-Dng-3-bug.name": "ガンマ・エッグポット",
-    "drops.Cold-Dng-3-bug.subArea": "",
+    "drops.Cold-Dng-3-bug.subArea": "en_US",
     "drops.Cold-Dng-2-bug.name": "ベータ・エッグポット",
-    "drops.Cold-Dng-2-bug.subArea": "",
+    "drops.Cold-Dng-2-bug.subArea": "en_US",
     "drops.Cold-Dng-4-bug.name": "デルタ・エッグポット",
-    "drops.Cold-Dng-4-bug.subArea": "",
+    "drops.Cold-Dng-4-bug.subArea": "en_US",
     "drops.Cold-Dng-Special-1-bug.name": "オメガ・エッグポットA",
-    "drops.Cold-Dng-Special-1-bug.subArea": "",
+    "drops.Cold-Dng-Special-1-bug.subArea": "en_US",
     "drops.Cold-Dng-Special-2-bug.name": "オメガ・エッグポットB",
-    "drops.Cold-Dng-Special-2-bug.subArea": "",
+    "drops.Cold-Dng-Special-2-bug.subArea": "en_US",
     "drops.jungle-bees-2.name": "ハチノス(右)",
-    "drops.jungle-bees-2.subArea": "",
+    "drops.jungle-bees-2.subArea": "en_US",
     "drops.jungle-bees-3.name": "ハチノス(左)",
-    "drops.jungle-bees-3.subArea": "",
+    "drops.jungle-bees-3.subArea": "en_US",
     "drops.AA_TUTORIAL_2.name": "AA_TUTORIAL_2",
     "drops.AA_TUTORIAL_1.name": "AA_TUTORIAL_1",
     "drops.AutumnPlantA.name": "オータム・テストプラント",
-    "drops.AutumnPlantA.subArea": "",
+    "drops.AutumnPlantA.subArea": "en_US",
     "enemies.snowman.name": "カロット",
     "enemies.snowman.species": "動く魔法の雪だるま",
     "enemies.snowman.descriptions.0.text": "孤独に耐えきれなかった魔女が命を吹き込んだとされる、とても興味深いモンスター。しかしこのモンスターもまた、独り残されたことにより、ガトリング銃を持った怒れる存在へと変わってしまった。\nただの雪だるまのフリをすることにより、人々を近くへと引き寄せ、近づいてきた者に自ら攻撃を仕掛ける。\n長い間近くにいると、地面に体を叩きつける攻撃により大ダメージを受けてしまうので、戦う時は距離を取る必要がある。<<A<<[CHANGED 2018/09/19]",
@@ -3344,6 +4248,12 @@
     "enemies.jungle.special.snowman-jungle-boss-scene.species": "観光雪だるま<<A<<[CHANGED 2018/08/01]",
     "enemies.jungle.special.iceWall.name": "氷の壁<<A<<[CHANGED 2018/09/14]",
     "enemies.jungle.special.iceWall.species": "成形された氷<<A<<[CHANGED 2018/08/01]",
+    "enemies.arid.laser-catcher.name": "arid.laser-catcher",
+    "enemies.arid.laser-catcher.species": "en_US",
+    "enemies.special.sergey-hax.name": "special.sergey-hax",
+    "enemies.special.sergey-hax.species": "en_US",
+    "enemies.special.sergey-hax2.name": "special.sergey-hax2",
+    "enemies.special.sergey-hax2.species": "en_US",
     "enemies.avatar.apollo.name": "アポロ",
     "enemies.avatar.apollo.descriptions.0.text": "自称正義の戦士。レアがチート行為を行っていると非難し、彼女に対して決闘を申し込んだ。なかなかの実力を持つファイターで、追い込まれるとさらに凶悪な攻撃や行動を取り始める。<<A<<[CHANGED 2018/09/19]",
     "enemies.avatar.apollo.species": "正義の戦士",
@@ -4526,16 +5436,36 @@
     "quests.botanics.tasks.6.task": "\\c[3]クロスワールド内の植物\\c[0]の分析を続行する。<<A<<[CHANGED 2018/07/09]",
     "quests.botanics.tasks.7.task": "\\c[3]\\v[area.rookie-harbor.name]のクエストハブ\\c[0]でタラチュ・リップと会う<<A<<[CHANGED 2018/07/09]",
     "quests.botanics.tasks.8.task": "タラチュを追って\\c[3]\\v[area.rookie-harbor.name] - 北\\c[0]の北部にある家に入る<<A<<[CHANGED 2018/07/09]",
-    "quests.subquest-test.tasks.0.task": "",
-    "quests.subquest-test.tasks.1.task": "",
-    "quests.subquest-test.tasks.2.task": "",
-    "quests.subquest-test-1.tasks.0.task": "",
-    "quests.subquest-test-2.tasks.0.task": "",
-    "quests.subquest-test-3.tasks.0.task": "",
-    "quests.timer-test.tasks.0.task": "",
-    "quests.timer-test.tasks.0.subtasks.0.text": "",
-    "quests.timer-test.tasks.0.subtasks.0.shortText": "",
-    "quests.timer-test.tasks.1.task": "",
+    "quests.subquest-test.name": "Subquest Test",
+    "quests.subquest-test.person": "Subquest Guy",
+    "quests.subquest-test.description": "Here's to you.",
+    "quests.subquest-test.briefing": "Awesome!",
+    "quests.subquest-test.tasks.0.task": "1.Task",
+    "quests.subquest-test.tasks.1.task": "2. Task",
+    "quests.subquest-test.tasks.2.task": "3. Task",
+    "quests.subquest-test-1.name": "SubQuest #1",
+    "quests.subquest-test-1.person": "en_US",
+    "quests.subquest-test-1.description": "subquest #1 collect",
+    "quests.subquest-test-1.briefing": "Nice #1",
+    "quests.subquest-test-1.tasks.0.task": "Collect Stuff",
+    "quests.subquest-test-2.name": "SubQuest #2",
+    "quests.subquest-test-2.person": "en_US",
+    "quests.subquest-test-2.description": "subquest #2 kill",
+    "quests.subquest-test-2.briefing": "Nice #2",
+    "quests.subquest-test-2.tasks.0.task": "Kill enemy",
+    "quests.subquest-test-3.name": "SubQuest #3",
+    "quests.subquest-test-3.person": "en_US",
+    "quests.subquest-test-3.description": "subquest #3 condition",
+    "quests.subquest-test-3.briefing": "Nice #3",
+    "quests.subquest-test-3.tasks.0.task": "Solve the Condition",
+    "quests.timer-test.name": "Timer Test Countdown",
+    "quests.timer-test.person": "Test Gamer",
+    "quests.timer-test.description": "Test them timers yo.",
+    "quests.timer-test.briefing": "You tested them timers yo.",
+    "quests.timer-test.tasks.0.task": "Let the race begin!",
+    "quests.timer-test.tasks.0.subtasks.0.text": "Go to the first marker to start the race!",
+    "quests.timer-test.tasks.0.subtasks.0.shortText": "Go to the first marker!",
+    "quests.timer-test.tasks.1.task": "Finish the parkour in under \\c[3]20 seconds\\c[0]",
     "quests.daft-frobbit.name": "ホログラム・フロビット追走劇<<A<<[CHANGED 2017/08/03]",
     "quests.daft-frobbit.person": "ディー・オルビス<<A<<[CHANGED 2017/08/03]",
     "quests.daft-frobbit.description": "オータムフォールの中ずっと、奇妙なホログラム・フロビットの後を追い続ける<<A<<[CHANGED 2017/08/03]",
@@ -5659,7 +6589,8 @@
     "meta.species": "エヴォター<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/enemies/arid/laser-catcher.json": {
-    "proxies.detector.action.3.elseStep.0.text": "エヴォターが見つかりません。<<A<<[CHANGED 2018/07/09]"
+    "proxies.detector.action.3.elseStep.0.text": "エヴォターが見つかりません。<<A<<[CHANGED 2018/07/09]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/arid/mega-laser.json": {
     "meta.species": "デスマシーン<<A<<[CHANGED 2017/11/04]",
@@ -6693,11 +7624,13 @@
     "meta.descriptions.0.text": "反撃を受けることなく、初心者プレイヤーが\\c[3]コンバットアーツ\\c[0]や様々なテクニックを試すことができる練習台。 <<A<<[CHANGED 2018/07/09]"
   },
   "assets/data/enemies/special/sergey-hax.json": {
-    "proxies.playerHack.action.4.text": "攻撃バフ<<A<<[CHANGED 2018/03/14]"
+    "proxies.playerHack.action.4.text": "攻撃バフ<<A<<[CHANGED 2018/03/14]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/special/sergey-hax2.json": {
     "proxies.shredderHack.action.12.thenStep.0.thenStep.11.text": "固定完了<<A<<[CHANGED 2018/07/09]",
-    "proxies.shredderShieldHack.action.3.text": "ハック<<A<<[CHANGED 2018/07/09]"
+    "proxies.shredderShieldHack.action.3.text": "ハック<<A<<[CHANGED 2018/07/09]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/special/target-bot.json": {
     "meta.species": "トレーニング用ボット<<A<<[CHANGED 2017/08/03]",
@@ -11111,6 +12044,10 @@
   "assets/data/maps/arid/town-2.json": {
     "entities.290.settings.blockEvent.0.elseStep.4.message": "このツアーには川エリアは\n含まれてないんだ。\nもう昨日行ったところだしな。<<A<<[CHANGED 2018/01/14]",
     "entities.290.settings.blockEvent.0.elseStep.5.message": "…<<A<<[CHANGED 2018/01/14]",
+    "entities.380.settings.teleportLabel": "en_US",
+    "entities.381.settings.teleportLabel": "en_US",
+    "entities.382.settings.teleportLabel": "en_US",
+    "entities.383.settings.teleportLabel": "en_US",
     "entities.389.settings.interact.hoverText": "\\i[arrow-n] \\c[1]進入禁止エリア\\c[0]\n\\i[arrow-e] 宿舎\n\\i[arrow-s] 川\n\\i[arrow-w] 湖<<A<<[CHANGED 2018/03/14]",
     "entities.394.settings.event.0.message": "よし、着いたぞ。そこの大きな建物がそうだ。<<A<<[CHANGED 2017/11/04]",
     "entities.397.settings.dialog.0.text": "北のほうには行くなよ、痛い目にあうぞ…<<A<<[CHANGED 2017/11/04]",
@@ -11262,6 +12199,7 @@
     "entities.461.settings.npcStates.0.event.0.elseStep.3.message": "お願い…\\.\n私を放っておいて。<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/arid-dng/first/jump-last.json": {
+    "entities.1.settings.destinations.0.label": "en_US",
     "entities.2.settings.event.8.message": "\\s[5]ぁぁぁぁぁあああああっ？！<<A<<[CHANGED 2018/03/14]",
     "entities.2.settings.event.23.message": "お、お、俺たち、第4の壁かなにかを\n マジでぶち破ったのか？！<<A<<[CHANGED 2018/03/14]",
     "entities.2.settings.event.24.message": "…<<A<<[CHANGED 2018/03/14]",
@@ -11686,12 +12624,14 @@
     "entities.64.settings.event.131.message": "レア、彼を止めてくれ！\\.\nどんな手を使ってでも！<<A<<[CHANGED 2018/08/28]",
     "entities.64.settings.event.141.message": "待って！！<<A<<[CHANGED 2018/08/28]",
     "entities.64.settings.event.169.message": "ログアウトする時間が来た。<<A<<[CHANGED 2018/08/28]",
-    "entities.64.settings.event.174.message": "\\s[6]ガウタム、ダメだ！！！<<A<<[CHANGED 2018/09/02]"
+    "entities.64.settings.event.174.message": "\\s[6]ガウタム、ダメだ！！！<<A<<[CHANGED 2018/09/02]",
+    "entities.66.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/arid-dng/second/f99/pre-server.json": {
     "entities.47.settings.event.13.text": "キー承認<<A<<[CHANGED 2018/08/28]",
     "entities.47.settings.event.17.text": "キー承認<<A<<[CHANGED 2018/08/28]",
-    "entities.47.settings.event.20.text": "キー承認<<A<<[CHANGED 2018/08/28]"
+    "entities.47.settings.event.20.text": "キー承認<<A<<[CHANGED 2018/08/28]",
+    "entities.48.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/arid-dng/second/f99/server-room.json": {
     "entities.27.settings.event.8.message": "とうとう来たか。<<A<<[CHANGED 2018/09/02]",
@@ -11898,10 +12838,10 @@
     "entities.92.settings.npcStates.6.event.0.name": "控えめなお手伝い",
     "entities.92.settings.npcStates.6.event.2.message": "こんにちは、\\v[lore.title.seeker]さん！\\.どうか旅路を楽しんでくださいね。",
     "entities.92.settings.npcStates.6.event.3.message": "[うなずく]",
-    "entities.93.settings.teleportLabel": "",
-    "entities.94.settings.teleportLabel": "",
-    "entities.95.settings.teleportLabel": "",
-    "entities.96.settings.teleportLabel": "",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
+    "entities.96.settings.teleportLabel": "en_US",
     "entities.97.settings.interact.hoverText": "\\i[arrow-w] \\v[area.bergen-trails.name]への道\n\\i[arrow-e] \\v[area.rookie-harbor.name]",
     "entities.101.settings.event.1.title": "コンバットランク",
     "entities.101.settings.event.1.content": "高いほど倒した敵からアイテムを手に入れやすくなる\\c[3]コンバットランク\\c[0]の上げ方。",
@@ -11950,10 +12890,10 @@
     "entities.10.settings.interact.title": "\\c[3]オータムレジデンス\\c[0]<<A<<[CHANGED 2017/08/03]",
     "entities.13.settings.interact.hoverText": "ラストミニッツヒーローズ",
     "entities.15.settings.interact.hoverText": "ラストミニッツヒーローズ",
-    "entities.159.settings.teleportLabel": "",
-    "entities.160.settings.teleportLabel": "",
-    "entities.161.settings.teleportLabel": "",
-    "entities.162.settings.teleportLabel": "",
+    "entities.159.settings.teleportLabel": "en_US",
+    "entities.160.settings.teleportLabel": "en_US",
+    "entities.161.settings.teleportLabel": "en_US",
+    "entities.162.settings.teleportLabel": "en_US",
     "entities.178.settings.event.1.text": "アクセス拒否",
     "entities.181.settings.event.2.message": "左のほうに行くぞ。",
     "entities.181.settings.event.3.message": "わあ、まるで小さな村みたい！"
@@ -13424,6 +14364,10 @@
     "entities.284.settings.interact.event.4.text": "それじゃ…じゃあね。<<A<<[CHANGED 2017/08/03]"
   },
   "assets/data/maps/autumn/lake-observatory.json": {
+    "entities.518.settings.teleportLabel": "en_US",
+    "entities.519.settings.teleportLabel": "en_US",
+    "entities.520.settings.teleportLabel": "en_US",
+    "entities.521.settings.teleportLabel": "en_US",
     "entities.524.settings.npcStates.1.event.quest.2.message": "…！",
     "entities.524.settings.npcStates.1.event.quest.3.message": "ああ、こんにちは。",
     "entities.524.settings.npcStates.1.event.quest.4.message": "やぁ！",
@@ -13872,10 +14816,10 @@
     "entities.820.settings.text": "ヘンリーが取り付けたデータプローブ。データは回収されている。"
   },
   "assets/data/maps/autumn/path-8.json": {
-    "entities.3.settings.teleportLabel": "",
-    "entities.4.settings.teleportLabel": "",
-    "entities.5.settings.teleportLabel": "",
-    "entities.6.settings.teleportLabel": "",
+    "entities.3.settings.teleportLabel": "en_US",
+    "entities.4.settings.teleportLabel": "en_US",
+    "entities.5.settings.teleportLabel": "en_US",
+    "entities.6.settings.teleportLabel": "en_US",
     "entities.7.settings.interact.hoverText": "\\i[arrow-ne] \\v[area.bergen-trails.name]\n \\i[arrow-se] \\v[area.rookie-harbor.name]への道",
     "entities.429.settings.event.5.message": "おっと！",
     "entities.429.settings.event.9.thenStep.0.message": "こんにちは、お嬢さん！",
@@ -13959,8 +14903,10 @@
     "entities.606.settings.npcStates.1.event.3.message": "やぁ！",
     "entities.606.settings.npcStates.1.event.4.message": "ジーンには全部DLしておくから、あいつには報告しなくてもいいよ。",
     "entities.606.settings.npcStates.1.event.5.message": "…",
-    "entities.610.settings.teleportLabel": "",
-    "entities.611.settings.teleportLabel": "",
+    "entities.608.settings.teleportLabel": "en_US",
+    "entities.609.settings.teleportLabel": "en_US",
+    "entities.610.settings.teleportLabel": "en_US",
+    "entities.611.settings.teleportLabel": "en_US",
     "entities.616.settings.dialog.0.text": "あのお宝、本当に欲しいなあ…",
     "entities.616.settings.dialog.1.text": "もうあきらめたら？",
     "entities.616.settings.dialog.2.text": "開けるのに必要なキーアイテムがないんだから。",
@@ -14118,6 +15064,10 @@
   },
   "assets/data/maps/autumn-fall/path-01.json": {
     "entities.30.settings.interact.hoverText": "\\i[arrow-ne] \\v[area.jungle.name]への道\n \\i[arrow-se] \\v[area.rookie-harbor.name]",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.33.settings.teleportLabel": "en_US",
+    "entities.34.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
     "entities.531.settings.event.0.message": "ここには昔、村が\nあったみたいだね。<<A<<[CHANGED 2018/09/02]",
     "entities.531.settings.event.1.thenStep.0.message": "ずっと、ずっと昔のことでしょう。\\.\nまさに「いにしえ」ですね。<<A<<[CHANGED 2018/09/02]",
     "entities.532.settings.event.0.message": "レーザーの橋が戻ってきたね！<<A<<[CHANGED 2018/09/02]",
@@ -14156,6 +15106,10 @@
     "entities.601.settings.blockEvent.3.message": "シ・トロンと他のみんなが\n\\c[3]ファーストスカラーの本部\\c[0]で\n待ってるんじゃなかったかい？<<A<<[CHANGED 2018/07/09]",
     "entities.601.settings.blockEvent.4.message": "\\c[3]サファイア峰\\c[0]に行く前に、\n本部に行ったほうがいいと思うな。<<A<<[CHANGED 2018/07/09]",
     "entities.601.settings.blockEvent.5.message": "…<<A<<[CHANGED 2018/07/09]",
+    "entities.695.settings.teleportLabel": "en_US",
+    "entities.696.settings.teleportLabel": "en_US",
+    "entities.697.settings.teleportLabel": "en_US",
+    "entities.698.settings.teleportLabel": "en_US",
     "entities.699.settings.interact.hoverText": "\\i[arrow-e] \\v[area.forest.name]へのトンネル\n\\i[arrow-w] \\v[area.jungle.name]<<A<<[CHANGED 2017/11/04]",
     "entities.704.settings.npcStates.0.event.2.message": "やあ、どうしたんだい？<<A<<[CHANGED 2017/11/04]",
     "entities.704.settings.npcStates.0.event.3.thenStep.0.message": "どうやら\\c[3]\\v[item.410.name]\\c[0]を手に入れたみたいだね！よかった！<<A<<[CHANGED 2017/11/04]",
@@ -14250,6 +15204,7 @@
     "entities.2.settings.blockEvent.3.elseStep.0.elseStep.3.message": "[うなずく]<<A<<[CHANGED 2017/08/03]",
     "entities.15.settings.interact.hoverText": "\\i[arrow-n] \\v[area.jungle.name]\n \\i[arrow-s] \\v[area.rookie-harbor.name]への道",
     "entities.18.settings.teleportLabel": "ja_JP",
+    "entities.19.settings.teleportLabel": "en_US",
     "entities.20.settings.teleportLabel": "ja_JP",
     "entities.21.settings.teleportLabel": "ja_JP",
     "entities.132.settings.event.1.text": "アクセス拒否",
@@ -14269,10 +15224,10 @@
     "entities.671.settings.event.5.message": "ああもう、聞いたことは\n忘れてちょうだい…<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/autumn-fall/path-07.json": {
-    "entities.6.settings.teleportLabel": "",
-    "entities.7.settings.teleportLabel": "",
-    "entities.8.settings.teleportLabel": "",
-    "entities.9.settings.teleportLabel": "",
+    "entities.6.settings.teleportLabel": "en_US",
+    "entities.7.settings.teleportLabel": "en_US",
+    "entities.8.settings.teleportLabel": "en_US",
+    "entities.9.settings.teleportLabel": "en_US",
     "entities.10.settings.interact.hoverText": "\\i[arrow-n] \\v[area.jungle.name]への道\n \\i[arrow-s] \\v[area.autumn-area.name]",
     "entities.613.settings.event.1.thenStep.0.thenStep.0.text": "<復帰地点変更><<A<<[CHANGED 2017/11/04]",
     "entities.618.settings.analyzable.text": "デガート<<A<<[CHANGED 2017/11/04]",
@@ -14388,6 +15343,7 @@
     "entities.16.settings.event.1.text": "アクセス拒否<<A<<[CHANGED 2017/08/03]",
     "entities.18.settings.teleportLabel": "ja_JP",
     "entities.20.settings.teleportLabel": "ja_JP",
+    "entities.21.settings.teleportLabel": "en_US",
     "entities.22.settings.teleportLabel": "ja_JP",
     "entities.33.settings.event.1.text": "アクセス拒否<<A<<[CHANGED 2017/08/03]",
     "entities.34.settings.event.1.text": "アクセス拒否<<A<<[CHANGED 2017/08/03]",
@@ -14609,10 +15565,10 @@
   },
   "assets/data/maps/bergen/bergen.json": {
     "entities.281.settings.interact.hoverText": "\\i[arrow-nw] 元老舗宿\n \\i[arrow-se] ベルゲンの山道",
-    "entities.282.settings.teleportLabel": "",
-    "entities.283.settings.teleportLabel": "",
-    "entities.284.settings.teleportLabel": "",
-    "entities.285.settings.teleportLabel": "",
+    "entities.282.settings.teleportLabel": "en_US",
+    "entities.283.settings.teleportLabel": "en_US",
+    "entities.284.settings.teleportLabel": "en_US",
+    "entities.285.settings.teleportLabel": "en_US",
     "entities.289.settings.interact.hoverText": "山の中にある静かな町。",
     "entities.289.settings.interact.title": "- \\c[3]ベルゲン\\c[0] -<<A<<[CHANGED 2017/08/03]",
     "entities.832.settings.dialog.0.text": "そっちの友だちと合流したいのは分かるけど、寒い中で立ってる必要があるのかい？\\.凍えそうだよ！",
@@ -14799,23 +15755,23 @@
     "entities.900.settings.event.31.message": "ああ、その通りだ。\\.それでは！"
   },
   "assets/data/maps/bergen/bergen2.json": {
-    "entities.155.settings.teleportLabel": "",
-    "entities.156.settings.teleportLabel": "",
-    "entities.157.settings.teleportLabel": "",
-    "entities.158.settings.teleportLabel": "",
-    "entities.159.settings.teleportLabel": "",
-    "entities.160.settings.teleportLabel": "",
-    "entities.161.settings.teleportLabel": "",
-    "entities.162.settings.teleportLabel": "",
-    "entities.163.settings.teleportLabel": "",
-    "entities.164.settings.teleportLabel": "",
-    "entities.165.settings.teleportLabel": "",
-    "entities.166.settings.teleportLabel": "",
+    "entities.155.settings.teleportLabel": "en_US",
+    "entities.156.settings.teleportLabel": "en_US",
+    "entities.157.settings.teleportLabel": "en_US",
+    "entities.158.settings.teleportLabel": "en_US",
+    "entities.159.settings.teleportLabel": "en_US",
+    "entities.160.settings.teleportLabel": "en_US",
+    "entities.161.settings.teleportLabel": "en_US",
+    "entities.162.settings.teleportLabel": "en_US",
+    "entities.163.settings.teleportLabel": "en_US",
+    "entities.164.settings.teleportLabel": "en_US",
+    "entities.165.settings.teleportLabel": "en_US",
+    "entities.166.settings.teleportLabel": "en_US",
     "entities.167.settings.teleportLabel": "クロスセントラル",
-    "entities.168.settings.teleportLabel": "",
-    "entities.169.settings.teleportLabel": "",
-    "entities.170.settings.teleportLabel": "",
-    "entities.171.settings.teleportLabel": "",
+    "entities.168.settings.teleportLabel": "en_US",
+    "entities.169.settings.teleportLabel": "en_US",
+    "entities.170.settings.teleportLabel": "en_US",
+    "entities.171.settings.teleportLabel": "en_US",
     "entities.264.settings.interact.hoverText": "\\i[arrow-nw] 神殿鉱山\n \\i[arrow-w] ベルゲン鉄道\n \\i[arrow-se] ベルゲンの山道",
     "entities.830.settings.analyzable.text": "ミス・ハット<<A<<[CHANGED 2018/01/06]",
     "entities.830.settings.npcStates.0.event.0.name": "ミス・ハット<<A<<[CHANGED 2018/01/06]",
@@ -16686,11 +17642,11 @@
     "entities.455.settings.npcStates.6.event.quest.47.message": "彼女に、あれは普通のヤング・フロビットだって言わないのかい？",
     "entities.455.settings.npcStates.6.event.quest.48.message": "[首を振る]",
     "entities.455.settings.npcStates.6.event.quest.49.message": "まあ…そうしたほうがいいのかもしれないな。",
-    "entities.457.settings.teleportLabel": "",
-    "entities.458.settings.teleportLabel": "",
-    "entities.459.settings.teleportLabel": "",
+    "entities.457.settings.teleportLabel": "en_US",
+    "entities.458.settings.teleportLabel": "en_US",
+    "entities.459.settings.teleportLabel": "en_US",
     "entities.460.settings.interact.hoverText": "\\i[arrow-n] ベルゲン村への上り道\n\\i[arrow-s] オータムライズ",
-    "entities.461.settings.teleportLabel": "",
+    "entities.461.settings.teleportLabel": "en_US",
     "entities.463.settings.interact.hoverText": "\\i[arrow-s] オータムライズ\n\\i[arrow-n] ベルゲン村への上り道",
     "entities.464.settings.interact.hoverText": "\\i[arrow-s] オータムライズ\n\\i[arrow-n] ベルゲン村への上り道",
     "entities.469.settings.event.12.message": "\\c[3]ベルゲンの山道\\c[0]だ、やっと着いたね！",
@@ -16985,10 +17941,10 @@
   },
   "assets/data/maps/bergen-trail/path-5.json": {
     "entities.9.settings.interact.hoverText": "\\i[arrow-n] ベルゲン村\n \\i[arrow-se] 山のふもと \n \\i[arrow-sw] わき道",
-    "entities.495.settings.teleportLabel": "",
-    "entities.497.settings.teleportLabel": "",
-    "entities.498.settings.teleportLabel": "",
-    "entities.499.settings.teleportLabel": "",
+    "entities.495.settings.teleportLabel": "en_US",
+    "entities.497.settings.teleportLabel": "en_US",
+    "entities.498.settings.teleportLabel": "en_US",
+    "entities.499.settings.teleportLabel": "en_US",
     "entities.518.settings.text": "隠者の家",
     "entities.520.settings.dialog.0.text": "ベルゲンの山道の警護担当だなんてついてないな、ほんと…",
     "entities.521.settings.event.0.message": "何もないところでポツンと建ってる\n小さなお家って、すてきじゃない？",
@@ -17101,10 +18057,10 @@
   },
   "assets/data/maps/bergen-trail/path-8.json": {
     "entities.530.settings.interact.hoverText": "\\i[arrow-w] ベルゲン村\n \\i[arrow-se] オータムライズへの下り道",
-    "entities.531.settings.teleportLabel": "",
-    "entities.532.settings.teleportLabel": "",
-    "entities.533.settings.teleportLabel": "",
-    "entities.534.settings.teleportLabel": "",
+    "entities.531.settings.teleportLabel": "en_US",
+    "entities.532.settings.teleportLabel": "en_US",
+    "entities.533.settings.teleportLabel": "en_US",
+    "entities.534.settings.teleportLabel": "en_US",
     "entities.538.settings.npcStates.1.event.quest.2.message": "…！",
     "entities.538.settings.npcStates.1.event.quest.3.message": "彼はどこ？",
     "entities.538.settings.npcStates.1.event.quest.4.message": "…",
@@ -17130,6 +18086,12 @@
     "entities.546.settings.event.29.name": "ニセ衛兵",
     "entities.546.settings.event.31.message": "…私たちの友達3人が、君といくらか時間をすごしたいようだしな。<<A<<[CHANGED 2018/09/19]",
     "entities.546.settings.event.33.message": "おいで、ジラ。\\.そしてさらばだ、\\v[lore.title.seeker]君！"
+  },
+  "assets/data/maps/bmt/boxes.json": {
+    "entities.18.settings.event.1.message": "Show them boxes!"
+  },
+  "assets/data/maps/bmt/puzzle.json": {
+    "entities.9.settings.npcStates.0.event.1.message": "You did it.\\. Yay and stuff."
   },
   "assets/data/maps/cargo-ship/boss.json": {
     "entities.15.settings.event.17.message": "これはなんとも都合のいいステージだな！",
@@ -18433,6 +19395,10 @@
     "entities.85.settings.event.58.message": "それに、あいつらもそっちにいるんだ。",
     "entities.85.settings.event.61.message": "じゃあな、レア。\\.クロスワールドを楽しむんだよ！",
     "entities.91.settings.teleportLabel": "エレベーターに行く<<A<<[CHANGED 2018/03/14]",
+    "entities.92.settings.teleportLabel": "en_US",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
     "entities.98.settings.event.6.message": "サプライズだよ！<<A<<[CHANGED 2018/03/14]",
     "entities.98.settings.event.7.message": "貨物船をなんとか正式な\n\\c[3]ランドマーク\\c[0]として追加したんだ。<<A<<[CHANGED 2018/03/14]",
     "entities.98.settings.event.8.message": "これで、君は好きな時に\n貨物船に戻ってこれるようになるよ。<<A<<[CHANGED 2018/03/14]",
@@ -19043,6 +20009,10 @@
     "entities.17.settings.npcStates.0.event.quest.4.declined.2.message": "<<C<<IGNORE",
     "entities.17.settings.npcStates.1.event.2.message": "<<C<<IGNORE",
     "entities.18.settings.npcStates.0.event.2.message": "<<C<<IGNORE",
+    "entities.21.settings.teleportLabel": "en_US",
+    "entities.22.settings.teleportLabel": "en_US",
+    "entities.23.settings.teleportLabel": "en_US",
+    "entities.24.settings.teleportLabel": "en_US",
     "entities.27.settings.npcStates.0.event.quest.2.message": "<<C<<IGNORE",
     "entities.27.settings.npcStates.0.event.quest.3.accepted.0.message": "<<C<<IGNORE",
     "entities.27.settings.npcStates.1.event.2.message": "<<C<<IGNORE",
@@ -20148,6 +21118,10 @@
     "entities.340.settings.dialog.6.text": "だよね…<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/forest/path-01-entrance.json": {
+    "entities.74.settings.teleportLabel": "en_US",
+    "entities.75.settings.teleportLabel": "en_US",
+    "entities.76.settings.teleportLabel": "en_US",
+    "entities.77.settings.teleportLabel": "en_US",
     "entities.127.settings.interact.hoverText": "\\i[arrow-w] \\v[area.autumn-fall.name]へのトンネル\n\\i[arrow-e] \\v[area.forest.name]へ<<A<<[CHANGED 2017/11/04]",
     "entities.491.settings.event.2.thenStep.9.message": "…！<<A<<[CHANGED 2018/07/09]",
     "entities.491.settings.event.2.thenStep.10.thenStep.1.message": "とうとう\\c[3]サファイア峰\\c[0]に\n足を踏み入れたな！<<A<<[CHANGED 2018/09/19]",
@@ -20213,6 +21187,7 @@
   },
   "assets/data/maps/forest/path-04-hostel.json": {
     "entities.519.settings.teleportLabel": "クロスセントラル<<A<<[CHANGED 2017/11/04]",
+    "entities.520.settings.teleportLabel": "en_US",
     "entities.928.settings.npcStates.0.event.quest.0.name": "ハウ・リン<<A<<[CHANGED 2018/05/01]",
     "entities.928.settings.npcStates.0.event.quest.2.message": "ああ…また小鳥がやってきたんだね。\nようこそ、小鳥さん！<<A<<[CHANGED 2018/07/09]",
     "entities.928.settings.npcStates.0.event.quest.3.message": "やぁ？<<A<<[CHANGED 2018/07/09]",
@@ -20253,6 +21228,13 @@
     "entities.933.settings.dialog.3.event.5.message": "ある人がね、現金を払うから\nある包みを運んでくれって\n頼んできたのさ。<<A<<[CHANGED 2018/09/19]",
     "entities.933.settings.dialog.3.event.6.message": "ニヤニヤ笑ってて気味が悪かったよ。<<A<<[CHANGED 2018/07/09]",
     "entities.933.settings.dialog.3.event.7.thenStep.1.object": "「お金」の手がかり<<A<<[CHANGED 2018/07/09]",
+    "entities.944.settings.teleportLabel": "en_US",
+    "entities.945.settings.teleportLabel": "en_US",
+    "entities.946.settings.teleportLabel": "en_US",
+    "entities.947.settings.teleportLabel": "en_US",
+    "entities.952.settings.teleportLabel": "en_US",
+    "entities.953.settings.teleportLabel": "en_US",
+    "entities.954.settings.teleportLabel": "en_US",
     "entities.955.settings.event.1.thenStep.0.message": "見て、あの川のところにすてきな\n普通の竹が生えてるよ。かわいいね。<<A<<[CHANGED 2018/09/02]",
     "entities.955.settings.event.1.elseStep.0.thenStep.0.message": "川の中に竹が生えてますね。\\.\nとても普通の竹です。<<A<<[CHANGED 2018/09/02]",
     "entities.955.settings.event.1.elseStep.0.elseStep.0.thenStep.0.message": "スフィロマンサーのレア！\nあそこに何の変哲もない竹の\n典型的な見本があるぞ！<<A<<[CHANGED 2018/09/02]",
@@ -20481,6 +21463,10 @@
     "entities.591.settings.event.10.text": "…忍耐の試練をやり直したければ、また私に声をかけろ…<<A<<[CHANGED 2018/07/09]"
   },
   "assets/data/maps/forest/path-08.json": {
+    "entities.249.settings.teleportLabel": "en_US",
+    "entities.250.settings.teleportLabel": "en_US",
+    "entities.251.settings.teleportLabel": "en_US",
+    "entities.252.settings.teleportLabel": "en_US",
     "entities.253.settings.interact.hoverText": "\\i[arrow-ne] 古びた道場\n\\i[arrow-se] サファイア・エリアへ<<A<<[CHANGED 2017/11/04]",
     "entities.961.settings.npcStates.0.event.quest.1.text": "…これはお前が探し求め、そして受けるべき試練…<<A<<[CHANGED 2018/07/09]",
     "entities.961.settings.npcStates.0.event.quest.13.text": "…素早さは諸刃の剣だ…<<A<<[CHANGED 2018/09/19]",
@@ -20580,6 +21566,10 @@
     "entities.216.settings.blockEvent.4.options.1.label": "[いいえ]<<A<<[CHANGED 2018/07/09]"
   },
   "assets/data/maps/forest/path-10.json": {
+    "entities.95.settings.teleportLabel": "en_US",
+    "entities.96.settings.teleportLabel": "en_US",
+    "entities.97.settings.teleportLabel": "en_US",
+    "entities.98.settings.teleportLabel": "en_US",
     "entities.99.settings.interact.hoverText": "古びた道場<<A<<[CHANGED 2017/11/04]",
     "entities.768.settings.interact.hoverText": "張り紙を読む<<A<<[CHANGED 2018/07/09]",
     "entities.768.settings.interact.title": "\\c[3]古びた道場\\c[0]<<A<<[CHANGED 2018/07/09]",
@@ -20616,6 +21606,10 @@
     "entities.367.settings.event.1.text": "アクセス拒否<<A<<[CHANGED 2018/05/01]"
   },
   "assets/data/maps/forest/path-12.json": {
+    "entities.22.settings.teleportLabel": "en_US",
+    "entities.23.settings.teleportLabel": "en_US",
+    "entities.24.settings.teleportLabel": "en_US",
+    "entities.25.settings.teleportLabel": "en_US",
     "entities.362.settings.interact.hoverText": "超越の神殿<<A<<[CHANGED 2018/09/02]",
     "entities.678.settings.event.0.thenStep.0.message": "ああもう、ここに来るまで\nとんだパルクールを\nするはめになったね！<<A<<[CHANGED 2018/09/02]",
     "entities.678.settings.event.0.elseStep.0.thenStep.0.message": "まったく、ずいぶんジャンプしましたね。\nそれだけの価値があればいいんですが！<<A<<[CHANGED 2018/09/02]",
@@ -21347,10 +22341,10 @@
     "entities.298.settings.dialog.5.text": "私にはムリ…"
   },
   "assets/data/maps/heat/path-01-entrance.json": {
-    "entities.2.settings.teleportLabel": "",
-    "entities.3.settings.teleportLabel": "",
-    "entities.4.settings.teleportLabel": "",
-    "entities.5.settings.teleportLabel": "",
+    "entities.2.settings.teleportLabel": "en_US",
+    "entities.3.settings.teleportLabel": "en_US",
+    "entities.4.settings.teleportLabel": "en_US",
+    "entities.5.settings.teleportLabel": "en_US",
     "entities.8.settings.interact.hoverText": "\\i[arrow-w] \\v[area.heat-village.name]への道\n \\i[arrow-e] \\v[area.bergen.name]へのレール",
     "entities.307.settings.dialog.0.text": "ようやくここまで来れたね！",
     "entities.307.settings.dialog.1.text": "\\v[area.bergen.name]の凍える寒さのあとには、この暑さはうれしいな。<<A<<[CHANGED 2018/09/19]",
@@ -21616,10 +22610,10 @@
     "entities.261.settings.event.4.message": "…！"
   },
   "assets/data/maps/heat/path-07.json": {
-    "entities.62.settings.teleportLabel": "",
-    "entities.63.settings.teleportLabel": "",
-    "entities.64.settings.teleportLabel": "",
-    "entities.65.settings.teleportLabel": "",
+    "entities.62.settings.teleportLabel": "en_US",
+    "entities.63.settings.teleportLabel": "en_US",
+    "entities.64.settings.teleportLabel": "en_US",
+    "entities.65.settings.teleportLabel": "en_US",
     "entities.318.settings.interact.hoverText": "\\i[arrow-w] \\v[area.heat-village.name]への道\n \\i[arrow-e] \\v[area.bergen.name]への道",
     "entities.321.settings.event.1.message": "みんなはちゃんと、私に話し合いについてのメールを送ったんだ。",
     "entities.321.settings.event.2.message": "そしたら何が起きたと思う？\nスパムフォルダに入ってたの！",
@@ -21676,6 +22670,10 @@
     "entities.324.settings.interact.event.31.message": "[うなずく]"
   },
   "assets/data/maps/heat/path-10.json": {
+    "entities.19.settings.teleportLabel": "en_US",
+    "entities.20.settings.teleportLabel": "en_US",
+    "entities.21.settings.teleportLabel": "en_US",
+    "entities.22.settings.teleportLabel": "en_US",
     "entities.151.settings.teleportLabel": "ファイロ神殿へ",
     "entities.157.settings.npcStates.0.event.2.message": "人間、\\c[3]砂時計型の建物\\c[0]にたどりつきたいのか？",
     "entities.157.settings.npcStates.0.event.3.message": "[うなずく]",
@@ -21715,10 +22713,10 @@
     "entities.160.settings.event.47.message": "よし！風景は目に焼き付けた！先に進もう。"
   },
   "assets/data/maps/heat/path-11.json": {
-    "entities.18.settings.teleportLabel": "",
-    "entities.19.settings.teleportLabel": "",
-    "entities.20.settings.teleportLabel": "",
-    "entities.21.settings.teleportLabel": "",
+    "entities.18.settings.teleportLabel": "en_US",
+    "entities.19.settings.teleportLabel": "en_US",
+    "entities.20.settings.teleportLabel": "en_US",
+    "entities.21.settings.teleportLabel": "en_US",
     "entities.437.settings.event.1.message": "もうそろそろみたいだね！",
     "entities.437.settings.event.2.message": "[うなずく]",
     "entities.446.settings.event.10.name": "ビルストン<<A<<[CHANGED 2017/08/03]",
@@ -22061,22 +23059,22 @@
   },
   "assets/data/maps/heat-village/baki-2.json": {
     "entities.19.settings.teleportLabel": "ja_JP",
-    "entities.20.settings.teleportLabel": "",
+    "entities.20.settings.teleportLabel": "en_US",
     "entities.21.settings.teleportLabel": "ja_JP",
-    "entities.22.settings.teleportLabel": "",
+    "entities.22.settings.teleportLabel": "en_US",
     "entities.23.settings.teleportLabel": "クロスセントラル",
-    "entities.24.settings.teleportLabel": "",
-    "entities.25.settings.teleportLabel": "",
-    "entities.26.settings.teleportLabel": "",
-    "entities.27.settings.teleportLabel": "",
-    "entities.28.settings.teleportLabel": "",
-    "entities.29.settings.teleportLabel": "",
-    "entities.30.settings.teleportLabel": "",
-    "entities.31.settings.teleportLabel": "",
-    "entities.32.settings.teleportLabel": "",
-    "entities.33.settings.teleportLabel": "",
-    "entities.34.settings.teleportLabel": "",
-    "entities.35.settings.teleportLabel": "",
+    "entities.24.settings.teleportLabel": "en_US",
+    "entities.25.settings.teleportLabel": "en_US",
+    "entities.26.settings.teleportLabel": "en_US",
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.29.settings.teleportLabel": "en_US",
+    "entities.30.settings.teleportLabel": "en_US",
+    "entities.31.settings.teleportLabel": "en_US",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.33.settings.teleportLabel": "en_US",
+    "entities.34.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
     "entities.334.settings.condAnims.0.interact.hoverText": "ツボの中を調べる",
     "entities.334.settings.condAnims.0.interact.title": "ツボ",
     "entities.334.settings.condAnims.0.interact.event.0.thenStep.8.message": "…",
@@ -24612,6 +25610,10 @@
     "entities.795.settings.event.2.message": "[うなずく]<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/jungle/clearing/clear-path-02.json": {
+    "entities.141.settings.teleportLabel": "en_US",
+    "entities.142.settings.teleportLabel": "en_US",
+    "entities.143.settings.teleportLabel": "en_US",
+    "entities.144.settings.teleportLabel": "en_US",
     "entities.145.settings.interact.hoverText": "\\c[3]ヴォルダ・ヴィル\\c[0]",
     "entities.646.settings.dialog.0.text": "本当に人間が\\c[3]黒いモンスター\\c[0]、\n村に入れたと思う？<<A<<[CHANGED 2018/03/14]",
     "entities.646.settings.dialog.1.text": "黒いモンスターの\\c[3]根源\\c[0]のこと、\n聞いてないか？ピカピカしたメタルだぞ！<<A<<[CHANGED 2018/03/14]",
@@ -24651,6 +25653,8 @@
     "entities.667.settings.event.3.message": "驚異的だな。<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/jungle/clearing/clear-path-03.json": {
+    "entities.171.settings.text": "en_US",
+    "entities.251.settings.text": "en_US",
     "entities.775.settings.npcStates.0.event.2.message": "古いトレード小屋、\\c[3]黒いモンスター\\c[0]のせいで使えない。<<A<<[CHANGED 2017/11/27]",
     "entities.775.settings.npcStates.0.event.3.message": "今は長老、バリアを張ってる。<<A<<[CHANGED 2017/11/27]",
     "entities.775.settings.npcStates.0.event.4.message": "…？",
@@ -24795,6 +25799,10 @@
     "entities.87.settings.event.27.message": "[うなずく]<<A<<[CHANGED 2018/03/14]"
   },
   "assets/data/maps/jungle/dng/dng-crossing.json": {
+    "entities.42.settings.teleportLabel": "en_US",
+    "entities.44.settings.teleportLabel": "en_US",
+    "entities.45.settings.teleportLabel": "en_US",
+    "entities.46.settings.teleportLabel": "en_US",
     "entities.297.settings.event.1.text": "アクセス拒否",
     "entities.300.settings.npcStates.0.event.quest.2.message": "こんにちは、お嬢さん！",
     "entities.300.settings.npcStates.0.event.quest.3.thenStep.0.message": "おや！私の衛兵としての嗅覚が、あなたがお持ちの\\c[3]\\v[item.288.name]\\c[0]を嗅ぎつけましたよ！",
@@ -25744,6 +26752,10 @@
     "entities.761.settings.text": "不自然なエネルギーの痕跡<<A<<[CHANGED 2018/09/19]"
   },
   "assets/data/maps/jungle/grove/grove-path-02.json": {
+    "entities.146.settings.teleportLabel": "en_US",
+    "entities.147.settings.teleportLabel": "en_US",
+    "entities.148.settings.teleportLabel": "en_US",
+    "entities.149.settings.teleportLabel": "en_US",
     "entities.150.settings.interact.hoverText": "\\c[3]高貴なる木立\\c[0]",
     "entities.891.settings.analyzable.text": "リンデ<<A<<[CHANGED 2018/05/01]",
     "entities.891.settings.npcStates.0.event.quest.1.name": "リンデ<<A<<[CHANGED 2018/05/01]",
@@ -25877,6 +26889,10 @@
     "entities.632.settings.text": "完全に普通のキノコ<<A<<[CHANGED 2018/09/14]"
   },
   "assets/data/maps/jungle/infested/infested-path-03.json": {
+    "entities.171.settings.teleportLabel": "en_US",
+    "entities.172.settings.teleportLabel": "en_US",
+    "entities.173.settings.teleportLabel": "en_US",
+    "entities.174.settings.teleportLabel": "en_US",
     "entities.175.settings.interact.hoverText": "\\c[3]侵食された沼地\\c[0]<<A<<[CHANGED 2018/01/06]",
     "entities.820.settings.event.0.message": "ふむ…\\.このキノコたちを見てると\nお腹がすいてきますね。<<A<<[CHANGED 2018/09/02]",
     "entities.820.settings.event.1.message": "ホントに？この青かったり\n紫だったりする大きなキノコを見て\nお腹がすくの？<<A<<[CHANGED 2018/09/02]",
@@ -25918,6 +26934,10 @@
     "entities.851.settings.text": "不自然なエネルギーの痕跡<<A<<[CHANGED 2018/09/19]"
   },
   "assets/data/maps/jungle/path-01-entrance.json": {
+    "entities.2.settings.teleportLabel": "en_US",
+    "entities.3.settings.teleportLabel": "en_US",
+    "entities.4.settings.teleportLabel": "en_US",
+    "entities.5.settings.teleportLabel": "en_US",
     "entities.6.settings.interact.hoverText": "\\i[arrow-n] \\v[area.jungle-city.name]への道\n\\i[arrow-s] \\v[area.autumn-fall.name]",
     "entities.552.settings.event.11.message": "さて…\\.到着したね。\\.\nここが\\c[3]ガイアの園\\c[0]だ。<<A<<[CHANGED 2018/03/14]",
     "entities.552.settings.event.12.message": "…<<A<<[CHANGED 2018/03/14]",
@@ -26161,6 +27181,10 @@
   },
   "assets/data/maps/jungle/path-04-end.json": {
     "entities.659.settings.interact.hoverText": "\\i[arrow-n] クリュス・カーヨ大神殿\n\\i[arrow-w]\\i[arrow-e] \\v[area.autumn-fall.name]への道<<A<<[CHANGED 2018/08/01]",
+    "entities.666.settings.teleportLabel": "en_US",
+    "entities.667.settings.teleportLabel": "en_US",
+    "entities.668.settings.teleportLabel": "en_US",
+    "entities.669.settings.teleportLabel": "en_US",
     "entities.671.settings.npcStates.0.event.quest.5.message": "こんにちは、レア！<<A<<[CHANGED 2018/03/14]",
     "entities.671.settings.npcStates.0.event.quest.6.message": "やぁ…<<A<<[CHANGED 2018/03/14]",
     "entities.671.settings.npcStates.0.event.quest.7.message": "また会えてよかったです。<<A<<[CHANGED 2018/03/14]",
@@ -26316,6 +27340,22 @@
   },
   "assets/data/maps/jungle-city/center.json": {
     "entities.85.settings.teleportLabel": "クロスセントラル",
+    "entities.86.settings.teleportLabel": "en_US",
+    "entities.87.settings.teleportLabel": "en_US",
+    "entities.88.settings.teleportLabel": "en_US",
+    "entities.89.settings.teleportLabel": "en_US",
+    "entities.90.settings.teleportLabel": "en_US",
+    "entities.91.settings.teleportLabel": "en_US",
+    "entities.92.settings.teleportLabel": "en_US",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
+    "entities.96.settings.teleportLabel": "en_US",
+    "entities.97.settings.teleportLabel": "en_US",
+    "entities.98.settings.teleportLabel": "en_US",
+    "entities.99.settings.teleportLabel": "en_US",
+    "entities.100.settings.teleportLabel": "en_US",
+    "entities.101.settings.teleportLabel": "en_US",
     "entities.398.settings.interact.hoverText": "\\i[arrow-n] 町の広場\n\\i[arrow-e] ポンド・スラム",
     "entities.399.settings.interact.hoverText": "\\i[arrow-n] 町の広場\n\\i[arrow-w] 高原",
     "entities.416.settings.interact.hoverText": "自動販売機からアイテムを買う",
@@ -27360,12 +28400,15 @@
     "entities.4.settings.event.12.thenStep.0.action.0.thenStep.1.thenStep.4.text": "\\v[tmp.tempCrateString]<<A<<[CHANGED 2018/08/01]",
     "entities.4.settings.event.12.thenStep.0.action.0.thenStep.1.thenStep.5.thenStep.1.text": "積んだ<<A<<[CHANGED 2018/08/01]",
     "entities.5.settings.event.14.thenStep.0.text": "\\v[tmp.tempHideStringOmega]<<A<<[CHANGED 2018/08/01]",
+    "entities.6.settings.event.15.value": "[Waiting for crate]",
+    "entities.6.settings.event.16.value": "[New platform incoming]",
     "entities.7.settings.event.0.thenStep.5.thenStep.2.thenStep.0.text": "2倍出現！<<A<<[CHANGED 2018/09/14]",
     "entities.7.settings.event.0.thenStep.7.thenStep.0.text": "\\v[tmp.tempSpawnTime]秒後に敵が出現！<<A<<[CHANGED 2018/09/14]",
     "entities.7.settings.event.0.thenStep.9.thenStep.10.action.0.thenStep.0.text": "\\v[tmp.tempStringEnemyName]<<A<<[CHANGED 2018/08/28]",
     "entities.7.settings.event.0.thenStep.9.thenStep.10.action.6.text": "[怒った鳥の声!]<<A<<[CHANGED 2018/09/14]",
     "entities.9.settings.event.12.text": "[怒った鳥の声!]<<A<<[CHANGED 2018/09/14]",
     "entities.9.settings.event.13.text": "[怒った鳥の声!]<<A<<[CHANGED 2018/09/14]",
+    "entities.9.settings.event.18.guiInfo.settings.taskTitle": "Crates",
     "entities.31.settings.states.1.action.0.text": "\\v[tmp.platformDelayString]<<A<<[CHANGED 2018/08/28]",
     "entities.31.settings.states.1.action.8.text": "\\v[tmp.platformWaitString]<<A<<[CHANGED 2018/09/14]",
     "entities.49.settings.states.1.action.0.text": "\\v[tmp.platformDelayString]<<A<<[CHANGED 2018/08/28]",
@@ -27500,6 +28543,10 @@
     "entities.5.settings.npcStates.0.event.7.message": "投資しろぉーーーッ！<<A<<[CHANGED 2018/08/28]",
     "entities.5.settings.npcStates.0.event.8.message": "やるんだぁーーーッ！<<A<<[CHANGED 2018/08/28]",
     "entities.5.settings.npcStates.0.event.9.message": "...！！<<A<<[CHANGED 2018/08/28]",
+    "entities.5.settings.npcStates.1.event.2.message": "I am walking.",
+    "entities.6.settings.npcStates.0.event.2.message": "Hello there!",
+    "entities.6.settings.npcStates.0.event.3.message": "Hi!",
+    "entities.6.settings.npcStates.1.event.2.message": "I am walking.",
     "entities.7.settings.npcStates.0.event.2.message": "...<<A<<[CHANGED 2018/07/09]",
     "entities.7.settings.npcStates.0.event.3.message": "...！<<A<<[CHANGED 2018/07/09]",
     "entities.7.settings.npcStates.0.event.4.message": "<<A<<[CHANGED 2017/08/03]",
@@ -27508,6 +28555,7 @@
     "entities.7.settings.npcStates.0.event.7.message": "<<A<<[CHANGED 2017/08/03]",
     "entities.7.settings.npcStates.0.event.8.message": "<<A<<[CHANGED 2017/08/03]",
     "entities.7.settings.npcStates.0.event.9.message": "<<A<<[CHANGED 2017/08/03]",
+    "entities.7.settings.npcStates.1.event.2.message": "I am walking.",
     "entities.8.settings.npcStates.0.event.2.message": "<<A<<[CHANGED 2018/09/17]",
     "entities.9.settings.npcStates.0.event.2.message": "<<A<<[CHANGED 2018/09/17]",
     "entities.10.settings.npcStates.0.event.2.message": "<<A<<[CHANGED 2018/09/17]",
@@ -27535,6 +28583,10 @@
     "entities.32.settings.npcStates.0.event.2.message": "<<A<<[CHANGED 2018/09/19]",
     "entities.33.settings.npcStates.0.event.2.message": "<<A<<[CHANGED 2018/09/19]",
     "entities.34.settings.npcStates.0.event.2.message": "<<A<<[CHANGED 2018/09/19]"
+  },
+  "assets/data/maps/rd-test.json": {
+    "entities.1.settings.npcStates.3.event.1.message": "Sad...",
+    "entities.1.settings.npcStates.3.event.2.message": "SHOCKED!"
   },
   "assets/data/maps/rhombus-dng/boss.json": {
     "entities.20.settings.event.1.message": "来るぞ…",
@@ -27566,7 +28618,8 @@
     "entities.12.settings.event.37.message": "へえ。変だな。クロスワールドは数年前からリリースされてるのに。",
     "entities.12.settings.event.38.message": "まあ、解けるパズルのひとつやふたつは用意されてるだろう。",
     "entities.12.settings.event.39.message": "さあ、進もう！",
-    "entities.12.settings.event.40.message": "[うなずく]"
+    "entities.12.settings.event.40.message": "[うなずく]",
+    "entities.13.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-dng/room-1-6.json": {
     "entities.2.settings.event.36.object": "クイックメニュー<<A<<[CHANGED 2017/08/03]",
@@ -27580,6 +28633,9 @@
     "entities.45.settings.text": "宝箱だ！中にはおいしそうな\\c[3]\\v[item.1.name]es\\c[0]が入っている。",
     "entities.46.settings.text": "宝箱だ！中には何が入っているだろう？",
     "entities.47.settings.text": "宝箱だ！中には\\c[3]\\v[item.2.name]s\\c[0]が2つ入っている。"
+  },
+  "assets/data/maps/rhombus-dng/room-1-7.json": {
+    "entities.9.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-dng/room-1.json": {
     "entities.10.settings.event.0.message": "それじゃあ、レア…僕はちょっとのあいだ別行動するよ。",
@@ -27639,6 +28695,7 @@
   },
   "assets/data/maps/rhombus-dng/room-final.json": {
     "entities.13.settings.event.34.object": "サーキット",
+    "entities.27.settings.teleportLabel": "en_US",
     "entities.28.settings.teleportLabel": "外に出る",
     "entities.38.settings.event.1.message": "大型アップグレードへの準備はいいかい？",
     "entities.38.settings.event.2.message": "…？",
@@ -27719,6 +28776,9 @@
     "entities.7.settings.teleportLabel": "いずこ<<A<<[CHANGED 2017/11/27]",
     "entities.8.settings.teleportLabel": "スカイレール<<A<<[CHANGED 2018/07/09]",
     "entities.9.settings.teleportLabel": "いずこ<<A<<[CHANGED 2017/11/27]",
+    "entities.10.settings.teleportLabel": "en_US",
+    "entities.11.settings.teleportLabel": "en_US",
+    "entities.12.settings.teleportLabel": "en_US",
     "entities.447.settings.interact.hoverText": "\\c[3]クロワッサンカフェ\\c[0]<<A<<[CHANGED 2018/07/09]",
     "entities.593.settings.event.0.text": "通行証が必要です<<A<<[CHANGED 2018/07/09]",
     "entities.619.settings.npcStates.0.event.quest.2.message": "やあ、レア。<<A<<[CHANGED 2018/08/28]",
@@ -27849,22 +28909,24 @@
     "entities.974.settings.dialog.2.text": "店が開くまでは、だけどな。<<A<<[CHANGED 2018/09/14]"
   },
   "assets/data/maps/rhombus-sqr/central-inner.json": {
-    "entities.12.settings.teleportLabel": "",
-    "entities.13.settings.teleportLabel": "",
-    "entities.14.settings.teleportLabel": "",
+    "entities.11.settings.teleportLabel": "en_US",
+    "entities.12.settings.teleportLabel": "en_US",
+    "entities.13.settings.teleportLabel": "en_US",
+    "entities.14.settings.teleportLabel": "en_US",
     "entities.15.settings.teleportLabel": "バルコニー",
     "entities.54.settings.teleportLabel": "バルコニー",
     "entities.56.settings.teleportLabel": "バルコニー",
     "entities.57.settings.teleportLabel": "バルコニー",
     "entities.58.settings.teleportLabel": "バルコニー",
     "entities.59.settings.teleportLabel": "バルコニー",
-    "entities.60.settings.teleportLabel": "",
-    "entities.61.settings.teleportLabel": "",
-    "entities.62.settings.teleportLabel": "",
-    "entities.63.settings.teleportLabel": "",
-    "entities.64.settings.teleportLabel": "",
-    "entities.66.settings.teleportLabel": "",
-    "entities.67.settings.teleportLabel": "",
+    "entities.60.settings.teleportLabel": "en_US",
+    "entities.61.settings.teleportLabel": "en_US",
+    "entities.62.settings.teleportLabel": "en_US",
+    "entities.63.settings.teleportLabel": "en_US",
+    "entities.64.settings.teleportLabel": "en_US",
+    "entities.65.settings.teleportLabel": "en_US",
+    "entities.66.settings.teleportLabel": "en_US",
+    "entities.67.settings.teleportLabel": "en_US",
     "entities.68.settings.teleportLabel": "バルコニー",
     "entities.69.settings.teleportLabel": "バルコニー",
     "entities.70.settings.teleportLabel": "バルコニー",
@@ -27876,10 +28938,10 @@
     "entities.109.settings.event.4.text": "アクセス拒否",
     "entities.115.settings.event.4.text": "アクセス拒否",
     "entities.122.settings.event.1.text": "アクセス拒否",
-    "entities.123.settings.teleportLabel": "",
-    "entities.124.settings.teleportLabel": "",
-    "entities.125.settings.teleportLabel": "",
-    "entities.126.settings.teleportLabel": "",
+    "entities.123.settings.teleportLabel": "en_US",
+    "entities.124.settings.teleportLabel": "en_US",
+    "entities.125.settings.teleportLabel": "en_US",
+    "entities.126.settings.teleportLabel": "en_US",
     "entities.127.settings.event.25.message": "行こう！こっちだよ！",
     "entities.135.settings.teleportLabel": "ルーキーハーバー",
     "entities.136.settings.teleportLabel": "バルコニー",
@@ -27946,13 +29008,15 @@
     "entities.181.settings.event.66.task": "\\c[3]ファーストスカラーの本部\\c[0]にいる\n\\c[3]エミリー\\c[0]と会おう。<<A<<[CHANGED 2018/05/01]"
   },
   "assets/data/maps/rhombus-sqr/central.json": {
+    "entities.5.settings.teleportLabel": "en_US",
     "entities.6.settings.teleportLabel": "クロスセントラル",
-    "entities.7.settings.teleportLabel": "",
-    "entities.8.settings.teleportLabel": "",
-    "entities.9.settings.teleportLabel": "",
-    "entities.11.settings.teleportLabel": "",
-    "entities.12.settings.teleportLabel": "",
-    "entities.13.settings.teleportLabel": "",
+    "entities.7.settings.teleportLabel": "en_US",
+    "entities.8.settings.teleportLabel": "en_US",
+    "entities.9.settings.teleportLabel": "en_US",
+    "entities.10.settings.teleportLabel": "en_US",
+    "entities.11.settings.teleportLabel": "en_US",
+    "entities.12.settings.teleportLabel": "en_US",
+    "entities.13.settings.teleportLabel": "en_US",
     "entities.77.settings.teleportLabel": "ニューカマーズブリッジ",
     "entities.78.settings.teleportLabel": "ニューカマーズブリッジ",
     "entities.79.settings.teleportLabel": "ニューカマーズブリッジ",
@@ -28043,10 +29107,10 @@
     "entities.346.settings.dialog.2.event.12.message": "そうこなくっちゃ！<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/rhombus-sqr/dng-end.json": {
-    "entities.35.settings.teleportLabel": "",
-    "entities.37.settings.teleportLabel": "",
-    "entities.38.settings.teleportLabel": "",
-    "entities.39.settings.teleportLabel": "",
+    "entities.35.settings.teleportLabel": "en_US",
+    "entities.37.settings.teleportLabel": "en_US",
+    "entities.38.settings.teleportLabel": "en_US",
+    "entities.39.settings.teleportLabel": "en_US",
     "entities.142.settings.teleportLabel": "クロスセントラル",
     "entities.148.settings.npcStates.1.event.2.message": "先に行ってなよ！\nどれでも好きなスカイレールを選んでさ。",
     "entities.148.settings.npcStates.1.event.3.message": "[うなずく]",
@@ -28181,10 +29245,10 @@
     "entities.180.settings.dialog.8.text": "なるほどね…"
   },
   "assets/data/maps/rhombus-sqr/dng-top.json": {
-    "entities.164.settings.teleportLabel": "",
-    "entities.166.settings.teleportLabel": "",
-    "entities.167.settings.teleportLabel": "",
-    "entities.168.settings.teleportLabel": "",
+    "entities.164.settings.teleportLabel": "en_US",
+    "entities.166.settings.teleportLabel": "en_US",
+    "entities.167.settings.teleportLabel": "en_US",
+    "entities.168.settings.teleportLabel": "en_US",
     "entities.172.settings.teleportLabel": "ルーキーダンジョン #3",
     "entities.173.settings.event.2.thenStep.7.text": "アバター初期化中",
     "entities.173.settings.event.2.thenStep.13.message": "逃げ切れたね、レア。",
@@ -28759,6 +29823,9 @@
     "entities.994.settings.event.36.task": "朱染の荒野へ再突入する準備をしよう。\n準備ができたら、\\c[3]隠れ家\\c[0]にいる\\c[3]サトシ\\c[0]と\n話そう。<<A<<[CHANGED 2018/08/28]"
   },
   "assets/data/maps/rhombus-sqr/shops-1.json": {
+    "entities.216.settings.teleportLabel": "en_US",
+    "entities.217.settings.teleportLabel": "en_US",
+    "entities.218.settings.teleportLabel": "en_US",
     "entities.219.settings.teleportLabel": "スカイレール<<A<<[CHANGED 2018/05/01]",
     "entities.220.settings.teleportLabel": "いずこ<<A<<[CHANGED 2017/11/27]",
     "entities.221.settings.teleportLabel": "いずこ<<A<<[CHANGED 2017/11/27]",
@@ -28783,12 +29850,32 @@
     "entities.4.settings.description": "ロンバス広場への入り口にして本土への出口。<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/maps/rhombus-sqr/test.json": {
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.30.settings.teleportLabel": "en_US",
+    "entities.31.settings.teleportLabel": "en_US",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
+    "entities.36.settings.teleportLabel": "en_US",
+    "entities.37.settings.teleportLabel": "en_US",
+    "entities.38.settings.teleportLabel": "en_US",
     "entities.39.settings.teleportLabel": "どこか<<A<<[CHANGED 2017/11/27]",
-    "entities.41.settings.teleportLabel": "いずこ<<A<<[CHANGED 2017/11/27]"
+    "entities.41.settings.teleportLabel": "いずこ<<A<<[CHANGED 2017/11/27]",
+    "entities.44.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-sqr/test2.json": {
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.30.settings.teleportLabel": "en_US",
+    "entities.31.settings.teleportLabel": "en_US",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.34.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
+    "entities.36.settings.teleportLabel": "en_US",
+    "entities.37.settings.teleportLabel": "en_US",
     "entities.38.settings.teleportLabel": "どこか<<A<<[CHANGED 2017/11/27]",
-    "entities.40.settings.teleportLabel": "いずこ<<A<<[CHANGED 2017/11/27]"
+    "entities.40.settings.teleportLabel": "いずこ<<A<<[CHANGED 2017/11/27]",
+    "entities.43.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-square-view.json": {
     "entities.9.settings.event.9.message": "さて、何からはじめようか。<<A<<[CHANGED 2018/09/19]",
@@ -29013,18 +30100,18 @@
     "entities.577.settings.event.0.message": "さっきの人… \\.\\.\\. 各クラスの装備をそれぞれ装備してるように見えたな。",
     "entities.577.settings.event.1.message": "…",
     "entities.577.settings.event.2.message": "普通ならそんなこと不可能なのに。どうやって開発者の目をかいくぐったんだろう？",
-    "entities.594.settings.teleportLabel": "",
-    "entities.595.settings.teleportLabel": "",
-    "entities.596.settings.teleportLabel": "",
-    "entities.597.settings.teleportLabel": "",
-    "entities.598.settings.teleportLabel": "",
-    "entities.599.settings.teleportLabel": "",
-    "entities.600.settings.teleportLabel": "",
-    "entities.601.settings.teleportLabel": "",
-    "entities.602.settings.teleportLabel": "",
-    "entities.603.settings.teleportLabel": "",
-    "entities.604.settings.teleportLabel": "",
-    "entities.605.settings.teleportLabel": "",
+    "entities.594.settings.teleportLabel": "en_US",
+    "entities.595.settings.teleportLabel": "en_US",
+    "entities.596.settings.teleportLabel": "en_US",
+    "entities.597.settings.teleportLabel": "en_US",
+    "entities.598.settings.teleportLabel": "en_US",
+    "entities.599.settings.teleportLabel": "en_US",
+    "entities.600.settings.teleportLabel": "en_US",
+    "entities.601.settings.teleportLabel": "en_US",
+    "entities.602.settings.teleportLabel": "en_US",
+    "entities.603.settings.teleportLabel": "en_US",
+    "entities.604.settings.teleportLabel": "en_US",
+    "entities.605.settings.teleportLabel": "en_US",
     "entities.614.settings.npcStates.1.event.quest.2.message": "…！",
     "entities.614.settings.npcStates.1.event.quest.3.message": "私にこれを？いいの？",
     "entities.614.settings.npcStates.1.event.quest.4.message": "[うなずく]",
@@ -29300,6 +30387,7 @@
     "entities.24.settings.condAnims.0.interact.event.1.text": "当初、人類はこの星から希少な資源を採取しようとした。採鉱所を建て、遺跡を暴き、大地に採掘坑を掘った。<<A<<[CHANGED 2018/09/19]",
     "entities.24.settings.condAnims.0.interact.event.2.text": "そうしているうちに、人類はいにしえの軌跡の一部をも破壊してしまった。それにより、軌跡を修復する自己完結システムの機能の一つである、自己防衛システムが起動してしまった。",
     "entities.24.settings.condAnims.0.interact.event.3.text": "その後、軌跡の抵抗により、資源の採取はもはやほとんど不可能になった。軌跡がどれだけ精密なシステムであるかを我々は知ることになったのだ。<<A<<[CHANGED 2017/08/03]",
+    "entities.25.settings.interact.hoverText": "en_US",
     "entities.25.settings.condAnims.0.interact.hoverText": "\\c[3]オペレーション・トラックウォーカー\\c[0]",
     "entities.25.settings.condAnims.0.interact.event.0.text": "オペレーション・トラックウォーカーの目的は、\\c[3]古代人の技術を破壊することではなく、探求することである\\c[0]。",
     "entities.25.settings.condAnims.0.interact.event.1.text": "我々は、いにしえの軌跡に人間が加わる方法を模索しはじめた。驚くべきことに、人間が軌跡のシステムと結合するのは簡単だった。",
@@ -30203,6 +31291,7 @@
     "entities.26.settings.npcStates.0.event.6.options.3.label": "ガードの極意<<A<<[CHANGED 2017/11/04]",
     "entities.26.settings.npcStates.0.event.6.options.4.label": "いいえ、けっこうです！<<A<<[CHANGED 2017/11/04]",
     "entities.27.settings.analyzable.text": "カルロ・スタトコフスキー<<A<<[CHANGED 2017/11/04]",
+    "entities.27.settings.displayName": "en_US",
     "entities.27.settings.npcStates.0.event.0.name": "カルロ・スタトコフスキー<<A<<[CHANGED 2017/11/04]",
     "entities.27.settings.npcStates.0.event.2.message": "やぁ！<<A<<[CHANGED 2017/11/04]",
     "entities.27.settings.npcStates.0.event.3.thenStep.0.message": "兄弟！\\.背筋を伸ばせ、体を鍛えろ！\\.君の体が君の砦なんだからな！<<A<<[CHANGED 2017/11/04]",
@@ -30651,6 +31740,22 @@
     "entities.13.settings.event.16.message": "…<<A<<[CHANGED 2017/12/11]"
   },
   "assets/data/maps/rookie-harbor/teleporter.json": {
+    "entities.79.settings.teleportLabel": "en_US",
+    "entities.81.settings.teleportLabel": "en_US",
+    "entities.82.settings.teleportLabel": "en_US",
+    "entities.83.settings.teleportLabel": "en_US",
+    "entities.84.settings.teleportLabel": "en_US",
+    "entities.85.settings.teleportLabel": "en_US",
+    "entities.86.settings.teleportLabel": "en_US",
+    "entities.87.settings.teleportLabel": "en_US",
+    "entities.88.settings.teleportLabel": "en_US",
+    "entities.89.settings.teleportLabel": "en_US",
+    "entities.90.settings.teleportLabel": "en_US",
+    "entities.91.settings.teleportLabel": "en_US",
+    "entities.92.settings.teleportLabel": "en_US",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
     "entities.368.settings.condAnims.0.interact.hoverText": "中身を調べる",
     "entities.368.settings.condAnims.0.interact.title": "怪しい箱",
     "entities.368.settings.condAnims.0.interact.event.7.text": "箱を調査中",
@@ -30683,7 +31788,42 @@
     "entities.405.settings.npcStates.3.event.5.message": "…",
     "entities.406.settings.event.14.object": "旅の記録メニュー",
     "entities.418.settings.teleportLabel": "クロスセントラル",
+    "entities.419.settings.event.6.message": "Fantastique! Right at the sea, just like they said!",
+    "entities.419.settings.event.7.message": "...!!",
+    "entities.419.settings.event.14.message": "Look, you can still see Rhombus Square over there.",
+    "entities.419.settings.event.15.message": "The futuristic city is cool, but it's nice to be at the sea for a change, non?",
+    "entities.419.settings.event.16.message": "[nods]",
     "entities.419.settings.event.22.message": "<<A<<[CHANGED 2018/09/19]",
+    "entities.419.settings.event.24.message": "Have we been really playing for that long?",
+    "entities.419.settings.event.25.message": "...!",
+    "entities.419.settings.event.26.message": "... So yes, I have to logout.",
+    "entities.419.settings.event.28.message": "Merde!\\. And I was having so much fun.",
+    "entities.419.settings.event.29.message": "...",
+    "entities.419.settings.event.30.message": "It can't be helped.",
+    "entities.419.settings.event.31.message": "But hey! Before I leave, we really should share contacts, non?",
+    "entities.419.settings.event.32.message": "[nods]",
+    "entities.419.settings.event.34.object": "Emilie",
+    "entities.419.settings.event.37.message": "Next time, let's go out there and beat things up together!",
+    "entities.419.settings.event.38.message": "...!",
+    "entities.419.settings.event.39.message": "Au revoir! See you soon!",
+    "entities.419.settings.event.41.text": "Logout",
+    "entities.419.settings.event.50.message": "...So it seems you already made a friend!",
+    "entities.419.settings.event.51.message": "[nods]",
+    "entities.419.settings.event.52.message": "I was worried that your speech malfunction would isolate you from other players.",
+    "entities.419.settings.event.53.message": "It is good to know there are players like Emilie that just overlook that.",
+    "entities.419.settings.event.54.message": "Though she did not seem to notice it in the first place, did she...",
+    "entities.419.settings.event.55.message": "...",
+    "entities.419.settings.event.56.message": "... Anyway, it has been a really long day, Lea.",
+    "entities.419.settings.event.57.message": "...?",
+    "entities.419.settings.event.58.message": "I suggest we log off, too.",
+    "entities.419.settings.event.59.message": "I sort of need a break as well, you see?",
+    "entities.419.settings.event.60.message": "...",
+    "entities.419.settings.event.61.message": "...",
+    "entities.419.settings.event.62.message": "Do not worry... We will be back in the game soon enough.",
+    "entities.419.settings.event.63.message": "Good Night, Lea.",
+    "entities.419.settings.event.66.text": "Logout",
+    "entities.419.settings.event.76.titleText": "--- WIP ---",
+    "entities.419.settings.event.76.text": "Insert Cutscene here.",
     "entities.420.settings.npcStates.0.event.2.message": "やぁ！<<A<<[CHANGED 2018/09/02]",
     "entities.420.settings.npcStates.0.event.3.message": "ああ…どうも…",
     "entities.420.settings.npcStates.0.event.4.message": "私と話すためだけに\nここまで来たの？<<A<<[CHANGED 2018/09/02]",
@@ -30707,6 +31847,36 @@
     "entities.420.settings.npcStates.1.event.quest.16.message": "[うなずく]",
     "entities.420.settings.npcStates.2.event.quest.2.message": "プレゼントをくれて本当にありがとう。\\.\nとてもすてきだったよ。<<A<<[CHANGED 2018/09/02]",
     "entities.420.settings.npcStates.2.event.quest.3.message": "…！<<A<<[CHANGED 2018/09/02]",
+    "entities.424.settings.event.9.text": "Initializing avatar",
+    "entities.424.settings.event.14.message": "Good morning, Lea!",
+    "entities.424.settings.event.15.message": "...",
+    "entities.424.settings.event.17.message": "...!",
+    "entities.424.settings.event.18.message": "...\\. Do you feel alright?",
+    "entities.424.settings.event.19.message": "...",
+    "entities.424.settings.event.20.message": "[nods]",
+    "entities.424.settings.event.21.message": "And...\\. you still remember everything from yesterday, right?\\. Meeting Emilie and all that?",
+    "entities.424.settings.event.22.message": "[nods]",
+    "entities.424.settings.event.23.message": "Alright, great!",
+    "entities.424.settings.event.24.message": "...",
+    "entities.424.settings.event.25.message": "Oh, by the way!\\. It seems that Emilie is online as-",
+    "entities.424.settings.event.27.message": "Oh.\\. That must be her.",
+    "entities.424.settings.event.28.message": "...?",
+    "entities.424.settings.event.29.message": "It's like a call. Just take it!",
+    "entities.424.settings.event.30.message": "...!",
+    "entities.424.settings.event.34.message": "Bonjour, Lea!",
+    "entities.424.settings.event.35.message": "Hi!",
+    "entities.424.settings.event.36.message": "This is a direct link!\\. First time you've see it?",
+    "entities.424.settings.event.37.message": "[nods]",
+    "entities.424.settings.event.38.message": "Really fancy, non?",
+    "entities.424.settings.event.39.message": "Anyway, I just saw that you came online!",
+    "entities.424.settings.event.40.message": "I logged in a few minutes ago myself!",
+    "entities.424.settings.event.41.message": "I'm in the city just to the north.\\. Come on, let's meet up!",
+    "entities.424.settings.event.42.message": "[nods]",
+    "entities.424.settings.event.43.message": "Alright, I'll be waiting!",
+    "entities.424.settings.event.44.message": "Aaaaand...\\. Link end...\\. There!",
+    "entities.424.settings.event.49.message": "See? That was fast, was it not?",
+    "entities.424.settings.event.50.message": "You should meet her.\\. It is much more fun to explore CrossWorlds with others.",
+    "entities.424.settings.event.51.message": "[nods]",
     "entities.425.settings.event.14.title": "ランドマークとテレポート",
     "entities.425.settings.event.14.content": "ファストトラベルのための\\c[3]ランドマーク\\c[0]の使い方",
     "entities.425.settings.event.14.acceptStep.12.text": "\\c[3]マップメニュー\\c[0]から選んだ\\c[3]ランドマークまでテレポート\\c[0]できます。",
