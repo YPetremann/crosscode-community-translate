@@ -464,7 +464,9 @@
   },
   "assets/data/areas/jungle.json": {
     "name": "미정",
+    "floors.0.name": "en_US",
     "floors.0.maps.0.name": "잃어버린 힘의 방<<A<<[CHANGED 2018/07/09]",
+    "floors.1.name": "en_US",
     "floors.1.maps.0.name": "감염된 동굴 입구",
     "floors.1.maps.1.name": "감염된 동굴 미로",
     "floors.1.maps.2.name": "신성한 연못<<A<<[CHANGED 2017/11/16]",
@@ -543,6 +545,7 @@
   },
   "assets/data/areas/rhombus-sqr.json": {
     "name": "마름모 광장",
+    "floors.0.name": "en_US",
     "floors.0.maps.0.name": "마름모 경기장<<A<<[CHANGED 2018/07/09]",
     "floors.0.maps.1.name": "크로스센트럴",
     "floors.0.maps.2.name": "거주 지구<<A<<[CHANGED 2018/07/09]",
@@ -557,6 +560,7 @@
     "floors.0.maps.11.name": "베스토로비쉬 저택<<A<<[CHANGED 2018/09/02]",
     "floors.0.maps.12.name": "특이한 장신구<<A<<[CHANGED 2018/09/14]",
     "floors.0.maps.13.name": "경기장 카페<<A<<[CHANGED 2018/09/14]",
+    "floors.1.name": "en_US",
     "floors.1.maps.0.name": "초심자의 다리",
     "floors.1.maps.1.name": "초심자의 다리 끝",
     "floors.1.maps.2.name": "크로스센트럴 발코니",
@@ -689,14 +693,65 @@
     "floors.1.name": "지상",
     "floors.1.maps.0.name": "입장 시험"
   },
+  "assets/data/characters/adventurers/female-braid-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-braid-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-dut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-dut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-pony-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-pony-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-bald-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-bald-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-headband-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-headband-white.json": {
+    "name": ""
+  },
   "assets/data/characters/adventurers/male-pirate.json": {
     "name": "스펄링<<A<<[CHANGED 2017/10/17]"
   },
   "assets/data/characters/adventurers-jungle/female-leader.json": {
     "name": "마다키<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/adventurers-jungle/female-white-hat-pigtails.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/female-white-hat.json": {
+    "name": ""
+  },
   "assets/data/characters/adventurers-jungle/leader-female.json": {
     "name": "마다키<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/adventurers-jungle/male-black-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/male-white-hat-monocle.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/male-white-ponytail.json": {
+    "name": ""
   },
   "assets/data/characters/advisors/female-nerd-combat.json": {
     "name": "전투<<A<<[CHANGED 2017/10/17]"
@@ -781,11 +836,47 @@
   "assets/data/characters/baki/eldress.json": {
     "name": "촌장"
   },
+  "assets/data/characters/baki/female-beige.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-pink.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-yellow-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-yellow-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-green-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-green-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-pink-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-pink-tall.json": {
+    "name": ""
+  },
   "assets/data/characters/baki/male-shad-tradeleader.json": {
     "name": "네이테하브<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/baki/male-yellow-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-yellow-tall.json": {
+    "name": ""
+  },
   "assets/data/characters/baki/painter.json": {
     "name": "화가<<A<<[CHANGED 2017/10/17]"
+  },
+  "assets/data/characters/baki/thief-man-dude.json": {
+    "name": ""
   },
   "assets/data/characters/basin/boogie.json": {
     "name": "부지맨"
@@ -796,14 +887,74 @@
   "assets/data/characters/basin/don-vita.json": {
     "name": "돈 비타"
   },
+  "assets/data/characters/basin/female-blond.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-umbrella-laser.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-umbrella.json": {
+    "name": ""
+  },
   "assets/data/characters/basin/major.json": {
     "name": "설리번<<A<<[CHANGED 2017/11/16]"
   },
   "assets/data/characters/basin/male-bodyguard.json": {
     "name": "빈스<<A<<[CHANGED 2018/03/14]"
   },
+  "assets/data/characters/basin/male-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-hat-2.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-punk.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-purple.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-raincoat.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-umbrella.json": {
+    "name": ""
+  },
   "assets/data/characters/basin/sciene-lady.json": {
     "name": "크레티아 박사<<A<<[CHANGED 2018/03/14]"
+  },
+  "assets/data/characters/bergen/female-hoodie-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-monk-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-small-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-small-fancy-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-blue.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-fancy-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-silver.json": {
+    "name": ""
   },
   "assets/data/characters/bergen/frobbit-legend.json": {
     "name": "전설의 토끼<<A<<[CHANGED 2018/07/09]"
@@ -811,17 +962,128 @@
   "assets/data/characters/bergen/male-goatman-white.json": {
     "name": "고터<<A<<[CHANGED 2018/09/17]"
   },
+  "assets/data/characters/bergen/male-hoodie-simple.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-monk-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-old-mustache.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-tall-bald-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-tall-bald-white.json": {
+    "name": ""
+  },
   "assets/data/characters/bergen/mayor.json": {
     "name": "베르겐 시장"
+  },
+  "assets/data/characters/bergen/nonbinary-monk-leader.json": {
+    "name": "en_US"
   },
   "assets/data/characters/bergen/one-holiday-man.json": {
     "name": "할리데이 맨"
   },
+  "assets/data/characters/business/crosscode-ceo.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/female-dut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-dut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-longhair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-longhair-white.json": {
+    "name": ""
+  },
   "assets/data/characters/business/female-redhair-sexy-brown.json": {
     "name": "라이다<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/business/female-shorthair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-shorthair-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/fridgeguy-male-old-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-female-blonde.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-female-brown-chub.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-male-fullhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-male-halfhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heatergirl-female.json": {
+    "name": ""
+  },
   "assets/data/characters/business/leader-bergen-female.json": {
     "name": "써머스 부인<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/business/leader-jungle.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/leader-rh-male-wheelchair.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-black-bald.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-white-sidehair.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-white.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-lockhart-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-lockhart-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-old-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-old-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-sidecut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-sidecut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-toupee-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-toupee-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-wheelchair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-wheelchair-white.json": {
+    "name": ""
   },
   "assets/data/characters/cargo-crew/bot.json": {
     "name": "장비 봇"
@@ -925,14 +1187,122 @@
   "assets/data/characters/gods/triblader.json": {
     "name": "벽"
   },
+  "assets/data/characters/greenies/female-farmer-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-farmer-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-flowers-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-flowers-white.json": {
+    "name": ""
+  },
   "assets/data/characters/greenies/female-researcher.json": {
     "name": "탈라투 립스"
+  },
+  "assets/data/characters/greenies/female-terranigma-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-terranigma-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-farmer-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-farmer-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hipster-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hipster-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-baki/female-leader-shad.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-blonde-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-brunette-flower.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-examiner-white.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/greenies-jungle/male-beard-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-beard-red.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-glasses-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-leader-black.json": {
+    "name": "en_US"
   },
   "assets/data/characters/guards/captain-female-hairbun.json": {
     "name": "스터링 경사<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/guards/captain-male-normal-blonde.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/guards/captain-male-normal-darkhair.json": {
+    "name": "en_US"
+  },
   "assets/data/characters/guards/captain-male-oneleg.json": {
     "name": "니엘로스 경사<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/guards/female-hairs-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-hairs-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-small-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-tall-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-beefy-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-beefy-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-bulky-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-bulky-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-hairs-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-hairs-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-normal-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-normal-white.json": {
+    "name": ""
   },
   "assets/data/characters/guards/male-red-glasses.json": {
     "name": "러스티<<A<<[CHANGED 2018/08/28]"
@@ -945,6 +1315,39 @@
   },
   "assets/data/characters/jungle/female-albino.json": {
     "name": "크타라<<A<<[CHANGED 2017/11/16]"
+  },
+  "assets/data/characters/jungle/female-beige.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-pink.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-yellow-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-yellow-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-green-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-green-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-pink-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-pink-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-yellow-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-yellow-tall.json": {
+    "name": ""
   },
   "assets/data/characters/main/buggy.json": {
     "name": "버기"
@@ -1008,8 +1411,26 @@
     "name": "시즈카",
     "realname": "시즈카"
   },
+  "assets/data/characters/miners/female-pigtails-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/female-ponytail-white.json": {
+    "name": ""
+  },
   "assets/data/characters/miners/leader-male-beard.json": {
     "name": "맥에딘틸<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/miners/male-blackbeard-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-brownbeard-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-brownshirt-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-redmuffler-white.json": {
+    "name": ""
   },
   "assets/data/characters/misc/advisor-researcher.json": {
     "name": "백스턴<<A<<[CHANGED 2017/11/16]"
@@ -1020,6 +1441,12 @@
   "assets/data/characters/misc/henry-researcher.json": {
     "name": "헨리"
   },
+  "assets/data/characters/misc/hidden.json": {
+    "name": ""
+  },
+  "assets/data/characters/misc/menu-effect-large.json": {
+    "name": ""
+  },
   "assets/data/characters/misc/oldman.json": {
     "name": "노인<<A<<[CHANGED 2018/07/09]"
   },
@@ -1029,23 +1456,134 @@
   "assets/data/characters/misc/radical-fish.json": {
     "name": "Radical Fish"
   },
+  "assets/data/characters/monks/female-longhair-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/female-shorthair-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-white.json": {
+    "name": ""
+  },
   "assets/data/characters/monks/nonbinary-leader.json": {
     "name": "네무<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/nomads/female-redheadscarf.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/female-shorthair-bluetunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/female-whiteheadscarf-longhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-blackhair-purpletunic.json": {
+    "name": ""
   },
   "assets/data/characters/nomads/male-fancy-leader.json": {
     "name": "조엘 마히르<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/nomads/male-redheadscarf-browntunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-whiteheadscarf-browntunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-whiteheadscarf-redtunic.json": {
+    "name": ""
+  },
   "assets/data/characters/objects/barrier.json": {
     "name": "벽"
+  },
+  "assets/data/characters/objects/car-1-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-1.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-2-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-2.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-3-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-3.json": {
+    "name": ""
   },
   "assets/data/characters/objects/driller-h-f-s.json": {
     "name": "벽"
   },
+  "assets/data/characters/objects/largeHeatMetalBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/largeJungleBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/smallJungleBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/td-doorOpener.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/td-energySucker.json": {
+    "name": ""
+  },
   "assets/data/characters/rookie-harbor/faction-fd-female-leader.json": {
     "name": "엘레니야<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/rookie-harbor/faction-fd-male-tucos.json": {
+    "name": ""
+  },
   "assets/data/characters/rookie-harbor/faction-foa-man-chiefgarden.json": {
     "name": "만자나<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-offcr-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-sgt.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-big-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-big-blue.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-ms-steak.json": {
+    "name": "Ms. Steak"
+  },
+  "assets/data/characters/rookie-harbor/female-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-small-red.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-tall-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-big-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-big-red.json": {
+    "name": ""
   },
   "assets/data/characters/rookie-harbor/man-business.json": {
     "name": "놈스워쓰 씨<<A<<[CHANGED 2018/08/28]"
@@ -1053,17 +1591,382 @@
   "assets/data/characters/rookie-harbor/man-shop.json": {
     "name": "타라<<A<<[CHANGED 2017/12/12]"
   },
+  "assets/data/characters/rookie-harbor/man-small-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-tall-mustache.json": {
+    "name": "en_US"
+  },
   "assets/data/characters/rookie-harbor/poet.json": {
     "name": "시"
+  },
+  "assets/data/characters/rookie-harbor/thief-man-big-eyepatch.json": {
+    "name": ""
   },
   "assets/data/characters/rookie-harbor/van-pummelson.json": {
     "name": "마스터 센세이<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/credits/backers.json": {
-    "entries.header.header": "인디고고 후원자<<A<<[CHANGED 2018/09/14]"
+    "entries.header.header": "인디고고 후원자<<A<<[CHANGED 2018/09/14]",
+    "entries.testers.header": "en_US",
+    "entries.testers.names.0": "Mil",
+    "entries.testers.names.1": "Dennis 'HerrDekay' Kröner",
+    "entries.testers.names.2": "Filip Antkowiak",
+    "entries.testers.names.3": "Mathias 'lucmat' Luckas",
+    "entries.testers.names.4": "Art Zoe",
+    "entries.testers.names.5": "Banana Man (BM)",
+    "entries.testers.names.6": "David \"Cherry\" Trapp",
+    "entries.testers.names.7": "J. \"Wervyn\" Wert",
+    "entries.testers.names.8": "Moya Schiller",
+    "entries.testers.names.9": "catnip513",
+    "entries.testers.names.10": "CombatToast",
+    "entries.testers.names.11": "Dennis 'Repko' Klein",
+    "entries.testers.names.12": "Marcel & Tiffy",
+    "entries.testers.names.13": "Stephen Shiu",
+    "entries.testers.names.14": "Andreas \"Sonnen Krieger\" Nuding",
+    "entries.testers.names.15": "Andrew S Burns",
+    "entries.testers.names.16": "Carolin Kresse",
+    "entries.testers.names.17": "Christian \"DFYX\" Käser",
+    "entries.testers.names.18": "Daniel 'dna' Heimann",
+    "entries.testers.names.19": "Dreath",
+    "entries.testers.names.20": "EclipsedHusky",
+    "entries.testers.names.21": "Graeme 'Thee Forsaken One' Foote",
+    "entries.testers.names.22": "Jákup Fuglø",
+    "entries.testers.names.23": "Lennart Kessler",
+    "entries.testers.names.24": "Manuel",
+    "entries.testers.names.25": "Max Hafenheld_Max Valerius",
+    "entries.testers.names.26": "Michael A. 'netwarrior1981' Sevay",
+    "entries.testers.names.27": "Michael V. Olson",
+    "entries.testers.names.28": "Philipp Dörfler",
+    "entries.testers.names.29": "Raen 'Red' Andaleio",
+    "entries.testers.names.30": "Rassi19",
+    "entries.testers.names.31": "Samuel 'Samylots' Beaudoin",
+    "entries.testers.names.32": "Tian 'thenameisuppercase' Xu",
+    "entries.testers.names.33": "YUTAKA ARMDroid SUZUKI",
+    "entries.testers.names.34": "Andrew Keturi",
+    "entries.testers.names.35": "Dominic Meier",
+    "entries.testers.names.36": "Dopsi",
+    "entries.testers.names.37": "Johannes Böckmann",
+    "entries.testers.names.38": "KainDarkfire",
+    "entries.testers.names.39": "Martin Senges",
+    "entries.testers.names.40": "Nathan Losee",
+    "entries.testers.names.41": "Ryan \"Raytaku\" Elias",
+    "entries.testers.names.42": "Samuel Carter",
+    "entries.testers.names.43": "Sebastian Klein",
+    "entries.testers.names.44": "Shelanoir",
+    "entries.testers.names.45": "Alexander 'Akuni' Ernst",
+    "entries.testers.names.46": "Andrew Airmet",
+    "entries.testers.names.47": "Anthony Haller",
+    "entries.testers.names.48": "Ben Lalande",
+    "entries.testers.names.49": "Cameron Yarger",
+    "entries.testers.names.50": "CannedDisaster",
+    "entries.testers.names.51": "Chisos de'Gondra",
+    "entries.testers.names.52": "Christopher Babic",
+    "entries.testers.names.53": "Corbin Roderick",
+    "entries.testers.names.54": "David Goodenough",
+    "entries.testers.names.55": "Dukmos",
+    "entries.testers.names.56": "Erik Heilig",
+    "entries.testers.names.57": "깐츄럴",
+    "entries.testers.names.58": "Flanneko",
+    "entries.testers.names.59": "Grauken",
+    "entries.testers.names.60": "Hai Tien 'High' Tran",
+    "entries.testers.names.61": "Henrik 'Gori' Landin",
+    "entries.testers.names.62": "Hugo 'Svintoo🇸🇪' Ankarloo",
+    "entries.testers.names.63": "Jan 'Sephibox' Polland",
+    "entries.testers.names.64": "Joshua \"Candescence\" Braico",
+    "entries.testers.names.65": "Kay Elspas",
+    "entries.testers.names.66": "Kevin Lanzmich",
+    "entries.testers.names.67": "Kjetil 'Kientero' Dypfest",
+    "entries.testers.names.68": "Konstantin Weber",
+    "entries.testers.names.69": "Koukai",
+    "entries.testers.names.70": "Lukas Daniel Klausner",
+    "entries.testers.names.71": "Mark Williamson",
+    "entries.testers.names.72": "Maximilian 'BananaTeddy' Hering",
+    "entries.testers.names.73": "Maximilian 'ikari_01' Rehkopf",
+    "entries.testers.names.74": "Mike Hall",
+    "entries.testers.names.75": "Morgan H.",
+    "entries.testers.names.76": "Motherboard",
+    "entries.testers.names.77": "Nhan ‘Jason’ Pham",
+    "entries.testers.names.78": "Paul Zaczkiewicz",
+    "entries.testers.names.79": "Peter 'Damanation' Ovelmen",
+    "entries.testers.names.80": "Ridge Shrubsall",
+    "entries.testers.names.81": "Ryan Charles-Edwin Holt",
+    "entries.testers.names.82": "Sebastian 'Tetrakern' Vetter",
+    "entries.testers.names.83": "shauntmw",
+    "entries.testers.names.84": "Stefan Dühring",
+    "entries.testers.names.85": "Stefan Kulzer",
+    "entries.testers.names.86": "Suryce",
+    "entries.testers.names.87": "Tanja 'Trixy' Molle",
+    "entries.testers.names.88": "Thau",
+    "entries.testers.names.89": "TheRusty22 (Shizuka-GotThePower)",
+    "entries.testers.names.90": "Tililio",
+    "entries.testers.names.91": "Urinstein",
+    "entries.testers.names.92": "Verde F. Piuma",
+    "entries.testers.names.93": "Vincent 'ViMaSter' Mahnke",
+    "entries.testers.names.94": "Will \"Radnar\" Kilgore",
+    "entries.testers.names.95": "Will Horwitz",
+    "entries.testers.names.96": "William Gottschalk",
+    "entries.testers.names.97": "Yujiro 'finalbeta' Nakamura",
+    "entries.testers.names.98": "Christopher 'CryZe' Serr",
+    "entries.testers.names.99": "Enalye",
+    "entries.testers.names.100": "Ignacio 'Nnubes256' Gutiérrez",
+    "entries.testers.names.101": "Ingo Rößner",
+    "entries.testers.names.102": "Miguel \"ProgramGamer\" Arseneault",
+    "entries.testers.names.103": "Superstinker666",
+    "entries.testers.names.104": "Vincent Vielva",
+    "entries.testers.names.105": "esotericist",
+    "entries.testers.names.106": "Justin \"Lotus\" Fruhling",
+    "entries.testers.names.107": "Luis \"The Luis\" Cruz",
+    "entries.testers.names.108": "Mike J Ferens",
+    "entries.testers.names.109": "@denomdemon",
+    "entries.testers.names.110": "@remmythical",
+    "entries.testers.names.111": "Aaron C. Scott",
+    "entries.testers.names.112": "Adrian 'adiac' Aurnhammer",
+    "entries.testers.names.113": "Adrian 'Firecrow' Boivin",
+    "entries.testers.names.114": "Alan 'Porkchop' Yeoh",
+    "entries.testers.names.115": "Aleksei 'LAS' Lebedev",
+    "entries.testers.names.116": "Alexander \"A_Dude\" Eder",
+    "entries.testers.names.117": "Alexander 'lxndio' Korn",
+    "entries.testers.names.118": "Alexander [Dewm] Rahemat",
+    "entries.testers.names.119": "Allen Crimmins",
+    "entries.testers.names.120": "Amar 'MasterMario' Hekalo",
+    "entries.testers.names.121": "Andreas 'cfxxl' Gebert",
+    "entries.testers.names.122": "Andreas Wieser",
+    "entries.testers.names.123": "Anton \"BonzenKuh\" Gres",
+    "entries.testers.names.124": "Arne Gehrking",
+    "entries.testers.names.125": "Audric 'Hixan' Trossat",
+    "entries.testers.names.126": "Brian Hardison",
+    "entries.testers.names.127": "Brice 'Dais' Marson",
+    "entries.testers.names.128": "Carl Endres, Technomagus",
+    "entries.testers.names.129": "cenras ",
+    "entries.testers.names.130": "Christian Boisjoli",
+    "entries.testers.names.131": "Clankinator",
+    "entries.testers.names.132": "Conrad Geisel",
+    "entries.testers.names.133": "crediar",
+    "entries.testers.names.134": "Daniel 'danbruegge' Brüggemann",
+    "entries.testers.names.135": "Daniel 'Tschakko' Frisch",
+    "entries.testers.names.136": "Daniel Gonzalez - Daniss4",
+    "entries.testers.names.137": "Daniel Spieldenner",
+    "entries.testers.names.138": "David \"TaDavidID\" Tarakanoff",
+    "entries.testers.names.139": "David Håkansson",
+    "entries.testers.names.140": "Dennis Apitz",
+    "entries.testers.names.141": "Derek 'Der999' West",
+    "entries.testers.names.142": "Dogi the wallcrusher",
+    "entries.testers.names.143": "Draco 'Reality' Dynasty",
+    "entries.testers.names.144": "edabonacci",
+    "entries.testers.names.145": "Eduardo 'KGrindelwald' Chang",
+    "entries.testers.names.146": "Emilio \"Deathberry\" Lachaine",
+    "entries.testers.names.147": "Emmanuel TRASSART",
+    "entries.testers.names.148": "Enno Hansjürgen",
+    "entries.testers.names.149": "Eric 'BreakerBeam' Tacher",
+    "entries.testers.names.150": "Erik 'Teras' Steinhagen",
+    "entries.testers.names.151": "Felix the Unmighty",
+    "entries.testers.names.152": "flgr",
+    "entries.testers.names.153": "FuBe 0815",
+    "entries.testers.names.154": "Giovanni Tagliamonte",
+    "entries.testers.names.155": "Glagroon",
+    "entries.testers.names.156": "Glenn Tomczak",
+    "entries.testers.names.157": "gRuFtY",
+    "entries.testers.names.158": "HamsterBob",
+    "entries.testers.names.159": "Hayden McAfee",
+    "entries.testers.names.160": "Haydon Bakker",
+    "entries.testers.names.161": "Hendrik Wilka",
+    "entries.testers.names.162": "Horoneru",
+    "entries.testers.names.163": "Iker 'Scrivaret' River(Hexa)cast",
+    "entries.testers.names.164": "itfitz",
+    "entries.testers.names.165": "Jack 'Czar' Morris",
+    "entries.testers.names.166": "James 'Jimmeth' Mulholland",
+    "entries.testers.names.167": "James 'Nazacra' Fryer",
+    "entries.testers.names.168": "James Gregor",
+    "entries.testers.names.169": "Jan 'Barney' Schneider",
+    "entries.testers.names.170": "Jan Meraide Wiesenauer ",
+    "entries.testers.names.171": "Jan van den Brand",
+    "entries.testers.names.172": "Jannis Lennart Hell",
+    "entries.testers.names.173": "Jay \"Seraph\" Dietrich",
+    "entries.testers.names.174": "Jörg Tremmel",
+    "entries.testers.names.175": "Jens \"Kuro\" Reuter",
+    "entries.testers.names.176": "Jeremy 'Gwen' Vroegen",
+    "entries.testers.names.177": "Jerodar",
+    "entries.testers.names.178": "Johannes \"warraptor2\" Nguyen",
+    "entries.testers.names.179": "Johnny Ratfiend",
+    "entries.testers.names.180": "Jonas Dahms",
+    "entries.testers.names.181": "Jonathan Goetz",
+    "entries.testers.names.182": "Joshua 'Xyfero' Findon",
+    "entries.testers.names.183": "Julia \"FlareShard\" Hartl",
+    "entries.testers.names.184": "Julian Mattke",
+    "entries.testers.names.185": "Juri Weber",
+    "entries.testers.names.186": "Kat 'Neptune' Tyler",
+    "entries.testers.names.187": "Kevin \"Keybe\" Bahrs",
+    "entries.testers.names.188": "Kevin Mayorga",
+    "entries.testers.names.189": "Kevin Patches Holbrook",
+    "entries.testers.names.190": "Kevin W. - \"MasterKain94\"",
+    "entries.testers.names.191": "Kieron Overton",
+    "entries.testers.names.192": "Kira 'Antichrist' Uhlig",
+    "entries.testers.names.193": "Konstantin Zyryanov",
+    "entries.testers.names.194": "KooBooLdd",
+    "entries.testers.names.195": "Kosac07",
+    "entries.testers.names.196": "Kuzma",
+    "entries.testers.names.197": "Kyle Slazinik",
+    "entries.testers.names.198": "Lagen Scheit",
+    "entries.testers.names.199": "Lina 'Auxeras' Dzierzbicki",
+    "entries.testers.names.200": "Lucas 'Ensis' Thiemann",
+    "entries.testers.names.201": "Luna Huizinga (PixelGirl)",
+    "entries.testers.names.202": "Manuel 'Geeklich' Martinez",
+    "entries.testers.names.203": "Marco 'Rommsta' Friedrichs",
+    "entries.testers.names.204": "Martin \"Takaya\" Böhme",
+    "entries.testers.names.205": "Matt 'Buggzor' Sobolewski",
+    "entries.testers.names.206": "Matthew Campagna",
+    "entries.testers.names.207": "Matthias 'DodoCommando' Lubbers",
+    "entries.testers.names.208": "Max \"Vesperia\" B.",
+    "entries.testers.names.209": "Michael \"Kaoschan\" Gajda",
+    "entries.testers.names.210": "Michael 'Sephka' Perkins",
+    "entries.testers.names.211": "Miguel 'MkayIndianaJones' Christiansen",
+    "entries.testers.names.212": "Mithaldu",
+    "entries.testers.names.213": "Mitsuru Sangral",
+    "entries.testers.names.214": "My Breakfast This Morning",
+    "entries.testers.names.215": "NATEINCAPS",
+    "entries.testers.names.216": "Nathan Ogden",
+    "entries.testers.names.217": "Nenoa",
+    "entries.testers.names.218": "Nickolay 'ForsakenFox' Ryzhov",
+    "entries.testers.names.219": "Niklas Rohde / xXBlackEnergyXx",
+    "entries.testers.names.220": "Nils 'ExDeath' Lenertat",
+    "entries.testers.names.221": "Oliver Nischwitz",
+    "entries.testers.names.222": "Om Mani 'Peme' Hung",
+    "entries.testers.names.223": "Omer Neu",
+    "entries.testers.names.224": "PakratosR7",
+    "entries.testers.names.225": "Panzareon",
+    "entries.testers.names.226": "Patrick Keller",
+    "entries.testers.names.227": "Pedroichi",
+    "entries.testers.names.228": "Peter Kristoffersen",
+    "entries.testers.names.229": "Philippe Lagardere",
+    "entries.testers.names.230": "Phiqu",
+    "entries.testers.names.231": "Pierre \"Clipperton\" Macaire",
+    "entries.testers.names.232": "psam",
+    "entries.testers.names.233": "Quang Hue Tran",
+    "entries.testers.names.234": "ReploidSham",
+    "entries.testers.names.235": "Richard Nichols",
+    "entries.testers.names.236": "Robert 'Tsett' Zimmermann",
+    "entries.testers.names.237": "Robert Fogle",
+    "entries.testers.names.238": "RoccoR",
+    "entries.testers.names.239": "Rota Fortunae",
+    "entries.testers.names.240": "Rotdoz",
+    "entries.testers.names.241": "Rowanism",
+    "entries.testers.names.242": "Ryuxan",
+    "entries.testers.names.243": "S. \"Innocentia\" Harlos",
+    "entries.testers.names.244": "Scott Dennison (SukottoD)",
+    "entries.testers.names.245": "Sean \"CyberKitsune\" McClenaghan",
+    "entries.testers.names.246": "Shawn",
+    "entries.testers.names.247": "Starbeamrainbowlabs",
+    "entries.testers.names.248": "Stefan Roderich Richter",
+    "entries.testers.names.249": "Stefan Schatzl",
+    "entries.testers.names.250": "Sunshine Bear",
+    "entries.testers.names.251": "Sven Zimmermann",
+    "entries.testers.names.252": "Tiago Bluemel Cardoso",
+    "entries.testers.names.253": "Timothy \"Shachihoko\" Miller",
+    "entries.testers.names.254": "Torsten Spieldenner",
+    "entries.testers.names.255": "ToxicPercival",
+    "entries.testers.names.256": "Trypetide",
+    "entries.testers.names.257": "TwiliLink",
+    "entries.testers.names.258": "Vanessa the Williams",
+    "entries.testers.names.259": "Victor Massini",
+    "entries.testers.names.260": "Vincent Paul Dinger aka Ark626",
+    "entries.testers.names.261": "Wieland 'Der Schilderich' Möbus",
+    "entries.testers.names.262": "Will Cho",
+    "entries.testers.names.263": "Wybe \"WhyBe\" Janssen",
+    "entries.testers.names.264": "Xephyr",
+    "entries.testers.names.265": "XSystem252",
+    "entries.testers.names.266": "Yamakyu",
+    "entries.testers.names.267": "Yashoro",
+    "entries.testers.names.268": "Zur700",
+    "entries.testers.names.269": "6bruno9",
+    "entries.testers.names.270": "Adrien Voirol",
+    "entries.testers.names.271": "Alex \"*Mute\" R.",
+    "entries.testers.names.272": "Alexander \"Borgmo\" Yuschuk",
+    "entries.testers.names.273": "Andreas 'audi1993' Hartmann",
+    "entries.testers.names.274": "Anton 'mrkun' Chaynikov",
+    "entries.testers.names.275": "Arkblonable",
+    "entries.testers.names.276": "BeardBear",
+    "entries.testers.names.277": "Benjamin Lipton",
+    "entries.testers.names.278": "Boris Schierle",
+    "entries.testers.names.279": "Brandon 'Brat' Parsons",
+    "entries.testers.names.280": "Caleb Bott \"Cyberbrickmaster\"",
+    "entries.testers.names.281": "Cem KenDeep Anar",
+    "entries.testers.names.282": "Cheynas",
+    "entries.testers.names.283": "Christian Masser",
+    "entries.testers.names.284": "Clemens Sielaff",
+    "entries.testers.names.285": "Daniel \"Firechu\" Roa",
+    "entries.testers.names.286": "David Henninger",
+    "entries.testers.names.287": "Devon Obrecht",
+    "entries.testers.names.288": "DFDelta",
+    "entries.testers.names.289": "Disinterested_",
+    "entries.testers.names.290": "Dominik 'Enkidu' Freiburg",
+    "entries.testers.names.291": "Eddie \"VPURecover\" Mitchell",
+    "entries.testers.names.292": "Erik \"Migon\" Lystad",
+    "entries.testers.names.293": "Fabian Guth",
+    "entries.testers.names.294": "Flavio Chierichetti",
+    "entries.testers.names.295": "Frankstar",
+    "entries.testers.names.296": "FrozenTux",
+    "entries.testers.names.297": "GamerXP",
+    "entries.testers.names.298": "Heine Elias Karlsen Andersen",
+    "entries.testers.names.299": "Ignacio '4RobeRT' Recio Gómez",
+    "entries.testers.names.300": "Jacob Jakobsson",
+    "entries.testers.names.301": "Jan-Niklas Carstensen",
+    "entries.testers.names.302": "Jason Fortin",
+    "entries.testers.names.303": "Jendrik \"paranoidSpectre\" Witt",
+    "entries.testers.names.304": "Jenocke",
+    "entries.testers.names.305": "Jens 'Assakes' Haarmann",
+    "entries.testers.names.306": "Jesse Philemon ",
+    "entries.testers.names.307": "Josh 'Rex705' Clark",
+    "entries.testers.names.308": "Julian Chan",
+    "entries.testers.names.309": "Kyle Baadsvik",
+    "entries.testers.names.310": "Laurent Haan",
+    "entries.testers.names.311": "Lawrence Shagsworth",
+    "entries.testers.names.312": "Lucien 'Phundrak' Cartier-Tilet",
+    "entries.testers.names.313": "Marcel 'CrayveN' Funk",
+    "entries.testers.names.314": "Mike 'vapier' Frysinger",
+    "entries.testers.names.315": "Motom",
+    "entries.testers.names.316": "Mouzi",
+    "entries.testers.names.317": "Nam 'Blitznae' Le",
+    "entries.testers.names.318": "Namregog",
+    "entries.testers.names.319": "Niklas Ley",
+    "entries.testers.names.320": "Nils Budde ",
+    "entries.testers.names.321": "Oleg \"Olesch\" Yuschuk",
+    "entries.testers.names.322": "Orphansmith",
+    "entries.testers.names.323": "Pat Neeland (Patois)",
+    "entries.testers.names.324": "Pavel Khlopin",
+    "entries.testers.names.325": "RenjixD",
+    "entries.testers.names.326": "Robin Skowronnek",
+    "entries.testers.names.327": "Samuel \"Sääähm\" Gruber",
+    "entries.testers.names.328": "Sangmook Lee",
+    "entries.testers.names.329": "Scaine",
+    "entries.testers.names.330": "Schaaf dasMaeh",
+    "entries.testers.names.331": "Scott McKie",
+    "entries.testers.names.332": "Sebastian 'Paneka' Mauch",
+    "entries.testers.names.333": "Silas Coldfire",
+    "entries.testers.names.334": "Smurphicus",
+    "entries.testers.names.335": "SoundHunter",
+    "entries.testers.names.336": "Stephen east",
+    "entries.testers.names.337": "Sylvester Veenstra ",
+    "entries.testers.names.338": "Tarik Horton",
+    "entries.testers.names.339": "Teddy 'Gåsen' Sjöström",
+    "entries.testers.names.340": "Tim 'Kazsh' Hagedorn",
+    "entries.testers.names.341": "Tim Platzke",
+    "entries.testers.names.342": "Timbo",
+    "entries.testers.names.343": "Tobias 'Tobi042' Theobald",
+    "entries.testers.names.344": "Tony C",
+    "entries.testers.names.345": "Toyoch",
+    "entries.testers.names.346": "Tyler Thomas",
+    "entries.testers.names.347": "WhenChukAttacks",
+    "entries.testers.names.348": "William O'Neill",
+    "entries.testers.names.349": "Windsor 'TLG' Kasekende",
+    "entries.testers.names.350": "Yann 'Sabata' Perrichon"
   },
   "assets/data/credits/beta-tester.json": {
     "entries.header.header": "베타 테스터<<A<<[CHANGED 2018/09/14]",
+    "entries.testers.header": "en_US",
     "entries.testers.names.0": "Adrian 'Firecrow' Boivin<<A<<[CHANGED 2018/09/17]",
     "entries.testers.names.1": "Dennis 'HerrDekay' Kröner<<A<<[CHANGED 2018/08/28]",
     "entries.testers.names.2": "Eivind \"flesk\" K. Nilsbakken<<A<<[CHANGED 2018/08/28]",
@@ -3237,16 +4140,25 @@
     "drops.STONE_AGES.name": "시대의 새싹<<A<<[CHANGED 2018/07/09]",
     "drops.STONE_AGES.subArea": "\\c[3]\\v[area.rhombus-sqr.name]\\c[0]에 있는 외딴 정원에서 발견했습니다.<<A<<[CHANGED 2018/08/01]",
     "drops.Cold-Dng-1-bug.name": "알파 달걀 포트",
+    "drops.Cold-Dng-1-bug.subArea": "en_US",
     "drops.Cold-Dng-3-bug.name": "감마 달걀 포트",
+    "drops.Cold-Dng-3-bug.subArea": "en_US",
     "drops.Cold-Dng-2-bug.name": "베타 달걀 포트",
+    "drops.Cold-Dng-2-bug.subArea": "en_US",
     "drops.Cold-Dng-4-bug.name": "델타 달걀 포트",
+    "drops.Cold-Dng-4-bug.subArea": "en_US",
     "drops.Cold-Dng-Special-1-bug.name": "오메가 달걀 포트 A",
+    "drops.Cold-Dng-Special-1-bug.subArea": "en_US",
     "drops.Cold-Dng-Special-2-bug.name": "오메가 달걀 포트 B",
+    "drops.Cold-Dng-Special-2-bug.subArea": "en_US",
     "drops.jungle-bees-2.name": "벌집 오른쪽",
+    "drops.jungle-bees-2.subArea": "en_US",
     "drops.jungle-bees-3.name": "벌집 왼쪽",
+    "drops.jungle-bees-3.subArea": "en_US",
     "drops.AA_TUTORIAL_2.name": "AA_TUTORIAL_2",
     "drops.AA_TUTORIAL_1.name": "AA_TUTORIAL_1",
     "drops.AutumnPlantA.name": "AutumnTestPlant",
+    "drops.AutumnPlantA.subArea": "en_US",
     "enemies.snowman.name": "카로토",
     "enemies.snowman.species": "마법에 걸린 눈사람",
     "enemies.snowman.descriptions.0.text": "이 수수께끼의 존재는 마법사가 외로웠을 당시에 생명을 불어넣어 줬지만, 개틀링 총이나 쏘는 나쁜 녀석으로 변해 버려졌다는 얘기가 있습니다.\n평범한 눈사람인 척하다가, 가까이 오는 사람이 있으면 굳이 공격할 필요가 없는데도 공격합니다.\n오랜 시간 가까이 있다가는 많은 대미지를 입히는 지면 습격 공격을 할 것이므로 좋은 생각은 아닙니다.<<A<<[CHANGED 2018/09/19]",
@@ -3336,6 +4248,12 @@
     "enemies.jungle.special.snowman-jungle-boss-scene.species": "눈사람 관광객<<A<<[CHANGED 2018/08/01]",
     "enemies.jungle.special.iceWall.name": "빙벽<<A<<[CHANGED 2018/09/14]",
     "enemies.jungle.special.iceWall.species": "언 물 모양<<A<<[CHANGED 2018/08/01]",
+    "enemies.arid.laser-catcher.name": "arid.laser-catcher",
+    "enemies.arid.laser-catcher.species": "en_US",
+    "enemies.special.sergey-hax.name": "special.sergey-hax",
+    "enemies.special.sergey-hax.species": "en_US",
+    "enemies.special.sergey-hax2.name": "special.sergey-hax2",
+    "enemies.special.sergey-hax2.species": "en_US",
     "enemies.avatar.apollo.name": "아폴로",
     "enemies.avatar.apollo.descriptions.0.text": "레아를 치터로 몬 자칭 정의의 사도로, 그녀에게 도전장을 내밉니다. 그는 꽤 실력 있는 전사로 더 절박한 상황이 될수록 더 강해집니다.<<A<<[CHANGED 2018/09/19]",
     "enemies.avatar.apollo.species": "정의의 사도",
@@ -3591,6 +4509,7 @@
     "enemies.frobbit-miniboss-femme.name": "레이디 프로빗",
     "enemies.frobbit-miniboss-femme.species": "포유류",
     "enemies.autumn-rh.seahorse-river.name": "autumn-rh.seahorse-river",
+    "enemies.autumn-rh.seahorse-river.species": "Flying Seahorse",
     "enemies.cold.coldbug-quest-bombing-2.name": "cold.coldbug-quest-bombing-2<<A<<[CHANGED 2017/10/17]",
     "enemies.cold.coldbug-quest-bombing-2.descriptions.0.text": "\\c[3]\\v[combat.name.mine-coldbug]\\c[0]의 변종이지만 냉기 속성에 덜 익숙합니다. 그 대신, 같은 계통보다 더 단단한 껍질을 가진 형태로 진화했습니다. 제대로 대미지를 가하는 유일한 방법은 \\c[3]큰 폭발물\\c[0]뿐입니다.<<A<<[CHANGED 2018/09/02]",
     "enemies.cold.coldbug-quest-bombing-2.species": "곤충, 벌레<<A<<[CHANGED 2018/07/09]",
@@ -3734,6 +4653,7 @@
     "enemies.autumn-fall.ball.name": "탐사기<<A<<[CHANGED 2017/10/17]",
     "enemies.autumn-fall.ball.species": "수수께끼 장치<<A<<[CHANGED 2017/10/17]",
     "enemies.autumn-rh.big_turret-quest_naval.name": "autumn-rh.big_turret-quest_naval",
+    "enemies.autumn-rh.big_turret-quest_naval.species": "Rookie Sentry",
     "enemies.heat.special.kamikatze-helper.name": "캣 4-PU17",
     "enemies.heat.special.kamikatze-helper.species": "채굴 로봇",
     "enemies.heat.special.brew-bubbler.name": "양조 버블러",
@@ -3743,6 +4663,7 @@
     "enemies.heat.special.brew-machine.name": "양조 기계",
     "enemies.heat.special.brew-machine.species": "기계류",
     "enemies.autumn-fall.ball-backup.name": "autumn-fall.ball-backup<<A<<[CHANGED 2017/10/17]",
+    "enemies.autumn-fall.ball-backup.species": "Mystery Device",
     "enemies.shredder-alpha-challenge.name": "알파 슈레더",
     "enemies.shredder-alpha-challenge.species": "수호자 파수병",
     "enemies.autumn-rh.practice-bot.name": "연습 봇",
@@ -4523,14 +5444,17 @@
     "quests.subquest-test.tasks.1.task": "2. 과제",
     "quests.subquest-test.tasks.2.task": "3. 과제",
     "quests.subquest-test-1.name": "서브퀘스트 #1",
+    "quests.subquest-test-1.person": "en_US",
     "quests.subquest-test-1.description": "서브퀘스트 #1 수집",
     "quests.subquest-test-1.briefing": "잘했어요 #1",
     "quests.subquest-test-1.tasks.0.task": "아이템을 수집하세요",
     "quests.subquest-test-2.name": "서브퀘스트 #2",
+    "quests.subquest-test-2.person": "en_US",
     "quests.subquest-test-2.description": "서브퀘스트 #2 처치",
     "quests.subquest-test-2.briefing": "잘했어요 #2",
     "quests.subquest-test-2.tasks.0.task": "적을 처치하세요",
     "quests.subquest-test-3.name": "서브퀘스트 #3",
+    "quests.subquest-test-3.person": "en_US",
     "quests.subquest-test-3.description": "서브퀘스트 #3 조건",
     "quests.subquest-test-3.briefing": "잘했어요 #3",
     "quests.subquest-test-3.tasks.0.task": "조건을 해결하세요",
@@ -5665,7 +6589,8 @@
     "meta.species": "에보타<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/enemies/arid/laser-catcher.json": {
-    "proxies.detector.action.3.elseStep.0.text": "발견된 에보타 없음.<<A<<[CHANGED 2018/07/09]"
+    "proxies.detector.action.3.elseStep.0.text": "발견된 에보타 없음.<<A<<[CHANGED 2018/07/09]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/arid/mega-laser.json": {
     "meta.species": "죽음의 기계<<A<<[CHANGED 2017/10/17]",
@@ -6699,11 +7624,13 @@
     "meta.descriptions.0.text": "이 훈련 모형은 신규 플레이어가 공격받을 걱정 없이 \\c[3]전투 기술\\c[0]과 다른 기술을 시험하는 데 사용됩니다.<<A<<[CHANGED 2018/07/09]"
   },
   "assets/data/enemies/special/sergey-hax.json": {
-    "proxies.playerHack.action.4.text": "공격 버프<<A<<[CHANGED 2018/03/14]"
+    "proxies.playerHack.action.4.text": "공격 버프<<A<<[CHANGED 2018/03/14]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/special/sergey-hax2.json": {
     "proxies.shredderHack.action.12.thenStep.0.thenStep.11.text": "고정됨<<A<<[CHANGED 2018/07/09]",
-    "proxies.shredderShieldHack.action.3.text": "해킹<<A<<[CHANGED 2018/07/09]"
+    "proxies.shredderShieldHack.action.3.text": "해킹<<A<<[CHANGED 2018/07/09]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/special/target-bot.json": {
     "meta.species": "훈련 봇",
@@ -11117,6 +12044,10 @@
   "assets/data/maps/arid/town-2.json": {
     "entities.290.settings.blockEvent.0.elseStep.4.message": "강쪽 지역에는 갈 필요 없어. 우린 이미 어제 가 봤으니.<<A<<[CHANGED 2018/01/14]",
     "entities.290.settings.blockEvent.0.elseStep.5.message": "...<<A<<[CHANGED 2018/01/14]",
+    "entities.380.settings.teleportLabel": "en_US",
+    "entities.381.settings.teleportLabel": "en_US",
+    "entities.382.settings.teleportLabel": "en_US",
+    "entities.383.settings.teleportLabel": "en_US",
     "entities.389.settings.interact.hoverText": "\\i[arrow-n] \\c[1]금지 구역\\c[0]\n\\i[arrow-e] 기숙사\n\\i[arrow-s] 강\n\\i[arrow-w] 호수<<A<<[CHANGED 2018/03/14]",
     "entities.394.settings.event.0.message": "그래, 저기 있네. 바로 저쪽에 있는 큰 건물이야.<<A<<[CHANGED 2017/10/17]",
     "entities.397.settings.dialog.0.text": "올라가지 마시오, 놈들이 자네들을 때릴 거라우...<<A<<[CHANGED 2017/10/17]",
@@ -11268,6 +12199,7 @@
     "entities.461.settings.npcStates.0.event.0.elseStep.3.message": "제발...\\. 날 내버려 둬...<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/arid-dng/first/jump-last.json": {
+    "entities.1.settings.destinations.0.label": "en_US",
     "entities.2.settings.event.8.message": "\\s[5]...이.............게 뭐야?!<<A<<[CHANGED 2018/03/14]",
     "entities.2.settings.event.23.message": "바, 바, 방금 말 그대로 네 번째 벽인지 뭔지를 깬 거야?!<<A<<[CHANGED 2018/03/14]",
     "entities.2.settings.event.24.message": "...<<A<<[CHANGED 2018/03/14]",
@@ -11692,12 +12624,14 @@
     "entities.64.settings.event.131.message": "레아, 고트햄을 멈춰야 해!\\. 어떻게든!!<<A<<[CHANGED 2018/08/28]",
     "entities.64.settings.event.141.message": "잠깐!!<<A<<[CHANGED 2018/08/28]",
     "entities.64.settings.event.169.message": "이제 로그아웃할 시간이군.<<A<<[CHANGED 2018/08/28]",
-    "entities.64.settings.event.174.message": "\\s[6]고트햄, 안 돼!!!<<A<<[CHANGED 2018/09/02]"
+    "entities.64.settings.event.174.message": "\\s[6]고트햄, 안 돼!!!<<A<<[CHANGED 2018/09/02]",
+    "entities.66.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/arid-dng/second/f99/pre-server.json": {
     "entities.47.settings.event.13.text": "키 승인됨<<A<<[CHANGED 2018/08/28]",
     "entities.47.settings.event.17.text": "키 승인됨<<A<<[CHANGED 2018/08/28]",
-    "entities.47.settings.event.20.text": "키 승인됨<<A<<[CHANGED 2018/08/28]"
+    "entities.47.settings.event.20.text": "키 승인됨<<A<<[CHANGED 2018/08/28]",
+    "entities.48.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/arid-dng/second/f99/server-room.json": {
     "entities.27.settings.event.8.message": "여기다.<<A<<[CHANGED 2018/08/28]",
@@ -11904,10 +12838,10 @@
     "entities.92.settings.npcStates.6.event.0.name": "미천한 도우미",
     "entities.92.settings.npcStates.6.event.2.message": "안녕하세요, \\v[lore.title.seeker] 양!\\. 즐거운 모험 되세요.",
     "entities.92.settings.npcStates.6.event.3.message": "[끄덕]",
-    "entities.93.settings.teleportLabel": "",
-    "entities.94.settings.teleportLabel": "",
-    "entities.95.settings.teleportLabel": "",
-    "entities.96.settings.teleportLabel": "",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
+    "entities.96.settings.teleportLabel": "en_US",
     "entities.97.settings.interact.hoverText": "\\i[arrow-w] \\v[area.bergen-trails.name]로 가는 길\n\\i[arrow-e] \\v[area.rookie-harbor.name]",
     "entities.101.settings.event.1.title": "전투 랭크",
     "entities.101.settings.event.1.content": "\\c[3]전투 랭크\\c[0]를 올려 처치한 적에게서 더 많은 아이템 얻는 방법.",
@@ -11956,6 +12890,10 @@
     "entities.10.settings.interact.title": "\\c[3]가을의 거주지\\c[0]<<A<<[CHANGED 2017/07/21]",
     "entities.13.settings.interact.hoverText": "마지막 60초의 영웅들",
     "entities.15.settings.interact.hoverText": "마지막 60초의 영웅들",
+    "entities.159.settings.teleportLabel": "en_US",
+    "entities.160.settings.teleportLabel": "en_US",
+    "entities.161.settings.teleportLabel": "en_US",
+    "entities.162.settings.teleportLabel": "en_US",
     "entities.178.settings.event.1.text": "접근 거부",
     "entities.181.settings.event.2.message": "그리고 왼쪽으로.",
     "entities.181.settings.event.3.message": "작은 마을 같은 거구나!"
@@ -13426,6 +14364,10 @@
     "entities.284.settings.interact.event.4.text": "그러니까, 음... 안녕히 가세요.<<A<<[CHANGED 2017/10/17]"
   },
   "assets/data/maps/autumn/lake-observatory.json": {
+    "entities.518.settings.teleportLabel": "en_US",
+    "entities.519.settings.teleportLabel": "en_US",
+    "entities.520.settings.teleportLabel": "en_US",
+    "entities.521.settings.teleportLabel": "en_US",
     "entities.524.settings.npcStates.1.event.quest.2.message": "...!",
     "entities.524.settings.npcStates.1.event.quest.3.message": "오, 안녕.",
     "entities.524.settings.npcStates.1.event.quest.4.message": "안녕!",
@@ -13874,10 +14816,10 @@
     "entities.820.settings.text": "헨리가 설치한 탐사기. 데이터가 복구되었다."
   },
   "assets/data/maps/autumn/path-8.json": {
-    "entities.3.settings.teleportLabel": "",
-    "entities.4.settings.teleportLabel": "",
-    "entities.5.settings.teleportLabel": "",
-    "entities.6.settings.teleportLabel": "",
+    "entities.3.settings.teleportLabel": "en_US",
+    "entities.4.settings.teleportLabel": "en_US",
+    "entities.5.settings.teleportLabel": "en_US",
+    "entities.6.settings.teleportLabel": "en_US",
     "entities.7.settings.interact.hoverText": "\\i[arrow-ne] \\v[area.bergen-trails.name]\n\\i[arrow-se] \\v[area.rookie-harbor.name]로 가는 길",
     "entities.429.settings.event.5.message": "이봐!",
     "entities.429.settings.event.9.thenStep.0.message": "만나서 반가워!",
@@ -13961,8 +14903,10 @@
     "entities.606.settings.npcStates.1.event.3.message": "안녕!",
     "entities.606.settings.npcStates.1.event.4.message": "내가 DL로 진에게 다 말해놨으니, 굳이 그녀에게 말하지 않아도 돼.",
     "entities.606.settings.npcStates.1.event.5.message": "...",
-    "entities.610.settings.teleportLabel": "",
-    "entities.611.settings.teleportLabel": "",
+    "entities.608.settings.teleportLabel": "en_US",
+    "entities.609.settings.teleportLabel": "en_US",
+    "entities.610.settings.teleportLabel": "en_US",
+    "entities.611.settings.teleportLabel": "en_US",
     "entities.616.settings.dialog.0.text": "저 보물 정말 갖고 싶다...",
     "entities.616.settings.dialog.1.text": "제발 좀 포기해.",
     "entities.616.settings.dialog.2.text": "분명 우리가 빼먹은 중요 아이템이 있을 거야.",
@@ -14120,6 +15064,10 @@
   },
   "assets/data/maps/autumn-fall/path-01.json": {
     "entities.30.settings.interact.hoverText": "\\i[arrow-ne] \\v[area.jungle.name]으로 가는 길\n\\i[arrow-se] \\v[area.rookie-harbor.name]",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.33.settings.teleportLabel": "en_US",
+    "entities.34.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
     "entities.531.settings.event.0.message": "여기에 마을이 있었나 봐, 그렇지?<<A<<[CHANGED 2018/09/02]",
     "entities.531.settings.event.1.thenStep.0.message": "아주, 아주 오래전에.\\. 말 그대로 고대 때.<<A<<[CHANGED 2018/09/02]",
     "entities.532.settings.event.0.message": "레이저 다리가 돌아왔다!<<A<<[CHANGED 2018/09/02]",
@@ -14158,6 +15106,10 @@
     "entities.601.settings.blockEvent.3.message": "시트론과 다른 애들이 \\c[3]최초의 학자들 본부\\c[0]에서 널 기다리고 있는 것 같은데, 맞니?<<A<<[CHANGED 2018/07/09]",
     "entities.601.settings.blockEvent.4.message": "\\c[3]사파이어 산맥\\c[0]에 가기 전에 먼저 들러야 할 것 같아.<<A<<[CHANGED 2018/07/09]",
     "entities.601.settings.blockEvent.5.message": "...<<A<<[CHANGED 2018/07/09]",
+    "entities.695.settings.teleportLabel": "en_US",
+    "entities.696.settings.teleportLabel": "en_US",
+    "entities.697.settings.teleportLabel": "en_US",
+    "entities.698.settings.teleportLabel": "en_US",
     "entities.699.settings.interact.hoverText": "\\i[arrow-e] \\v[area.forest.name]으로 이어지는 터널\n\\i[arrow-w] \\v[area.jungle.name]\n<<A<<[CHANGED 2017/10/17]",
     "entities.704.settings.npcStates.0.event.2.message": "요, 안녕?<<A<<[CHANGED 2017/10/17]",
     "entities.704.settings.npcStates.0.event.3.thenStep.0.message": "\\c[3]\\v[item.410.name]\\c[0]를 가지고 있네! 좋아, 좋아!<<A<<[CHANGED 2017/10/17]",
@@ -14251,6 +15203,10 @@
     "entities.2.settings.blockEvent.3.elseStep.0.elseStep.2.message": "\\c[3]레이드\\c[0]가 끝나면 \\c[3]에밀리\\c[0]랑 같이 가는 줄 알았는데, 아니야?",
     "entities.2.settings.blockEvent.3.elseStep.0.elseStep.3.message": "[끄덕]",
     "entities.15.settings.interact.hoverText": "\\i[arrow-n] \\v[area.jungle.name]\n\\i[arrow-s] \\v[area.rookie-harbor.name]로 가는 길",
+    "entities.18.settings.teleportLabel": "en_US",
+    "entities.19.settings.teleportLabel": "en_US",
+    "entities.20.settings.teleportLabel": "en_US",
+    "entities.21.settings.teleportLabel": "en_US",
     "entities.132.settings.event.1.text": "접근 거부",
     "entities.587.settings.event.0.message": "돌아온 레이저 다리!<<A<<[CHANGED 2018/09/02]"
   },
@@ -14268,6 +15224,10 @@
     "entities.671.settings.event.5.message": "으, 괜히 물어봤네...<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/autumn-fall/path-07.json": {
+    "entities.6.settings.teleportLabel": "en_US",
+    "entities.7.settings.teleportLabel": "en_US",
+    "entities.8.settings.teleportLabel": "en_US",
+    "entities.9.settings.teleportLabel": "en_US",
     "entities.10.settings.interact.hoverText": "\\i[arrow-n] \\v[area.jungle.name]로 가는 길\n\\i[arrow-s] \\v[area.autumn-area.name]",
     "entities.613.settings.event.1.thenStep.0.thenStep.0.text": "<귀환점 변경됨><<A<<[CHANGED 2017/10/17]",
     "entities.618.settings.analyzable.text": "데가트<<A<<[CHANGED 2017/10/17]",
@@ -14381,9 +15341,10 @@
   },
   "assets/data/maps/autumn-fall/raid/raid-01.json": {
     "entities.16.settings.event.1.text": "접근 거부",
-    "entities.18.settings.teleportLabel": "",
-    "entities.20.settings.teleportLabel": "",
-    "entities.22.settings.teleportLabel": "",
+    "entities.18.settings.teleportLabel": "en_US",
+    "entities.20.settings.teleportLabel": "en_US",
+    "entities.21.settings.teleportLabel": "en_US",
+    "entities.22.settings.teleportLabel": "en_US",
     "entities.33.settings.event.1.text": "접근 거부",
     "entities.34.settings.event.1.text": "접근 거부",
     "entities.54.settings.npcStates.0.event.quest.2.message": "안녕!",
@@ -14496,8 +15457,8 @@
     "entities.57.settings.event.114.text": "기둥 공격자 배치",
     "entities.57.settings.event.115.text": "기둥 공격자 배치",
     "entities.57.settings.event.139.task": "다른 최초의 학자들 멤버와 함께 \\c[3]레이드\\c[0]를 완료하세요!",
-    "entities.295.settings.teleportLabel": "",
-    "entities.296.settings.teleportLabel": ""
+    "entities.295.settings.teleportLabel": "en_US",
+    "entities.296.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/autumn-fall/raid/raid-02.json": {
     "entities.16.settings.event.15.message": "고슴됴치? 정말? 그게 다라고?",
@@ -14581,9 +15542,9 @@
     "entities.25.settings.event.17.message": "흠... 이상하네...",
     "entities.25.settings.event.18.message": "...?",
     "entities.25.settings.event.19.message": "신경쓰지 마, 혼자 생각하고 있었어.<<A<<[CHANGED 2017/07/21]",
-    "entities.27.settings.teleportLabel": "",
-    "entities.28.settings.teleportLabel": "",
-    "entities.29.settings.teleportLabel": "",
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.29.settings.teleportLabel": "en_US",
     "entities.40.settings.event.9.message": "도착했다! 최종 단계를 할 차례군! 모두 준비됐어?",
     "entities.40.settings.event.10.message": "당연하지!",
     "entities.40.settings.event.11.message": "[끄덕]",
@@ -14594,6 +15555,9 @@
     "entities.41.settings.event.5.thenStep.0.elseStep.0.message": "거의 다 했어!"
   },
   "assets/data/maps/autumn-fall/raid/raid-05.json": {
+    "entities.191.settings.teleportLabel": "en_US",
+    "entities.192.settings.teleportLabel": "en_US",
+    "entities.193.settings.teleportLabel": "en_US",
     "entities.207.settings.event.19.message": "무, 무슨 일이 일어난 거야?",
     "entities.207.settings.event.20.message": "레아가... 없어졌어?",
     "entities.207.settings.event.21.message": "버그인가?",
@@ -14601,10 +15565,10 @@
   },
   "assets/data/maps/bergen/bergen.json": {
     "entities.281.settings.interact.hoverText": "\\i[arrow-nw] 오래된 여관\n\\i[arrow-se] 베르겐 산길",
-    "entities.282.settings.teleportLabel": "",
-    "entities.283.settings.teleportLabel": "",
-    "entities.284.settings.teleportLabel": "",
-    "entities.285.settings.teleportLabel": "",
+    "entities.282.settings.teleportLabel": "en_US",
+    "entities.283.settings.teleportLabel": "en_US",
+    "entities.284.settings.teleportLabel": "en_US",
+    "entities.285.settings.teleportLabel": "en_US",
     "entities.289.settings.interact.hoverText": "산속의 고요한 마을.",
     "entities.289.settings.interact.title": "- \\c[3]베르겐\\c[0] -<<A<<[CHANGED 2017/07/21]",
     "entities.832.settings.dialog.0.text": "친구들과 만나고 싶은 건 알겠는데, 굳이 이 추위 속에서 있어야 해?\\. 너무 추워!",
@@ -14791,23 +15755,23 @@
     "entities.900.settings.event.31.message": "그래, 그래.\\. 잘 가거라!"
   },
   "assets/data/maps/bergen/bergen2.json": {
-    "entities.155.settings.teleportLabel": "",
-    "entities.156.settings.teleportLabel": "",
-    "entities.157.settings.teleportLabel": "",
-    "entities.158.settings.teleportLabel": "",
-    "entities.159.settings.teleportLabel": "",
-    "entities.160.settings.teleportLabel": "",
-    "entities.161.settings.teleportLabel": "",
-    "entities.162.settings.teleportLabel": "",
-    "entities.163.settings.teleportLabel": "",
-    "entities.164.settings.teleportLabel": "",
-    "entities.165.settings.teleportLabel": "",
-    "entities.166.settings.teleportLabel": "",
+    "entities.155.settings.teleportLabel": "en_US",
+    "entities.156.settings.teleportLabel": "en_US",
+    "entities.157.settings.teleportLabel": "en_US",
+    "entities.158.settings.teleportLabel": "en_US",
+    "entities.159.settings.teleportLabel": "en_US",
+    "entities.160.settings.teleportLabel": "en_US",
+    "entities.161.settings.teleportLabel": "en_US",
+    "entities.162.settings.teleportLabel": "en_US",
+    "entities.163.settings.teleportLabel": "en_US",
+    "entities.164.settings.teleportLabel": "en_US",
+    "entities.165.settings.teleportLabel": "en_US",
+    "entities.166.settings.teleportLabel": "en_US",
     "entities.167.settings.teleportLabel": "크로스센트럴",
-    "entities.168.settings.teleportLabel": "",
-    "entities.169.settings.teleportLabel": "",
-    "entities.170.settings.teleportLabel": "",
-    "entities.171.settings.teleportLabel": "",
+    "entities.168.settings.teleportLabel": "en_US",
+    "entities.169.settings.teleportLabel": "en_US",
+    "entities.170.settings.teleportLabel": "en_US",
+    "entities.171.settings.teleportLabel": "en_US",
     "entities.264.settings.interact.hoverText": "\\i[arrow-nw] 옛 사원 광산\n\\i[arrow-w] 베르겐 철도\n\\i[arrow-se] 베르겐 산길",
     "entities.830.settings.analyzable.text": "모자 소녀<<A<<[CHANGED 2018/01/05]",
     "entities.830.settings.npcStates.0.event.0.name": "모자 소녀<<A<<[CHANGED 2018/01/05]",
@@ -16383,7 +17347,7 @@
     "entities.145.settings.event.6.message": "이 상황을 최대한 해결해볼게.<<A<<[CHANGED 2017/07/21]",
     "entities.145.settings.event.7.message": "너도 날 최대한 도와줘야 해. 그 녀석과 놀아주면서 시간을 벌고 있어 봐.",
     "entities.145.settings.event.8.message": "...!",
-    "entities.148.settings.teleportLabel": "",
+    "entities.148.settings.teleportLabel": "en_US",
     "entities.149.settings.event.5.message": "자 레아, 도망칠 시간이야!",
     "entities.149.settings.event.6.message": "오른쪽에 텔레포터가 있을 거야! 그곳에 달려가서 최대한 빨리 사용하도록 해!",
     "entities.149.settings.event.7.message": "...!!",
@@ -16678,11 +17642,11 @@
     "entities.455.settings.npcStates.6.event.quest.47.message": "저게 그냥 일반적인 새끼 프로빗이라는 걸 진에게 말하지 않을 거야?",
     "entities.455.settings.npcStates.6.event.quest.48.message": "[도리도리]",
     "entities.455.settings.npcStates.6.event.quest.49.message": "흠... 뭐 그편이 더 나을 수도 있겠어.",
-    "entities.457.settings.teleportLabel": "",
-    "entities.458.settings.teleportLabel": "",
-    "entities.459.settings.teleportLabel": "",
+    "entities.457.settings.teleportLabel": "en_US",
+    "entities.458.settings.teleportLabel": "en_US",
+    "entities.459.settings.teleportLabel": "en_US",
     "entities.460.settings.interact.hoverText": "\\i[arrow-n] 베르겐 마을로 올라가는 길\n\\i[arrow-s] 가을의 부상",
-    "entities.461.settings.teleportLabel": "",
+    "entities.461.settings.teleportLabel": "en_US",
     "entities.463.settings.interact.hoverText": "\\i[arrow-s] 가을의 부상\n\\i[arrow-n] 베르겐 마을로 올라가는 길.",
     "entities.464.settings.interact.hoverText": "\\i[arrow-s] 가을의 부상\n\\i[arrow-n] 베르겐 마을로 올라가는 길.",
     "entities.469.settings.event.12.message": "\\c[3]베르겐 산길\\c[0]에 도착했어!",
@@ -16977,10 +17941,10 @@
   },
   "assets/data/maps/bergen-trail/path-5.json": {
     "entities.9.settings.interact.hoverText": "\\i[arrow-n] 베르겐 마을\n\\i[arrow-se] 산기슭 \n\\i[arrow-sw] 비포장도로",
-    "entities.495.settings.teleportLabel": "",
-    "entities.497.settings.teleportLabel": "",
-    "entities.498.settings.teleportLabel": "",
-    "entities.499.settings.teleportLabel": "",
+    "entities.495.settings.teleportLabel": "en_US",
+    "entities.497.settings.teleportLabel": "en_US",
+    "entities.498.settings.teleportLabel": "en_US",
+    "entities.499.settings.teleportLabel": "en_US",
     "entities.518.settings.text": "은둔자의 집",
     "entities.520.settings.dialog.0.text": "내가 베르겐 산길의 보초라니...",
     "entities.521.settings.event.0.message": "외딴곳에 있는 작은 집이라니. 멋지지 않니?",
@@ -17093,10 +18057,10 @@
   },
   "assets/data/maps/bergen-trail/path-8.json": {
     "entities.530.settings.interact.hoverText": "\\i[arrow-w] 베르겐 마을\n\\i[arrow-se] 가을의 부상으로 내려가는 길",
-    "entities.531.settings.teleportLabel": "",
-    "entities.532.settings.teleportLabel": "",
-    "entities.533.settings.teleportLabel": "",
-    "entities.534.settings.teleportLabel": "",
+    "entities.531.settings.teleportLabel": "en_US",
+    "entities.532.settings.teleportLabel": "en_US",
+    "entities.533.settings.teleportLabel": "en_US",
+    "entities.534.settings.teleportLabel": "en_US",
     "entities.538.settings.npcStates.1.event.quest.2.message": "...!",
     "entities.538.settings.npcStates.1.event.quest.3.message": "어디 있지?",
     "entities.538.settings.npcStates.1.event.quest.4.message": "...",
@@ -18431,6 +19395,10 @@
     "entities.85.settings.event.58.message": "쟤네들도 있으니 말이지.",
     "entities.85.settings.event.61.message": "잘 가, 레아.\\.\n크로스월드에서 재밌게 놀아!",
     "entities.91.settings.teleportLabel": "엘리베이터로<<A<<[CHANGED 2018/03/14]",
+    "entities.92.settings.teleportLabel": "en_US",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
     "entities.98.settings.event.6.message": "짜잔!<<A<<[CHANGED 2018/03/14]",
     "entities.98.settings.event.7.message": "화물실에 적절한 \\c[3]랜드마크\\c[0]를 간신히 추가했어.<<A<<[CHANGED 2018/03/14]",
     "entities.98.settings.event.8.message": "이제부터는 아무 때나 화물실로 돌아올 수 있다는 얘기지.<<A<<[CHANGED 2018/03/14]",
@@ -18915,7 +19883,8 @@
     "entities.1.settings.event.81.text": "언젠간..."
   },
   "assets/data/maps/dreams/fourth-2.json": {
-    "entities.161.settings.event.24.task": "긴 꿈에 갇혔나 보군. 주변을 좀 둘러보면 어때?"
+    "entities.161.settings.event.24.task": "긴 꿈에 갇혔나 보군. 주변을 좀 둘러보면 어때?",
+    "entities.179.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/dreams/fourth-3.json": {
     "entities.169.settings.event.31.text": "여기가 괜찮겠다.",
@@ -19040,6 +20009,10 @@
     "entities.17.settings.npcStates.0.event.quest.4.declined.2.message": "그래? 좋아, 그럼 마음이 바뀌면 나에게 말해줘!",
     "entities.17.settings.npcStates.1.event.2.message": "저 퀘스트를 끝내고 와!",
     "entities.18.settings.npcStates.0.event.2.message": "다 했어?",
+    "entities.21.settings.teleportLabel": "en_US",
+    "entities.22.settings.teleportLabel": "en_US",
+    "entities.23.settings.teleportLabel": "en_US",
+    "entities.24.settings.teleportLabel": "en_US",
     "entities.27.settings.npcStates.0.event.quest.2.message": "퀘스트?",
     "entities.27.settings.npcStates.0.event.quest.3.accepted.0.message": "잘했어.",
     "entities.27.settings.npcStates.1.event.2.message": "해.",
@@ -20145,6 +21118,10 @@
     "entities.340.settings.dialog.6.text": "그럴 줄 알았어...<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/forest/path-01-entrance.json": {
+    "entities.74.settings.teleportLabel": "en_US",
+    "entities.75.settings.teleportLabel": "en_US",
+    "entities.76.settings.teleportLabel": "en_US",
+    "entities.77.settings.teleportLabel": "en_US",
     "entities.127.settings.interact.hoverText": "\\i[arrow-w] \\v[area.autumn-fall.name]으로 이어지는 터널\n\\i[arrow-e] \\v[area.forest.name] 길\n<<A<<[CHANGED 2017/10/17]",
     "entities.491.settings.event.2.thenStep.9.message": "...!<<A<<[CHANGED 2018/07/09]",
     "entities.491.settings.event.2.thenStep.10.thenStep.1.message": "드디어 \\c[3]사파이어 산맥\\c[0]에 발을 디뎠군!<<C<<\"food\" -> \"foot\"<<A<<[CHANGED 2018/09/19]",
@@ -20210,6 +21187,7 @@
   },
   "assets/data/maps/forest/path-04-hostel.json": {
     "entities.519.settings.teleportLabel": "크로스센트럴<<A<<[CHANGED 2017/10/17]",
+    "entities.520.settings.teleportLabel": "en_US",
     "entities.928.settings.npcStates.0.event.quest.0.name": "하오 링<<A<<[CHANGED 2018/05/01]",
     "entities.928.settings.npcStates.0.event.quest.2.message": "아... 또 다른 새가 왔네. 어서 와, 작은 새야!<<A<<[CHANGED 2018/07/09]",
     "entities.928.settings.npcStates.0.event.quest.3.message": "안녕?<<A<<[CHANGED 2018/07/09]",
@@ -20250,6 +21228,13 @@
     "entities.933.settings.dialog.3.event.5.message": "그래, 어떤 녀석이 물건을 배달해주면 내게 돈을 주겠다고 했지.<<C<<\"too\" -> \"to\"<<A<<[CHANGED 2018/09/19]",
     "entities.933.settings.dialog.3.event.6.message": "웃는 얼굴이 아주 소름 끼쳤어.<<A<<[CHANGED 2018/07/09]",
     "entities.933.settings.dialog.3.event.7.thenStep.1.object": "\"돈\" 단서<<A<<[CHANGED 2018/07/09]",
+    "entities.944.settings.teleportLabel": "en_US",
+    "entities.945.settings.teleportLabel": "en_US",
+    "entities.946.settings.teleportLabel": "en_US",
+    "entities.947.settings.teleportLabel": "en_US",
+    "entities.952.settings.teleportLabel": "en_US",
+    "entities.953.settings.teleportLabel": "en_US",
+    "entities.954.settings.teleportLabel": "en_US",
     "entities.955.settings.event.1.thenStep.0.message": "저거 봐, 저 강에 딱 봐도 평범한 대나무같이 생긴 게 있어. 귀엽네.<<A<<[CHANGED 2018/09/02]",
     "entities.955.settings.event.1.elseStep.0.thenStep.0.message": "강 한가운데 대나무가 있어.\\. 특별한 것 없는 대나무.<<A<<[CHANGED 2018/09/02]",
     "entities.955.settings.event.1.elseStep.0.elseStep.0.thenStep.0.message": "원술사 레아! 여기서 누가 봐도 평범한 대나무의 예시를 볼 수 있군!<<A<<[CHANGED 2018/09/02]",
@@ -20478,6 +21463,10 @@
     "entities.591.settings.event.10.text": "...당신의 인내심을 다시 한번 시험하고 싶다면 말씀해 주십시오...<<A<<[CHANGED 2018/07/09]"
   },
   "assets/data/maps/forest/path-08.json": {
+    "entities.249.settings.teleportLabel": "en_US",
+    "entities.250.settings.teleportLabel": "en_US",
+    "entities.251.settings.teleportLabel": "en_US",
+    "entities.252.settings.teleportLabel": "en_US",
     "entities.253.settings.interact.hoverText": "\\i[arrow-ne] 낡은 도장\n\\i[arrow-se] 사파이어 산맥 왕복<<A<<[CHANGED 2017/10/17]",
     "entities.961.settings.npcStates.0.event.quest.1.text": "...당신이 원하는 건 시험, 그러면 시험을 받을 것입니다...<<A<<[CHANGED 2018/07/09]",
     "entities.961.settings.npcStates.0.event.quest.13.text": "...민첩함은 저주일 수도 축복일 수도 있습니다...<<A<<[CHANGED 2018/09/19]",
@@ -20577,6 +21566,10 @@
     "entities.216.settings.blockEvent.4.options.1.label": "[아니요]<<A<<[CHANGED 2018/07/09]"
   },
   "assets/data/maps/forest/path-10.json": {
+    "entities.95.settings.teleportLabel": "en_US",
+    "entities.96.settings.teleportLabel": "en_US",
+    "entities.97.settings.teleportLabel": "en_US",
+    "entities.98.settings.teleportLabel": "en_US",
     "entities.99.settings.interact.hoverText": "낡은 도장\n<<A<<[CHANGED 2017/10/17]",
     "entities.768.settings.interact.hoverText": "비문 읽기<<A<<[CHANGED 2018/07/09]",
     "entities.768.settings.interact.title": "\\c[3]낡은 도장\\c[0]<<A<<[CHANGED 2018/07/09]",
@@ -20613,6 +21606,10 @@
     "entities.367.settings.event.1.text": "접근 거부<<A<<[CHANGED 2018/05/01]"
   },
   "assets/data/maps/forest/path-12.json": {
+    "entities.22.settings.teleportLabel": "en_US",
+    "entities.23.settings.teleportLabel": "en_US",
+    "entities.24.settings.teleportLabel": "en_US",
+    "entities.25.settings.teleportLabel": "en_US",
     "entities.362.settings.interact.hoverText": "승천 사원<<A<<[CHANGED 2018/08/28]",
     "entities.678.settings.event.0.thenStep.0.message": "세상에, 여기까지 오는 길은 너무 끔찍한 파쿠르였어!<<A<<[CHANGED 2018/09/02]",
     "entities.678.settings.event.0.elseStep.0.thenStep.0.message": "점프를 엄청나게 많이 했어. 그만큼 한 보람이 있겠지!<<A<<[CHANGED 2018/09/02]",
@@ -20916,6 +21913,10 @@
     "entities.457.settings.event.43.message": "구경꾼이 필요하다는데. 완전 말이 안 통해.",
     "entities.457.settings.event.45.message": "...",
     "entities.457.settings.event.48.message": "아무튼!\\. 결투할 준비가 되면 나에게 말해!",
+    "entities.477.settings.teleportLabel": "en_US",
+    "entities.478.settings.teleportLabel": "en_US",
+    "entities.479.settings.teleportLabel": "en_US",
+    "entities.480.settings.teleportLabel": "en_US",
     "entities.491.settings.event.9.thenStep.2.message": "...안녕!",
     "entities.491.settings.event.9.thenStep.5.message": "안녕 레아! 왔구나. 난 방금 도착했어.",
     "entities.491.settings.event.9.thenStep.17.message": "잠깐, 내가 꼴찌라고? 이런.",
@@ -21216,6 +22217,10 @@
     "entities.464.settings.dialog.2.text": "아 제발...<<A<<[CHANGED 2017/10/17]"
   },
   "assets/data/maps/heat/oasis/oasis-path-02.json": {
+    "entities.86.settings.teleportLabel": "en_US",
+    "entities.87.settings.teleportLabel": "en_US",
+    "entities.88.settings.teleportLabel": "en_US",
+    "entities.89.settings.teleportLabel": "en_US",
     "entities.637.settings.npcStates.0.event.3.message": "멈춰라 인간!!",
     "entities.637.settings.npcStates.0.event.5.message": "동굴에 들어가려면 \\c[3]촌장님의 통행증\\c[0]이 필요하다.",
     "entities.637.settings.npcStates.0.event.7.message": "촌장님은 \\c[3]서쪽\\c[0]에 있는 샤드의 마을인 \\c[3]바키 쿰\\c[0]에서 찾을 수 있지!",
@@ -21336,10 +22341,10 @@
     "entities.298.settings.dialog.5.text": "난 절대..."
   },
   "assets/data/maps/heat/path-01-entrance.json": {
-    "entities.2.settings.teleportLabel": "",
-    "entities.3.settings.teleportLabel": "",
-    "entities.4.settings.teleportLabel": "",
-    "entities.5.settings.teleportLabel": "",
+    "entities.2.settings.teleportLabel": "en_US",
+    "entities.3.settings.teleportLabel": "en_US",
+    "entities.4.settings.teleportLabel": "en_US",
+    "entities.5.settings.teleportLabel": "en_US",
     "entities.8.settings.interact.hoverText": "\\i[arrow-w] \\v[area.heat-village.name]으로 가는 길\n\\i[arrow-e] \\v[area.bergen.name]로 가는 선로",
     "entities.307.settings.dialog.0.text": "드디어 해냈어!",
     "entities.307.settings.dialog.1.text": "\\v[area.bergen.name]에서의 그 추위를 견디고 이제 따뜻해져서 다행이야.<<A<<[CHANGED 2018/09/19]",
@@ -21605,10 +22610,10 @@
     "entities.261.settings.event.4.message": "...!"
   },
   "assets/data/maps/heat/path-07.json": {
-    "entities.62.settings.teleportLabel": "",
-    "entities.63.settings.teleportLabel": "",
-    "entities.64.settings.teleportLabel": "",
-    "entities.65.settings.teleportLabel": "",
+    "entities.62.settings.teleportLabel": "en_US",
+    "entities.63.settings.teleportLabel": "en_US",
+    "entities.64.settings.teleportLabel": "en_US",
+    "entities.65.settings.teleportLabel": "en_US",
     "entities.318.settings.interact.hoverText": "\\i[arrow-w] \\v[area.heat-village.name]으로 가는 길\n\\i[arrow-e] \\v[area.bergen.name]로 가는 길",
     "entities.321.settings.event.1.message": "그게, 나에게 회의에 관한 메시지를 보냈던 건 사실이었어.",
     "entities.321.settings.event.2.message": "그러면 왜 몰랐는 줄 알아? 그 메시지가 스팸 처리돼버린 거야!",
@@ -21665,6 +22670,10 @@
     "entities.324.settings.interact.event.31.message": "[끄덕]"
   },
   "assets/data/maps/heat/path-10.json": {
+    "entities.19.settings.teleportLabel": "en_US",
+    "entities.20.settings.teleportLabel": "en_US",
+    "entities.21.settings.teleportLabel": "en_US",
+    "entities.22.settings.teleportLabel": "en_US",
     "entities.151.settings.teleportLabel": "파즈로 사원으로",
     "entities.157.settings.npcStates.0.event.2.message": "\\c[3]모래시계 건물\\c[0]에 가고 싶나, 인간?",
     "entities.157.settings.npcStates.0.event.3.message": "[끄덕]",
@@ -21704,6 +22713,10 @@
     "entities.160.settings.event.47.message": "좋아! 이제 다 봤으니 가보자."
   },
   "assets/data/maps/heat/path-11.json": {
+    "entities.18.settings.teleportLabel": "en_US",
+    "entities.19.settings.teleportLabel": "en_US",
+    "entities.20.settings.teleportLabel": "en_US",
+    "entities.21.settings.teleportLabel": "en_US",
     "entities.437.settings.event.1.message": "거의 다 온 것 같아!",
     "entities.437.settings.event.2.message": "[끄덕]",
     "entities.446.settings.event.10.name": "빌스턴",
@@ -22045,23 +23058,23 @@
     "entities.613.settings.event.52.message": "잘 가!"
   },
   "assets/data/maps/heat-village/baki-2.json": {
-    "entities.19.settings.teleportLabel": "",
-    "entities.20.settings.teleportLabel": "",
-    "entities.21.settings.teleportLabel": "",
-    "entities.22.settings.teleportLabel": "",
+    "entities.19.settings.teleportLabel": "en_US",
+    "entities.20.settings.teleportLabel": "en_US",
+    "entities.21.settings.teleportLabel": "en_US",
+    "entities.22.settings.teleportLabel": "en_US",
     "entities.23.settings.teleportLabel": "크로스센트럴",
-    "entities.24.settings.teleportLabel": "",
-    "entities.25.settings.teleportLabel": "",
-    "entities.26.settings.teleportLabel": "",
-    "entities.27.settings.teleportLabel": "",
-    "entities.28.settings.teleportLabel": "",
-    "entities.29.settings.teleportLabel": "",
-    "entities.30.settings.teleportLabel": "",
-    "entities.31.settings.teleportLabel": "",
-    "entities.32.settings.teleportLabel": "",
-    "entities.33.settings.teleportLabel": "",
-    "entities.34.settings.teleportLabel": "",
-    "entities.35.settings.teleportLabel": "",
+    "entities.24.settings.teleportLabel": "en_US",
+    "entities.25.settings.teleportLabel": "en_US",
+    "entities.26.settings.teleportLabel": "en_US",
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.29.settings.teleportLabel": "en_US",
+    "entities.30.settings.teleportLabel": "en_US",
+    "entities.31.settings.teleportLabel": "en_US",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.33.settings.teleportLabel": "en_US",
+    "entities.34.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
     "entities.334.settings.condAnims.0.interact.hoverText": "꽃병 안을 조사하세요",
     "entities.334.settings.condAnims.0.interact.title": "꽃병",
     "entities.334.settings.condAnims.0.interact.event.0.thenStep.8.message": "...",
@@ -24597,6 +25610,10 @@
     "entities.795.settings.event.2.message": "[끄덕]<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/jungle/clearing/clear-path-02.json": {
+    "entities.141.settings.teleportLabel": "en_US",
+    "entities.142.settings.teleportLabel": "en_US",
+    "entities.143.settings.teleportLabel": "en_US",
+    "entities.144.settings.teleportLabel": "en_US",
     "entities.145.settings.interact.hoverText": "\\c[3]비르다 마을\\c[0]",
     "entities.646.settings.dialog.0.text": "정말 인간이 \\c[3]검은 괴물\\c[0]을 이 마을에 불러들인 거라고?<<A<<[CHANGED 2018/03/14]",
     "entities.646.settings.dialog.1.text": "검은 괴물의 \\c[3]원천\\c[0]에 대해 못 들었어? 빛나는 금속이라잖아!<<A<<[CHANGED 2018/03/14]",
@@ -24636,6 +25653,8 @@
     "entities.667.settings.event.3.message": "놀랍네.<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/jungle/clearing/clear-path-03.json": {
+    "entities.171.settings.text": "en_US",
+    "entities.251.settings.text": "en_US",
     "entities.775.settings.npcStates.0.event.2.message": "\\c[3]검은 괴물들\\c[0] 때문에 크타라의 집이 엉망진창이 됐어.<<A<<[CHANGED 2017/11/16]",
     "entities.775.settings.npcStates.0.event.3.message": "촌장님은 화가 나셨고.<<A<<[CHANGED 2017/11/16]",
     "entities.775.settings.npcStates.0.event.4.message": "...?",
@@ -24780,6 +25799,10 @@
     "entities.87.settings.event.27.message": "[끄덕]<<A<<[CHANGED 2018/03/14]"
   },
   "assets/data/maps/jungle/dng/dng-crossing.json": {
+    "entities.42.settings.teleportLabel": "en_US",
+    "entities.44.settings.teleportLabel": "en_US",
+    "entities.45.settings.teleportLabel": "en_US",
+    "entities.46.settings.teleportLabel": "en_US",
     "entities.297.settings.event.1.text": "접근 거부",
     "entities.300.settings.npcStates.0.event.quest.2.message": "안녕, 꼬마 아가씨!",
     "entities.300.settings.npcStates.0.event.quest.3.thenStep.0.message": "오! 내 수호자 감각이 네가 귀중한 \\c[3]\\v[item.288.name]\\c[0]을 가지고 있다고 하네!",
@@ -25729,6 +26752,10 @@
     "entities.761.settings.text": "비정상적인 에너지 신호<<A<<[CHANGED 2018/09/19]"
   },
   "assets/data/maps/jungle/grove/grove-path-02.json": {
+    "entities.146.settings.teleportLabel": "en_US",
+    "entities.147.settings.teleportLabel": "en_US",
+    "entities.148.settings.teleportLabel": "en_US",
+    "entities.149.settings.teleportLabel": "en_US",
     "entities.150.settings.interact.hoverText": "\\c[3]고귀한 숲\\c[0]",
     "entities.891.settings.analyzable.text": "린드<<A<<[CHANGED 2018/05/01]",
     "entities.891.settings.npcStates.0.event.quest.1.name": "린드<<A<<[CHANGED 2018/05/01]",
@@ -25862,6 +26889,10 @@
     "entities.632.settings.text": "지극히 평범한 버섯<<A<<[CHANGED 2018/09/14]"
   },
   "assets/data/maps/jungle/infested/infested-path-03.json": {
+    "entities.171.settings.teleportLabel": "en_US",
+    "entities.172.settings.teleportLabel": "en_US",
+    "entities.173.settings.teleportLabel": "en_US",
+    "entities.174.settings.teleportLabel": "en_US",
     "entities.175.settings.interact.hoverText": "\\c[3]감염된 습지\\c[0]<<A<<[CHANGED 2018/01/05]",
     "entities.820.settings.event.0.message": "흠...\\. 버섯을 보니 배가 고파졌군.<<A<<[CHANGED 2018/09/02]",
     "entities.820.settings.event.1.message": "정말? 저 거대한 파란색, 보라색 버섯을 보니 배가 고프다고?<<A<<[CHANGED 2018/09/02]",
@@ -25903,6 +26934,10 @@
     "entities.851.settings.text": "비정상적인 에너지 신호<<A<<[CHANGED 2018/09/19]"
   },
   "assets/data/maps/jungle/path-01-entrance.json": {
+    "entities.2.settings.teleportLabel": "en_US",
+    "entities.3.settings.teleportLabel": "en_US",
+    "entities.4.settings.teleportLabel": "en_US",
+    "entities.5.settings.teleportLabel": "en_US",
     "entities.6.settings.interact.hoverText": "\\i[arrow-n] \\v[area.jungle-city.name]으로 가는 길\n\\i[arrow-s] \\v[area.autumn-fall.name]",
     "entities.552.settings.event.11.message": "자, 이제...\\. 도착했구나.\\. \\c[3]가이아의 정원\\c[0]에.<<A<<[CHANGED 2018/03/14]",
     "entities.552.settings.event.12.message": "...<<A<<[CHANGED 2018/03/14]",
@@ -26146,6 +27181,10 @@
   },
   "assets/data/maps/jungle/path-04-end.json": {
     "entities.659.settings.interact.hoverText": "\\i[arrow-n] 그랜드 크리스카조\n\\i[arrow-w]\\i[arrow-e] \\v[area.autumn-fall.name]으로 가는 길<<A<<[CHANGED 2018/08/01]",
+    "entities.666.settings.teleportLabel": "en_US",
+    "entities.667.settings.teleportLabel": "en_US",
+    "entities.668.settings.teleportLabel": "en_US",
+    "entities.669.settings.teleportLabel": "en_US",
     "entities.671.settings.npcStates.0.event.quest.5.message": "안녕, 레아!<<A<<[CHANGED 2018/03/14]",
     "entities.671.settings.npcStates.0.event.quest.6.message": "안녕...<<A<<[CHANGED 2018/03/14]",
     "entities.671.settings.npcStates.0.event.quest.7.message": "다시 보게 되어서 반가워.<<A<<[CHANGED 2018/03/14]",
@@ -26301,6 +27340,22 @@
   },
   "assets/data/maps/jungle-city/center.json": {
     "entities.85.settings.teleportLabel": "크로스센트럴",
+    "entities.86.settings.teleportLabel": "en_US",
+    "entities.87.settings.teleportLabel": "en_US",
+    "entities.88.settings.teleportLabel": "en_US",
+    "entities.89.settings.teleportLabel": "en_US",
+    "entities.90.settings.teleportLabel": "en_US",
+    "entities.91.settings.teleportLabel": "en_US",
+    "entities.92.settings.teleportLabel": "en_US",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
+    "entities.96.settings.teleportLabel": "en_US",
+    "entities.97.settings.teleportLabel": "en_US",
+    "entities.98.settings.teleportLabel": "en_US",
+    "entities.99.settings.teleportLabel": "en_US",
+    "entities.100.settings.teleportLabel": "en_US",
+    "entities.101.settings.teleportLabel": "en_US",
     "entities.398.settings.interact.hoverText": "\\i[arrow-n] 시 광장\n\\i[arrow-e] 연못 빈민가",
     "entities.399.settings.interact.hoverText": "\\i[arrow-n] 시 광장\n\\i[arrow-w] 고지대",
     "entities.416.settings.interact.hoverText": "자판기에서 아이템을 구매하세요",
@@ -27345,12 +28400,15 @@
     "entities.4.settings.event.12.thenStep.0.action.0.thenStep.1.thenStep.4.text": "\\v[tmp.tempCrateString]<<A<<[CHANGED 2018/08/01]",
     "entities.4.settings.event.12.thenStep.0.action.0.thenStep.1.thenStep.5.thenStep.1.text": "장전됨<<A<<[CHANGED 2018/08/01]",
     "entities.5.settings.event.14.thenStep.0.text": "\\v[tmp.tempHideStringOmega]<<A<<[CHANGED 2018/08/01]",
+    "entities.6.settings.event.15.value": "[Waiting for crate]",
+    "entities.6.settings.event.16.value": "[New platform incoming]",
     "entities.7.settings.event.0.thenStep.5.thenStep.2.thenStep.0.text": "동시 등장!<<A<<[CHANGED 2018/09/14]",
     "entities.7.settings.event.0.thenStep.7.thenStep.0.text": "\\v[tmp.tempSpawnTime]초 뒤 적 등장!<<A<<[CHANGED 2018/09/14]",
     "entities.7.settings.event.0.thenStep.9.thenStep.10.action.0.thenStep.0.text": "\\v[tmp.tempStringEnemyName]<<A<<[CHANGED 2018/08/28]",
     "entities.7.settings.event.0.thenStep.9.thenStep.10.action.6.text": "[화난 새소리!]<<A<<[CHANGED 2018/09/14]",
     "entities.9.settings.event.12.text": "[화난 새소리!]<<A<<[CHANGED 2018/09/14]",
     "entities.9.settings.event.13.text": "[화난 새소리!]<<A<<[CHANGED 2018/09/14]",
+    "entities.9.settings.event.18.guiInfo.settings.taskTitle": "Crates",
     "entities.31.settings.states.1.action.0.text": "\\v[tmp.platformDelayString]<<A<<[CHANGED 2018/08/28]",
     "entities.31.settings.states.1.action.8.text": "\\v[tmp.platformWaitString]<<A<<[CHANGED 2018/09/14]",
     "entities.49.settings.states.1.action.0.text": "\\v[tmp.platformDelayString]<<A<<[CHANGED 2018/08/28]",
@@ -27526,6 +28584,10 @@
     "entities.33.settings.npcStates.0.event.2.message": "<<A<<[CHANGED 2018/09/19]",
     "entities.34.settings.npcStates.0.event.2.message": "<<A<<[CHANGED 2018/09/19]"
   },
+  "assets/data/maps/rd-test.json": {
+    "entities.1.settings.npcStates.3.event.1.message": "Sad...",
+    "entities.1.settings.npcStates.3.event.2.message": "SHOCKED!"
+  },
   "assets/data/maps/rhombus-dng/boss.json": {
     "entities.20.settings.event.1.message": "온다...",
     "entities.20.settings.event.2.message": "...?",
@@ -27556,7 +28618,8 @@
     "entities.12.settings.event.37.message": "허, 이상하네. 크로스월드는 몇 년 전에 출시된 줄 알았는데.",
     "entities.12.settings.event.38.message": "아무튼, 그래도 풀만 한 퍼즐 몇 가지는 있을 거야.",
     "entities.12.settings.event.39.message": "계속 가자!",
-    "entities.12.settings.event.40.message": "[끄덕]"
+    "entities.12.settings.event.40.message": "[끄덕]",
+    "entities.13.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-dng/room-1-6.json": {
     "entities.2.settings.event.36.object": "퀵 메뉴",
@@ -27570,6 +28633,9 @@
     "entities.45.settings.text": "상자다! 맛있는 \\c[3]\\v[item.1.name]\\c[0] 몇 개가 들어있었어.",
     "entities.46.settings.text": "상자다! 뭐가 들어있는 거지?",
     "entities.47.settings.text": "상자다! \\c[3]\\v[item.2.name]\\c[0] 2개가 들어있었어."
+  },
+  "assets/data/maps/rhombus-dng/room-1-7.json": {
+    "entities.9.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-dng/room-1.json": {
     "entities.10.settings.event.0.message": "좋아, 레아... 난 잠시 자리 좀 비울게.",
@@ -27629,6 +28695,7 @@
   },
   "assets/data/maps/rhombus-dng/room-final.json": {
     "entities.13.settings.event.34.object": "회로",
+    "entities.27.settings.teleportLabel": "en_US",
     "entities.28.settings.teleportLabel": "나가기",
     "entities.38.settings.event.1.message": "업그레이드 할 준비됐어?",
     "entities.38.settings.event.2.message": "...?",
@@ -27709,6 +28776,9 @@
     "entities.7.settings.teleportLabel": "어딘가<<A<<[CHANGED 2017/11/30]",
     "entities.8.settings.teleportLabel": "스카이 레일<<A<<[CHANGED 2018/07/09]",
     "entities.9.settings.teleportLabel": "어딘가<<A<<[CHANGED 2017/11/30]",
+    "entities.10.settings.teleportLabel": "en_US",
+    "entities.11.settings.teleportLabel": "en_US",
+    "entities.12.settings.teleportLabel": "en_US",
     "entities.447.settings.interact.hoverText": "\\c[3]크루아상 카페\\c[0]<<A<<[CHANGED 2018/07/09]",
     "entities.593.settings.event.0.text": "통행증 없음<<A<<[CHANGED 2018/07/09]",
     "entities.619.settings.npcStates.0.event.quest.2.message": "안녕, 레아.<<A<<[CHANGED 2018/08/28]",
@@ -27839,22 +28909,24 @@
     "entities.974.settings.dialog.2.text": "상점이 문을 열 때까지.<<A<<[CHANGED 2018/09/14]"
   },
   "assets/data/maps/rhombus-sqr/central-inner.json": {
-    "entities.12.settings.teleportLabel": "",
-    "entities.13.settings.teleportLabel": "",
-    "entities.14.settings.teleportLabel": "",
+    "entities.11.settings.teleportLabel": "en_US",
+    "entities.12.settings.teleportLabel": "en_US",
+    "entities.13.settings.teleportLabel": "en_US",
+    "entities.14.settings.teleportLabel": "en_US",
     "entities.15.settings.teleportLabel": "발코니",
     "entities.54.settings.teleportLabel": "발코니",
     "entities.56.settings.teleportLabel": "발코니",
     "entities.57.settings.teleportLabel": "발코니",
     "entities.58.settings.teleportLabel": "발코니",
     "entities.59.settings.teleportLabel": "발코니",
-    "entities.60.settings.teleportLabel": "",
-    "entities.61.settings.teleportLabel": "",
-    "entities.62.settings.teleportLabel": "",
-    "entities.63.settings.teleportLabel": "",
-    "entities.64.settings.teleportLabel": "",
-    "entities.66.settings.teleportLabel": "",
-    "entities.67.settings.teleportLabel": "",
+    "entities.60.settings.teleportLabel": "en_US",
+    "entities.61.settings.teleportLabel": "en_US",
+    "entities.62.settings.teleportLabel": "en_US",
+    "entities.63.settings.teleportLabel": "en_US",
+    "entities.64.settings.teleportLabel": "en_US",
+    "entities.65.settings.teleportLabel": "en_US",
+    "entities.66.settings.teleportLabel": "en_US",
+    "entities.67.settings.teleportLabel": "en_US",
     "entities.68.settings.teleportLabel": "발코니",
     "entities.69.settings.teleportLabel": "발코니",
     "entities.70.settings.teleportLabel": "발코니",
@@ -27866,10 +28938,10 @@
     "entities.109.settings.event.4.text": "접근 거부",
     "entities.115.settings.event.4.text": "접근 거부",
     "entities.122.settings.event.1.text": "접근 거부",
-    "entities.123.settings.teleportLabel": "",
-    "entities.124.settings.teleportLabel": "",
-    "entities.125.settings.teleportLabel": "",
-    "entities.126.settings.teleportLabel": "",
+    "entities.123.settings.teleportLabel": "en_US",
+    "entities.124.settings.teleportLabel": "en_US",
+    "entities.125.settings.teleportLabel": "en_US",
+    "entities.126.settings.teleportLabel": "en_US",
     "entities.127.settings.event.25.message": "가자! 이쪽이야!",
     "entities.135.settings.teleportLabel": "초보자 항구",
     "entities.136.settings.teleportLabel": "발코니",
@@ -27936,13 +29008,15 @@
     "entities.181.settings.event.66.task": "\\c[3]최초의 학자들 본부\\c[0]에서 \\c[3]에밀리\\c[0]를 만나세요.<<A<<[CHANGED 2018/05/01]"
   },
   "assets/data/maps/rhombus-sqr/central.json": {
+    "entities.5.settings.teleportLabel": "en_US",
     "entities.6.settings.teleportLabel": "크로스센트럴",
-    "entities.7.settings.teleportLabel": "",
-    "entities.8.settings.teleportLabel": "",
-    "entities.9.settings.teleportLabel": "",
-    "entities.11.settings.teleportLabel": "",
-    "entities.12.settings.teleportLabel": "",
-    "entities.13.settings.teleportLabel": "",
+    "entities.7.settings.teleportLabel": "en_US",
+    "entities.8.settings.teleportLabel": "en_US",
+    "entities.9.settings.teleportLabel": "en_US",
+    "entities.10.settings.teleportLabel": "en_US",
+    "entities.11.settings.teleportLabel": "en_US",
+    "entities.12.settings.teleportLabel": "en_US",
+    "entities.13.settings.teleportLabel": "en_US",
     "entities.77.settings.teleportLabel": "초심자의 다리",
     "entities.78.settings.teleportLabel": "초심자의 다리",
     "entities.79.settings.teleportLabel": "초심자의 다리",
@@ -28033,10 +29107,10 @@
     "entities.346.settings.dialog.2.event.12.message": "우리가 간다!<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/rhombus-sqr/dng-end.json": {
-    "entities.35.settings.teleportLabel": "",
-    "entities.37.settings.teleportLabel": "",
-    "entities.38.settings.teleportLabel": "",
-    "entities.39.settings.teleportLabel": "",
+    "entities.35.settings.teleportLabel": "en_US",
+    "entities.37.settings.teleportLabel": "en_US",
+    "entities.38.settings.teleportLabel": "en_US",
+    "entities.39.settings.teleportLabel": "en_US",
     "entities.142.settings.teleportLabel": "크로스센트럴",
     "entities.148.settings.npcStates.1.event.2.message": "앞으로 갈 수 있어! 저 스카이 레일 터미널 중 아무거나 이용하면 돼.",
     "entities.148.settings.npcStates.1.event.3.message": "[끄덕]",
@@ -28171,10 +29245,10 @@
     "entities.180.settings.dialog.8.text": "그렇겠지..."
   },
   "assets/data/maps/rhombus-sqr/dng-top.json": {
-    "entities.164.settings.teleportLabel": "",
-    "entities.166.settings.teleportLabel": "",
-    "entities.167.settings.teleportLabel": "",
-    "entities.168.settings.teleportLabel": "",
+    "entities.164.settings.teleportLabel": "en_US",
+    "entities.166.settings.teleportLabel": "en_US",
+    "entities.167.settings.teleportLabel": "en_US",
+    "entities.168.settings.teleportLabel": "en_US",
     "entities.172.settings.teleportLabel": "초보자 던전 #3",
     "entities.173.settings.event.2.thenStep.7.text": "아바타 초기화 중",
     "entities.173.settings.event.2.thenStep.13.message": "해냈어, 레아.",
@@ -28749,6 +29823,9 @@
     "entities.994.settings.event.36.task": "주홍의 황무지에 다시 들어갈 준비를 하세요.준비되면 \\c[3]은신처\\c[0]에 있는 \\c[3]사토시\\c[0]에게 말을 거세요.<<A<<[CHANGED 2018/08/28]"
   },
   "assets/data/maps/rhombus-sqr/shops-1.json": {
+    "entities.216.settings.teleportLabel": "en_US",
+    "entities.217.settings.teleportLabel": "en_US",
+    "entities.218.settings.teleportLabel": "en_US",
     "entities.219.settings.teleportLabel": "스카이 레일<<A<<[CHANGED 2018/05/01]",
     "entities.220.settings.teleportLabel": "어딘가<<A<<[CHANGED 2017/11/30]",
     "entities.221.settings.teleportLabel": "어딘가<<A<<[CHANGED 2017/11/30]",
@@ -28773,12 +29850,32 @@
     "entities.4.settings.description": "마름모 광장으로 들어가는 입구이자 본토로 나가는 출구입니다.<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/maps/rhombus-sqr/test.json": {
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.30.settings.teleportLabel": "en_US",
+    "entities.31.settings.teleportLabel": "en_US",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
+    "entities.36.settings.teleportLabel": "en_US",
+    "entities.37.settings.teleportLabel": "en_US",
+    "entities.38.settings.teleportLabel": "en_US",
     "entities.39.settings.teleportLabel": "어딘가 다른 곳<<A<<[CHANGED 2017/11/30]",
-    "entities.41.settings.teleportLabel": "어딘가<<A<<[CHANGED 2017/11/30]"
+    "entities.41.settings.teleportLabel": "어딘가<<A<<[CHANGED 2017/11/30]",
+    "entities.44.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-sqr/test2.json": {
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.30.settings.teleportLabel": "en_US",
+    "entities.31.settings.teleportLabel": "en_US",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.34.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
+    "entities.36.settings.teleportLabel": "en_US",
+    "entities.37.settings.teleportLabel": "en_US",
     "entities.38.settings.teleportLabel": "어딘가 다른 곳<<A<<[CHANGED 2017/11/30]",
-    "entities.40.settings.teleportLabel": "어딘가<<A<<[CHANGED 2017/11/30]"
+    "entities.40.settings.teleportLabel": "어딘가<<A<<[CHANGED 2017/11/30]",
+    "entities.43.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-square-view.json": {
     "entities.9.settings.event.9.message": "그래, 그럼 뭐부터 시작할까?<<A<<[CHANGED 2018/09/19]",
@@ -29003,6 +30100,18 @@
     "entities.577.settings.event.0.message": "방금 그 남자...\\.\\.\\. 모든 클래스의 장비를 착용하고 있더군.",
     "entities.577.settings.event.1.message": "...",
     "entities.577.settings.event.2.message": "보통은 그럴 수가 없는데 말이지. 어떻게 개발자들을 몰래 속인 것인지 모르겠어.",
+    "entities.594.settings.teleportLabel": "en_US",
+    "entities.595.settings.teleportLabel": "en_US",
+    "entities.596.settings.teleportLabel": "en_US",
+    "entities.597.settings.teleportLabel": "en_US",
+    "entities.598.settings.teleportLabel": "en_US",
+    "entities.599.settings.teleportLabel": "en_US",
+    "entities.600.settings.teleportLabel": "en_US",
+    "entities.601.settings.teleportLabel": "en_US",
+    "entities.602.settings.teleportLabel": "en_US",
+    "entities.603.settings.teleportLabel": "en_US",
+    "entities.604.settings.teleportLabel": "en_US",
+    "entities.605.settings.teleportLabel": "en_US",
     "entities.614.settings.npcStates.1.event.quest.2.message": "...!",
     "entities.614.settings.npcStates.1.event.quest.3.message": "이거 내 거야?",
     "entities.614.settings.npcStates.1.event.quest.4.message": "[끄덕]",
@@ -29278,6 +30387,7 @@
     "entities.24.settings.condAnims.0.interact.event.1.text": "처음에는 이 행성의 주요 자원을 수확하려고 했습니다. 광산을 짓고, 폐허를 들어내고, 땅을 팠죠.<<A<<[CHANGED 2018/09/19]",
     "entities.24.settings.condAnims.0.interact.event.2.text": "그러는 동안, 고대인의 길의 부분을 훼손하게 되었습니다. 이로 인해 길을 보존하는 자립 시스템의 자기방어 프로그램이 발동되었습니다.",
     "entities.24.settings.condAnims.0.interact.event.3.text": "그 후, 길이 반격을 시작하자 더는 자원을 수확할 수 없게 되었습니다. 그리고 이 시스템이 생기게 된 술책을 알게 되었습니다.<<A<<[CHANGED 2017/07/21]",
+    "entities.25.settings.interact.hoverText": "en_US",
     "entities.25.settings.condAnims.0.interact.hoverText": "\\c[3]트랙 워커 작전\\c[0]",
     "entities.25.settings.condAnims.0.interact.event.0.text": "트랙 워커 작전의 목표는 \\c[3]고대의 기술을 파괴하지 않고 이를 연구하는 것입니다\\c[0].",
     "entities.25.settings.condAnims.0.interact.event.1.text": "우리는 인간이 참여할 수 있게 길 자체의 한 부분이 될 방법을 찾기 시작했습니다. 우리 자신을 시스템에 완전히 통합시키는 것은 쉬운 일이었습니다.",
@@ -30181,6 +31291,7 @@
     "entities.26.settings.npcStates.0.event.6.options.3.label": "방어의 비법<<A<<[CHANGED 2017/10/17]",
     "entities.26.settings.npcStates.0.event.6.options.4.label": "괜찮아!<<A<<[CHANGED 2017/10/17]",
     "entities.27.settings.analyzable.text": "컬로 스탯코브스키<<A<<[CHANGED 2017/10/17]",
+    "entities.27.settings.displayName": "en_US",
     "entities.27.settings.npcStates.0.event.0.name": "컬로 스탯코브스키<<A<<[CHANGED 2017/10/17]",
     "entities.27.settings.npcStates.0.event.2.message": "안녕!<<A<<[CHANGED 2017/10/17]",
     "entities.27.settings.npcStates.0.event.3.thenStep.0.message": "친구!\\. 허리 쭉 펴고 운동을 해!\\. 네 몸이 바로 네 신전이라고!<<A<<[CHANGED 2017/10/17]",
@@ -30629,6 +31740,22 @@
     "entities.13.settings.event.16.message": "...<<A<<TODO 0.9.8"
   },
   "assets/data/maps/rookie-harbor/teleporter.json": {
+    "entities.79.settings.teleportLabel": "en_US",
+    "entities.81.settings.teleportLabel": "en_US",
+    "entities.82.settings.teleportLabel": "en_US",
+    "entities.83.settings.teleportLabel": "en_US",
+    "entities.84.settings.teleportLabel": "en_US",
+    "entities.85.settings.teleportLabel": "en_US",
+    "entities.86.settings.teleportLabel": "en_US",
+    "entities.87.settings.teleportLabel": "en_US",
+    "entities.88.settings.teleportLabel": "en_US",
+    "entities.89.settings.teleportLabel": "en_US",
+    "entities.90.settings.teleportLabel": "en_US",
+    "entities.91.settings.teleportLabel": "en_US",
+    "entities.92.settings.teleportLabel": "en_US",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
     "entities.368.settings.condAnims.0.interact.hoverText": "내용물 확인하기",
     "entities.368.settings.condAnims.0.interact.title": "수상한 상자",
     "entities.368.settings.condAnims.0.interact.event.7.text": "상자 확인 중",
