@@ -16,4 +16,4 @@ Patch the game to add languages
 
 ## Resources
 
-Crowdin : https://crowdin.com/project/crosscode-community
+Crowdin : https://crwd.in/crosscode-community
