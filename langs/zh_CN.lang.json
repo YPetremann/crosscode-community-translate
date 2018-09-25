@@ -464,7 +464,9 @@
   },
   "assets/data/areas/jungle.json": {
     "name": "untitled",
+    "floors.0.name": "en_US",
     "floors.0.maps.0.name": "失落的电力室<<A<<[CHANGED 2018/07/09]",
+    "floors.1.name": "en_US",
     "floors.1.maps.0.name": "感染洞窟入口",
     "floors.1.maps.1.name": "感染洞窟迷宫",
     "floors.1.maps.2.name": "圣池<<A<<[CHANGED 2017/12/12]",
@@ -691,14 +693,65 @@
     "floors.1.name": "G",
     "floors.1.maps.0.name": "准入测试"
   },
+  "assets/data/characters/adventurers/female-braid-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-braid-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-dut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-dut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-pony-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/female-pony-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-bald-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-bald-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-headband-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers/male-headband-white.json": {
+    "name": ""
+  },
   "assets/data/characters/adventurers/male-pirate.json": {
     "name": "斯佩林<<A<<[CHANGED 2017/10/10]"
   },
   "assets/data/characters/adventurers-jungle/female-leader.json": {
     "name": "玛达基<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/adventurers-jungle/female-white-hat-pigtails.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/female-white-hat.json": {
+    "name": ""
+  },
   "assets/data/characters/adventurers-jungle/leader-female.json": {
     "name": "玛达基<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/adventurers-jungle/male-black-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/male-white-hat-monocle.json": {
+    "name": ""
+  },
+  "assets/data/characters/adventurers-jungle/male-white-ponytail.json": {
+    "name": ""
   },
   "assets/data/characters/advisors/female-nerd-combat.json": {
     "name": "战斗<<A<<[CHANGED 2017/10/10]"
@@ -783,11 +836,47 @@
   "assets/data/characters/baki/eldress.json": {
     "name": "埃尔德斯"
   },
+  "assets/data/characters/baki/female-beige.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-pink.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-yellow-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/female-yellow-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-green-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-green-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-pink-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-pink-tall.json": {
+    "name": ""
+  },
   "assets/data/characters/baki/male-shad-tradeleader.json": {
     "name": "肯尼达比<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/baki/male-yellow-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/baki/male-yellow-tall.json": {
+    "name": ""
+  },
   "assets/data/characters/baki/painter.json": {
     "name": "刷漆工<<A<<[CHANGED 2017/10/10]"
+  },
+  "assets/data/characters/baki/thief-man-dude.json": {
+    "name": ""
   },
   "assets/data/characters/basin/boogie.json": {
     "name": "大·老板"
@@ -798,14 +887,74 @@
   "assets/data/characters/basin/don-vita.json": {
     "name": "唐·维塔"
   },
+  "assets/data/characters/basin/female-blond.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-umbrella-laser.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/female-umbrella.json": {
+    "name": ""
+  },
   "assets/data/characters/basin/major.json": {
     "name": "苏利文<<A<<[CHANGED 2017/12/12]"
   },
   "assets/data/characters/basin/male-bodyguard.json": {
     "name": "文斯<<A<<[CHANGED 2018/03/14]"
   },
+  "assets/data/characters/basin/male-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-hat-2.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-punk.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-purple.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-raincoat.json": {
+    "name": ""
+  },
+  "assets/data/characters/basin/male-umbrella.json": {
+    "name": ""
+  },
   "assets/data/characters/basin/sciene-lady.json": {
     "name": "克雷提亚博士<<A<<[CHANGED 2018/03/14]"
+  },
+  "assets/data/characters/bergen/female-hoodie-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-monk-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-small-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-small-fancy-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-blue.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-fancy-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/female-tall-silver.json": {
+    "name": ""
   },
   "assets/data/characters/bergen/frobbit-legend.json": {
     "name": "传奇兔子<<A<<[CHANGED 2018/07/09]"
@@ -813,17 +962,128 @@
   "assets/data/characters/bergen/male-goatman-white.json": {
     "name": "羊人<<A<<[CHANGED 2018/09/17]"
   },
+  "assets/data/characters/bergen/male-hoodie-simple.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-monk-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-old-mustache.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-tall-bald-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/bergen/male-tall-bald-white.json": {
+    "name": ""
+  },
   "assets/data/characters/bergen/mayor.json": {
     "name": "卑尔根市长"
+  },
+  "assets/data/characters/bergen/nonbinary-monk-leader.json": {
+    "name": "en_US"
   },
   "assets/data/characters/bergen/one-holiday-man.json": {
     "name": "圣诞超人"
   },
+  "assets/data/characters/business/crosscode-ceo.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/female-dut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-dut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-longhair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-longhair-white.json": {
+    "name": ""
+  },
   "assets/data/characters/business/female-redhair-sexy-brown.json": {
     "name": "瑞达<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/business/female-shorthair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/female-shorthair-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/fridgeguy-male-old-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-female-blonde.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-female-brown-chub.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-male-fullhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heat-male-halfhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/heatergirl-female.json": {
+    "name": ""
+  },
   "assets/data/characters/business/leader-bergen-female.json": {
     "name": "萨默斯夫人<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/business/leader-jungle.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/leader-rh-male-wheelchair.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-black-bald.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-white-sidehair.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-buff-sunglasses-white.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/business/male-lockhart-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-lockhart-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-old-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-old-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-sidecut-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-sidecut-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-toupee-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-toupee-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-wheelchair-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/business/male-wheelchair-white.json": {
+    "name": ""
   },
   "assets/data/characters/cargo-crew/bot.json": {
     "name": "机器人"
@@ -927,14 +1187,122 @@
   "assets/data/characters/gods/triblader.json": {
     "name": "墙"
   },
+  "assets/data/characters/greenies/female-farmer-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-farmer-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-flowers-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-flowers-white.json": {
+    "name": ""
+  },
   "assets/data/characters/greenies/female-researcher.json": {
     "name": "塔拉图·莱普斯"
+  },
+  "assets/data/characters/greenies/female-terranigma-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/female-terranigma-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-farmer-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-farmer-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hat-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hat-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hipster-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies/male-hipster-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-baki/female-leader-shad.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-blonde-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-brunette-flower.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/female-examiner-white.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/greenies-jungle/male-beard-hat.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-beard-red.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-glasses-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/greenies-jungle/male-leader-black.json": {
+    "name": "en_US"
   },
   "assets/data/characters/guards/captain-female-hairbun.json": {
     "name": "斯特林中尉<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/guards/captain-male-normal-blonde.json": {
+    "name": "en_US"
+  },
+  "assets/data/characters/guards/captain-male-normal-darkhair.json": {
+    "name": "en_US"
+  },
   "assets/data/characters/guards/captain-male-oneleg.json": {
     "name": "尼尔罗斯中尉<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/guards/female-hairs-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-hairs-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-small-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/female-tall-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-beefy-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-beefy-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-bulky-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-bulky-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-hairs-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-hairs-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-normal-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/guards/male-normal-white.json": {
+    "name": ""
   },
   "assets/data/characters/guards/male-red-glasses.json": {
     "name": "拉斯蒂<<A<<[CHANGED 2018/08/28]"
@@ -947,6 +1315,39 @@
   },
   "assets/data/characters/jungle/female-albino.json": {
     "name": "卡达拉<<A<<[CHANGED 2017/12/12]"
+  },
+  "assets/data/characters/jungle/female-beige.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-pink.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-yellow-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/female-yellow-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-green-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-green-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-pink-small.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-pink-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-yellow-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/jungle/male-yellow-tall.json": {
+    "name": ""
   },
   "assets/data/characters/main/buggy.json": {
     "name": "阿虫"
@@ -1010,8 +1411,26 @@
     "name": "静",
     "realname": "静"
   },
+  "assets/data/characters/miners/female-pigtails-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/female-ponytail-white.json": {
+    "name": ""
+  },
   "assets/data/characters/miners/leader-male-beard.json": {
     "name": "麦伊丁瑟<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/miners/male-blackbeard-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-brownbeard-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-brownshirt-white.json": {
+    "name": ""
+  },
+  "assets/data/characters/miners/male-redmuffler-white.json": {
+    "name": ""
   },
   "assets/data/characters/misc/advisor-researcher.json": {
     "name": "巴克西顿<<A<<[CHANGED 2017/12/12]"
@@ -1022,6 +1441,12 @@
   "assets/data/characters/misc/henry-researcher.json": {
     "name": "亨利"
   },
+  "assets/data/characters/misc/hidden.json": {
+    "name": ""
+  },
+  "assets/data/characters/misc/menu-effect-large.json": {
+    "name": ""
+  },
   "assets/data/characters/misc/oldman.json": {
     "name": "老人<<A<<[CHANGED 2018/07/09]"
   },
@@ -1031,23 +1456,134 @@
   "assets/data/characters/misc/radical-fish.json": {
     "name": "Radical Fish"
   },
+  "assets/data/characters/monks/female-longhair-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/female-shorthair-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-tan.json": {
+    "name": ""
+  },
+  "assets/data/characters/monks/male-bald-white.json": {
+    "name": ""
+  },
   "assets/data/characters/monks/nonbinary-leader.json": {
     "name": "涅玛<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/nomads/female-redheadscarf.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/female-shorthair-bluetunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/female-whiteheadscarf-longhair.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-bald.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-blackhair-purpletunic.json": {
+    "name": ""
   },
   "assets/data/characters/nomads/male-fancy-leader.json": {
     "name": "乔尔·玛西尔<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/nomads/male-redheadscarf-browntunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-whiteheadscarf-browntunic.json": {
+    "name": ""
+  },
+  "assets/data/characters/nomads/male-whiteheadscarf-redtunic.json": {
+    "name": ""
+  },
   "assets/data/characters/objects/barrier.json": {
     "name": "墙"
+  },
+  "assets/data/characters/objects/car-1-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-1.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-2-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-2.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-3-dark.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/car-3.json": {
+    "name": ""
   },
   "assets/data/characters/objects/driller-h-f-s.json": {
     "name": "墙"
   },
+  "assets/data/characters/objects/largeHeatMetalBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/largeJungleBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/smallJungleBox.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/td-doorOpener.json": {
+    "name": ""
+  },
+  "assets/data/characters/objects/td-energySucker.json": {
+    "name": ""
+  },
   "assets/data/characters/rookie-harbor/faction-fd-female-leader.json": {
     "name": "艾伦亚<<A<<[CHANGED 2018/08/28]"
   },
+  "assets/data/characters/rookie-harbor/faction-fd-male-tucos.json": {
+    "name": ""
+  },
   "assets/data/characters/rookie-harbor/faction-foa-man-chiefgarden.json": {
     "name": "曼查娜<<A<<[CHANGED 2018/08/28]"
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-offcr-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-sgt.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/faction-rhg-man-tall.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-big-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-big-blue.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-ms-steak.json": {
+    "name": "Ms. Steak"
+  },
+  "assets/data/characters/rookie-harbor/female-small-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-small-red.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/female-tall-green.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-big-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-big-red.json": {
+    "name": ""
   },
   "assets/data/characters/rookie-harbor/man-business.json": {
     "name": "佳食先生<<A<<[CHANGED 2018/08/28]"
@@ -1055,17 +1591,382 @@
   "assets/data/characters/rookie-harbor/man-shop.json": {
     "name": "塔拉<<A<<[CHANGED 2017/12/12]"
   },
+  "assets/data/characters/rookie-harbor/man-small-brown.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-tall-black.json": {
+    "name": ""
+  },
+  "assets/data/characters/rookie-harbor/man-tall-mustache.json": {
+    "name": "en_US"
+  },
   "assets/data/characters/rookie-harbor/poet.json": {
     "name": "诗人"
+  },
+  "assets/data/characters/rookie-harbor/thief-man-big-eyepatch.json": {
+    "name": ""
   },
   "assets/data/characters/rookie-harbor/van-pummelson.json": {
     "name": "大老师<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/credits/backers.json": {
-    "entries.header.header": "Indiegogo Backers<<A<<[CHANGED 2018/09/14]"
+    "entries.header.header": "Indiegogo Backers<<A<<[CHANGED 2018/09/14]",
+    "entries.testers.header": "en_US",
+    "entries.testers.names.0": "Mil",
+    "entries.testers.names.1": "Dennis 'HerrDekay' Kröner",
+    "entries.testers.names.2": "Filip Antkowiak",
+    "entries.testers.names.3": "Mathias 'lucmat' Luckas",
+    "entries.testers.names.4": "Art Zoe",
+    "entries.testers.names.5": "Banana Man (BM)",
+    "entries.testers.names.6": "David \"Cherry\" Trapp",
+    "entries.testers.names.7": "J. \"Wervyn\" Wert",
+    "entries.testers.names.8": "Moya Schiller",
+    "entries.testers.names.9": "catnip513",
+    "entries.testers.names.10": "CombatToast",
+    "entries.testers.names.11": "Dennis 'Repko' Klein",
+    "entries.testers.names.12": "Marcel & Tiffy",
+    "entries.testers.names.13": "Stephen Shiu",
+    "entries.testers.names.14": "Andreas \"Sonnen Krieger\" Nuding",
+    "entries.testers.names.15": "Andrew S Burns",
+    "entries.testers.names.16": "Carolin Kresse",
+    "entries.testers.names.17": "Christian \"DFYX\" Käser",
+    "entries.testers.names.18": "Daniel 'dna' Heimann",
+    "entries.testers.names.19": "Dreath",
+    "entries.testers.names.20": "EclipsedHusky",
+    "entries.testers.names.21": "Graeme 'Thee Forsaken One' Foote",
+    "entries.testers.names.22": "Jákup Fuglø",
+    "entries.testers.names.23": "Lennart Kessler",
+    "entries.testers.names.24": "Manuel",
+    "entries.testers.names.25": "Max Hafenheld_Max Valerius",
+    "entries.testers.names.26": "Michael A. 'netwarrior1981' Sevay",
+    "entries.testers.names.27": "Michael V. Olson",
+    "entries.testers.names.28": "Philipp Dörfler",
+    "entries.testers.names.29": "Raen 'Red' Andaleio",
+    "entries.testers.names.30": "Rassi19",
+    "entries.testers.names.31": "Samuel 'Samylots' Beaudoin",
+    "entries.testers.names.32": "Tian 'thenameisuppercase' Xu",
+    "entries.testers.names.33": "YUTAKA ARMDroid SUZUKI",
+    "entries.testers.names.34": "Andrew Keturi",
+    "entries.testers.names.35": "Dominic Meier",
+    "entries.testers.names.36": "Dopsi",
+    "entries.testers.names.37": "Johannes Böckmann",
+    "entries.testers.names.38": "KainDarkfire",
+    "entries.testers.names.39": "Martin Senges",
+    "entries.testers.names.40": "Nathan Losee",
+    "entries.testers.names.41": "Ryan \"Raytaku\" Elias",
+    "entries.testers.names.42": "Samuel Carter",
+    "entries.testers.names.43": "Sebastian Klein",
+    "entries.testers.names.44": "Shelanoir",
+    "entries.testers.names.45": "Alexander 'Akuni' Ernst",
+    "entries.testers.names.46": "Andrew Airmet",
+    "entries.testers.names.47": "Anthony Haller",
+    "entries.testers.names.48": "Ben Lalande",
+    "entries.testers.names.49": "Cameron Yarger",
+    "entries.testers.names.50": "CannedDisaster",
+    "entries.testers.names.51": "Chisos de'Gondra",
+    "entries.testers.names.52": "Christopher Babic",
+    "entries.testers.names.53": "Corbin Roderick",
+    "entries.testers.names.54": "David Goodenough",
+    "entries.testers.names.55": "Dukmos",
+    "entries.testers.names.56": "Erik Heilig",
+    "entries.testers.names.57": "깐츄럴",
+    "entries.testers.names.58": "Flanneko",
+    "entries.testers.names.59": "Grauken",
+    "entries.testers.names.60": "Hai Tien 'High' Tran",
+    "entries.testers.names.61": "Henrik 'Gori' Landin",
+    "entries.testers.names.62": "Hugo 'Svintoo🇸🇪' Ankarloo",
+    "entries.testers.names.63": "Jan 'Sephibox' Polland",
+    "entries.testers.names.64": "Joshua \"Candescence\" Braico",
+    "entries.testers.names.65": "Kay Elspas",
+    "entries.testers.names.66": "Kevin Lanzmich",
+    "entries.testers.names.67": "Kjetil 'Kientero' Dypfest",
+    "entries.testers.names.68": "Konstantin Weber",
+    "entries.testers.names.69": "Koukai",
+    "entries.testers.names.70": "Lukas Daniel Klausner",
+    "entries.testers.names.71": "Mark Williamson",
+    "entries.testers.names.72": "Maximilian 'BananaTeddy' Hering",
+    "entries.testers.names.73": "Maximilian 'ikari_01' Rehkopf",
+    "entries.testers.names.74": "Mike Hall",
+    "entries.testers.names.75": "Morgan H.",
+    "entries.testers.names.76": "Motherboard",
+    "entries.testers.names.77": "Nhan ‘Jason’ Pham",
+    "entries.testers.names.78": "Paul Zaczkiewicz",
+    "entries.testers.names.79": "Peter 'Damanation' Ovelmen",
+    "entries.testers.names.80": "Ridge Shrubsall",
+    "entries.testers.names.81": "Ryan Charles-Edwin Holt",
+    "entries.testers.names.82": "Sebastian 'Tetrakern' Vetter",
+    "entries.testers.names.83": "shauntmw",
+    "entries.testers.names.84": "Stefan Dühring",
+    "entries.testers.names.85": "Stefan Kulzer",
+    "entries.testers.names.86": "Suryce",
+    "entries.testers.names.87": "Tanja 'Trixy' Molle",
+    "entries.testers.names.88": "Thau",
+    "entries.testers.names.89": "TheRusty22 (Shizuka-GotThePower)",
+    "entries.testers.names.90": "Tililio",
+    "entries.testers.names.91": "Urinstein",
+    "entries.testers.names.92": "Verde F. Piuma",
+    "entries.testers.names.93": "Vincent 'ViMaSter' Mahnke",
+    "entries.testers.names.94": "Will \"Radnar\" Kilgore",
+    "entries.testers.names.95": "Will Horwitz",
+    "entries.testers.names.96": "William Gottschalk",
+    "entries.testers.names.97": "Yujiro 'finalbeta' Nakamura",
+    "entries.testers.names.98": "Christopher 'CryZe' Serr",
+    "entries.testers.names.99": "Enalye",
+    "entries.testers.names.100": "Ignacio 'Nnubes256' Gutiérrez",
+    "entries.testers.names.101": "Ingo Rößner",
+    "entries.testers.names.102": "Miguel \"ProgramGamer\" Arseneault",
+    "entries.testers.names.103": "Superstinker666",
+    "entries.testers.names.104": "Vincent Vielva",
+    "entries.testers.names.105": "esotericist",
+    "entries.testers.names.106": "Justin \"Lotus\" Fruhling",
+    "entries.testers.names.107": "Luis \"The Luis\" Cruz",
+    "entries.testers.names.108": "Mike J Ferens",
+    "entries.testers.names.109": "@denomdemon",
+    "entries.testers.names.110": "@remmythical",
+    "entries.testers.names.111": "Aaron C. Scott",
+    "entries.testers.names.112": "Adrian 'adiac' Aurnhammer",
+    "entries.testers.names.113": "Adrian 'Firecrow' Boivin",
+    "entries.testers.names.114": "Alan 'Porkchop' Yeoh",
+    "entries.testers.names.115": "Aleksei 'LAS' Lebedev",
+    "entries.testers.names.116": "Alexander \"A_Dude\" Eder",
+    "entries.testers.names.117": "Alexander 'lxndio' Korn",
+    "entries.testers.names.118": "Alexander [Dewm] Rahemat",
+    "entries.testers.names.119": "Allen Crimmins",
+    "entries.testers.names.120": "Amar 'MasterMario' Hekalo",
+    "entries.testers.names.121": "Andreas 'cfxxl' Gebert",
+    "entries.testers.names.122": "Andreas Wieser",
+    "entries.testers.names.123": "Anton \"BonzenKuh\" Gres",
+    "entries.testers.names.124": "Arne Gehrking",
+    "entries.testers.names.125": "Audric 'Hixan' Trossat",
+    "entries.testers.names.126": "Brian Hardison",
+    "entries.testers.names.127": "Brice 'Dais' Marson",
+    "entries.testers.names.128": "Carl Endres, Technomagus",
+    "entries.testers.names.129": "cenras ",
+    "entries.testers.names.130": "Christian Boisjoli",
+    "entries.testers.names.131": "Clankinator",
+    "entries.testers.names.132": "Conrad Geisel",
+    "entries.testers.names.133": "crediar",
+    "entries.testers.names.134": "Daniel 'danbruegge' Brüggemann",
+    "entries.testers.names.135": "Daniel 'Tschakko' Frisch",
+    "entries.testers.names.136": "Daniel Gonzalez - Daniss4",
+    "entries.testers.names.137": "Daniel Spieldenner",
+    "entries.testers.names.138": "David \"TaDavidID\" Tarakanoff",
+    "entries.testers.names.139": "David Håkansson",
+    "entries.testers.names.140": "Dennis Apitz",
+    "entries.testers.names.141": "Derek 'Der999' West",
+    "entries.testers.names.142": "Dogi the wallcrusher",
+    "entries.testers.names.143": "Draco 'Reality' Dynasty",
+    "entries.testers.names.144": "edabonacci",
+    "entries.testers.names.145": "Eduardo 'KGrindelwald' Chang",
+    "entries.testers.names.146": "Emilio \"Deathberry\" Lachaine",
+    "entries.testers.names.147": "Emmanuel TRASSART",
+    "entries.testers.names.148": "Enno Hansjürgen",
+    "entries.testers.names.149": "Eric 'BreakerBeam' Tacher",
+    "entries.testers.names.150": "Erik 'Teras' Steinhagen",
+    "entries.testers.names.151": "Felix the Unmighty",
+    "entries.testers.names.152": "flgr",
+    "entries.testers.names.153": "FuBe 0815",
+    "entries.testers.names.154": "Giovanni Tagliamonte",
+    "entries.testers.names.155": "Glagroon",
+    "entries.testers.names.156": "Glenn Tomczak",
+    "entries.testers.names.157": "gRuFtY",
+    "entries.testers.names.158": "HamsterBob",
+    "entries.testers.names.159": "Hayden McAfee",
+    "entries.testers.names.160": "Haydon Bakker",
+    "entries.testers.names.161": "Hendrik Wilka",
+    "entries.testers.names.162": "Horoneru",
+    "entries.testers.names.163": "Iker 'Scrivaret' River(Hexa)cast",
+    "entries.testers.names.164": "itfitz",
+    "entries.testers.names.165": "Jack 'Czar' Morris",
+    "entries.testers.names.166": "James 'Jimmeth' Mulholland",
+    "entries.testers.names.167": "James 'Nazacra' Fryer",
+    "entries.testers.names.168": "James Gregor",
+    "entries.testers.names.169": "Jan 'Barney' Schneider",
+    "entries.testers.names.170": "Jan Meraide Wiesenauer ",
+    "entries.testers.names.171": "Jan van den Brand",
+    "entries.testers.names.172": "Jannis Lennart Hell",
+    "entries.testers.names.173": "Jay \"Seraph\" Dietrich",
+    "entries.testers.names.174": "Jörg Tremmel",
+    "entries.testers.names.175": "Jens \"Kuro\" Reuter",
+    "entries.testers.names.176": "Jeremy 'Gwen' Vroegen",
+    "entries.testers.names.177": "Jerodar",
+    "entries.testers.names.178": "Johannes \"warraptor2\" Nguyen",
+    "entries.testers.names.179": "Johnny Ratfiend",
+    "entries.testers.names.180": "Jonas Dahms",
+    "entries.testers.names.181": "Jonathan Goetz",
+    "entries.testers.names.182": "Joshua 'Xyfero' Findon",
+    "entries.testers.names.183": "Julia \"FlareShard\" Hartl",
+    "entries.testers.names.184": "Julian Mattke",
+    "entries.testers.names.185": "Juri Weber",
+    "entries.testers.names.186": "Kat 'Neptune' Tyler",
+    "entries.testers.names.187": "Kevin \"Keybe\" Bahrs",
+    "entries.testers.names.188": "Kevin Mayorga",
+    "entries.testers.names.189": "Kevin Patches Holbrook",
+    "entries.testers.names.190": "Kevin W. - \"MasterKain94\"",
+    "entries.testers.names.191": "Kieron Overton",
+    "entries.testers.names.192": "Kira 'Antichrist' Uhlig",
+    "entries.testers.names.193": "Konstantin Zyryanov",
+    "entries.testers.names.194": "KooBooLdd",
+    "entries.testers.names.195": "Kosac07",
+    "entries.testers.names.196": "Kuzma",
+    "entries.testers.names.197": "Kyle Slazinik",
+    "entries.testers.names.198": "Lagen Scheit",
+    "entries.testers.names.199": "Lina 'Auxeras' Dzierzbicki",
+    "entries.testers.names.200": "Lucas 'Ensis' Thiemann",
+    "entries.testers.names.201": "Luna Huizinga (PixelGirl)",
+    "entries.testers.names.202": "Manuel 'Geeklich' Martinez",
+    "entries.testers.names.203": "Marco 'Rommsta' Friedrichs",
+    "entries.testers.names.204": "Martin \"Takaya\" Böhme",
+    "entries.testers.names.205": "Matt 'Buggzor' Sobolewski",
+    "entries.testers.names.206": "Matthew Campagna",
+    "entries.testers.names.207": "Matthias 'DodoCommando' Lubbers",
+    "entries.testers.names.208": "Max \"Vesperia\" B.",
+    "entries.testers.names.209": "Michael \"Kaoschan\" Gajda",
+    "entries.testers.names.210": "Michael 'Sephka' Perkins",
+    "entries.testers.names.211": "Miguel 'MkayIndianaJones' Christiansen",
+    "entries.testers.names.212": "Mithaldu",
+    "entries.testers.names.213": "Mitsuru Sangral",
+    "entries.testers.names.214": "My Breakfast This Morning",
+    "entries.testers.names.215": "NATEINCAPS",
+    "entries.testers.names.216": "Nathan Ogden",
+    "entries.testers.names.217": "Nenoa",
+    "entries.testers.names.218": "Nickolay 'ForsakenFox' Ryzhov",
+    "entries.testers.names.219": "Niklas Rohde / xXBlackEnergyXx",
+    "entries.testers.names.220": "Nils 'ExDeath' Lenertat",
+    "entries.testers.names.221": "Oliver Nischwitz",
+    "entries.testers.names.222": "Om Mani 'Peme' Hung",
+    "entries.testers.names.223": "Omer Neu",
+    "entries.testers.names.224": "PakratosR7",
+    "entries.testers.names.225": "Panzareon",
+    "entries.testers.names.226": "Patrick Keller",
+    "entries.testers.names.227": "Pedroichi",
+    "entries.testers.names.228": "Peter Kristoffersen",
+    "entries.testers.names.229": "Philippe Lagardere",
+    "entries.testers.names.230": "Phiqu",
+    "entries.testers.names.231": "Pierre \"Clipperton\" Macaire",
+    "entries.testers.names.232": "psam",
+    "entries.testers.names.233": "Quang Hue Tran",
+    "entries.testers.names.234": "ReploidSham",
+    "entries.testers.names.235": "Richard Nichols",
+    "entries.testers.names.236": "Robert 'Tsett' Zimmermann",
+    "entries.testers.names.237": "Robert Fogle",
+    "entries.testers.names.238": "RoccoR",
+    "entries.testers.names.239": "Rota Fortunae",
+    "entries.testers.names.240": "Rotdoz",
+    "entries.testers.names.241": "Rowanism",
+    "entries.testers.names.242": "Ryuxan",
+    "entries.testers.names.243": "S. \"Innocentia\" Harlos",
+    "entries.testers.names.244": "Scott Dennison (SukottoD)",
+    "entries.testers.names.245": "Sean \"CyberKitsune\" McClenaghan",
+    "entries.testers.names.246": "Shawn",
+    "entries.testers.names.247": "Starbeamrainbowlabs",
+    "entries.testers.names.248": "Stefan Roderich Richter",
+    "entries.testers.names.249": "Stefan Schatzl",
+    "entries.testers.names.250": "Sunshine Bear",
+    "entries.testers.names.251": "Sven Zimmermann",
+    "entries.testers.names.252": "Tiago Bluemel Cardoso",
+    "entries.testers.names.253": "Timothy \"Shachihoko\" Miller",
+    "entries.testers.names.254": "Torsten Spieldenner",
+    "entries.testers.names.255": "ToxicPercival",
+    "entries.testers.names.256": "Trypetide",
+    "entries.testers.names.257": "TwiliLink",
+    "entries.testers.names.258": "Vanessa the Williams",
+    "entries.testers.names.259": "Victor Massini",
+    "entries.testers.names.260": "Vincent Paul Dinger aka Ark626",
+    "entries.testers.names.261": "Wieland 'Der Schilderich' Möbus",
+    "entries.testers.names.262": "Will Cho",
+    "entries.testers.names.263": "Wybe \"WhyBe\" Janssen",
+    "entries.testers.names.264": "Xephyr",
+    "entries.testers.names.265": "XSystem252",
+    "entries.testers.names.266": "Yamakyu",
+    "entries.testers.names.267": "Yashoro",
+    "entries.testers.names.268": "Zur700",
+    "entries.testers.names.269": "6bruno9",
+    "entries.testers.names.270": "Adrien Voirol",
+    "entries.testers.names.271": "Alex \"*Mute\" R.",
+    "entries.testers.names.272": "Alexander \"Borgmo\" Yuschuk",
+    "entries.testers.names.273": "Andreas 'audi1993' Hartmann",
+    "entries.testers.names.274": "Anton 'mrkun' Chaynikov",
+    "entries.testers.names.275": "Arkblonable",
+    "entries.testers.names.276": "BeardBear",
+    "entries.testers.names.277": "Benjamin Lipton",
+    "entries.testers.names.278": "Boris Schierle",
+    "entries.testers.names.279": "Brandon 'Brat' Parsons",
+    "entries.testers.names.280": "Caleb Bott \"Cyberbrickmaster\"",
+    "entries.testers.names.281": "Cem KenDeep Anar",
+    "entries.testers.names.282": "Cheynas",
+    "entries.testers.names.283": "Christian Masser",
+    "entries.testers.names.284": "Clemens Sielaff",
+    "entries.testers.names.285": "Daniel \"Firechu\" Roa",
+    "entries.testers.names.286": "David Henninger",
+    "entries.testers.names.287": "Devon Obrecht",
+    "entries.testers.names.288": "DFDelta",
+    "entries.testers.names.289": "Disinterested_",
+    "entries.testers.names.290": "Dominik 'Enkidu' Freiburg",
+    "entries.testers.names.291": "Eddie \"VPURecover\" Mitchell",
+    "entries.testers.names.292": "Erik \"Migon\" Lystad",
+    "entries.testers.names.293": "Fabian Guth",
+    "entries.testers.names.294": "Flavio Chierichetti",
+    "entries.testers.names.295": "Frankstar",
+    "entries.testers.names.296": "FrozenTux",
+    "entries.testers.names.297": "GamerXP",
+    "entries.testers.names.298": "Heine Elias Karlsen Andersen",
+    "entries.testers.names.299": "Ignacio '4RobeRT' Recio Gómez",
+    "entries.testers.names.300": "Jacob Jakobsson",
+    "entries.testers.names.301": "Jan-Niklas Carstensen",
+    "entries.testers.names.302": "Jason Fortin",
+    "entries.testers.names.303": "Jendrik \"paranoidSpectre\" Witt",
+    "entries.testers.names.304": "Jenocke",
+    "entries.testers.names.305": "Jens 'Assakes' Haarmann",
+    "entries.testers.names.306": "Jesse Philemon ",
+    "entries.testers.names.307": "Josh 'Rex705' Clark",
+    "entries.testers.names.308": "Julian Chan",
+    "entries.testers.names.309": "Kyle Baadsvik",
+    "entries.testers.names.310": "Laurent Haan",
+    "entries.testers.names.311": "Lawrence Shagsworth",
+    "entries.testers.names.312": "Lucien 'Phundrak' Cartier-Tilet",
+    "entries.testers.names.313": "Marcel 'CrayveN' Funk",
+    "entries.testers.names.314": "Mike 'vapier' Frysinger",
+    "entries.testers.names.315": "Motom",
+    "entries.testers.names.316": "Mouzi",
+    "entries.testers.names.317": "Nam 'Blitznae' Le",
+    "entries.testers.names.318": "Namregog",
+    "entries.testers.names.319": "Niklas Ley",
+    "entries.testers.names.320": "Nils Budde ",
+    "entries.testers.names.321": "Oleg \"Olesch\" Yuschuk",
+    "entries.testers.names.322": "Orphansmith",
+    "entries.testers.names.323": "Pat Neeland (Patois)",
+    "entries.testers.names.324": "Pavel Khlopin",
+    "entries.testers.names.325": "RenjixD",
+    "entries.testers.names.326": "Robin Skowronnek",
+    "entries.testers.names.327": "Samuel \"Sääähm\" Gruber",
+    "entries.testers.names.328": "Sangmook Lee",
+    "entries.testers.names.329": "Scaine",
+    "entries.testers.names.330": "Schaaf dasMaeh",
+    "entries.testers.names.331": "Scott McKie",
+    "entries.testers.names.332": "Sebastian 'Paneka' Mauch",
+    "entries.testers.names.333": "Silas Coldfire",
+    "entries.testers.names.334": "Smurphicus",
+    "entries.testers.names.335": "SoundHunter",
+    "entries.testers.names.336": "Stephen east",
+    "entries.testers.names.337": "Sylvester Veenstra ",
+    "entries.testers.names.338": "Tarik Horton",
+    "entries.testers.names.339": "Teddy 'Gåsen' Sjöström",
+    "entries.testers.names.340": "Tim 'Kazsh' Hagedorn",
+    "entries.testers.names.341": "Tim Platzke",
+    "entries.testers.names.342": "Timbo",
+    "entries.testers.names.343": "Tobias 'Tobi042' Theobald",
+    "entries.testers.names.344": "Tony C",
+    "entries.testers.names.345": "Toyoch",
+    "entries.testers.names.346": "Tyler Thomas",
+    "entries.testers.names.347": "WhenChukAttacks",
+    "entries.testers.names.348": "William O'Neill",
+    "entries.testers.names.349": "Windsor 'TLG' Kasekende",
+    "entries.testers.names.350": "Yann 'Sabata' Perrichon"
   },
   "assets/data/credits/beta-tester.json": {
     "entries.header.header": "\\c[3]内测人员\\c[0]<<A<<[CHANGED 2018/09/14]",
+    "entries.testers.header": "en_US",
     "entries.testers.names.0": "Adrian \"Firecrow\" Boivin<<A<<[CHANGED 2018/09/17]",
     "entries.testers.names.1": "Dennis 'HerrDekay' Kröner<<A<<[CHANGED 2018/08/28]",
     "entries.testers.names.2": "Eivind \"flesk\" K. Nilsbakken<<A<<[CHANGED 2018/08/28]",
@@ -3347,6 +4248,12 @@
     "enemies.jungle.special.snowman-jungle-boss-scene.species": "魔化雪人<<A<<[CHANGED 2018/08/01]",
     "enemies.jungle.special.iceWall.name": "冰墙<<A<<[CHANGED 2018/09/14]",
     "enemies.jungle.special.iceWall.species": "冰墙<<A<<[CHANGED 2018/08/01]",
+    "enemies.arid.laser-catcher.name": "arid.laser-catcher",
+    "enemies.arid.laser-catcher.species": "en_US",
+    "enemies.special.sergey-hax.name": "special.sergey-hax",
+    "enemies.special.sergey-hax.species": "en_US",
+    "enemies.special.sergey-hax2.name": "special.sergey-hax2",
+    "enemies.special.sergey-hax2.species": "en_US",
     "enemies.avatar.apollo.name": "阿波罗",
     "enemies.avatar.apollo.descriptions.0.text": "一个自称正义使者的家伙，指控莉亚进行了作弊行为，并向她提出了决斗挑战。他身手不错，在自身处境不妙的时候会进行疯狂的反击。<<A<<[CHANGED 2018/09/19]",
     "enemies.avatar.apollo.species": "正义战士",
@@ -5682,7 +6589,8 @@
     "meta.species": "进化者<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/enemies/arid/laser-catcher.json": {
-    "proxies.detector.action.3.elseStep.0.text": "没有找到任何进化者<<A<<[CHANGED 2018/07/09]"
+    "proxies.detector.action.3.elseStep.0.text": "没有找到任何进化者<<A<<[CHANGED 2018/07/09]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/arid/mega-laser.json": {
     "meta.species": "死亡机器<<A<<[CHANGED 2017/10/10]",
@@ -6716,11 +7624,13 @@
     "meta.descriptions.0.text": "这个训练假人是让新手玩家测试\\c[3]战技\\c[0]和其他技巧使用的，不用担心遭到反击。<<A<<[CHANGED 2018/07/09]"
   },
   "assets/data/enemies/special/sergey-hax.json": {
-    "proxies.playerHack.action.4.text": "Atk Buff<<A<<[CHANGED 2018/03/14]"
+    "proxies.playerHack.action.4.text": "Atk Buff<<A<<[CHANGED 2018/03/14]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/special/sergey-hax2.json": {
     "proxies.shredderHack.action.12.thenStep.0.thenStep.11.text": "已定位<<A<<[CHANGED 2018/07/09]",
-    "proxies.shredderShieldHack.action.3.text": "骇入<<A<<[CHANGED 2018/07/09]"
+    "proxies.shredderShieldHack.action.3.text": "骇入<<A<<[CHANGED 2018/07/09]",
+    "meta.species": "en_US"
   },
   "assets/data/enemies/special/target-bot.json": {
     "meta.species": "训练机",
@@ -11134,6 +12044,10 @@
   "assets/data/maps/arid/town-2.json": {
     "entities.290.settings.blockEvent.0.elseStep.4.message": "行程可不包括河区哦，那里我们昨天就去过了。<<A<<[CHANGED 2018/01/14]",
     "entities.290.settings.blockEvent.0.elseStep.5.message": "...<<A<<[CHANGED 2018/01/14]",
+    "entities.380.settings.teleportLabel": "en_US",
+    "entities.381.settings.teleportLabel": "en_US",
+    "entities.382.settings.teleportLabel": "en_US",
+    "entities.383.settings.teleportLabel": "en_US",
     "entities.389.settings.interact.hoverText": "\\i[arrow-n] \\c[1]禁区\\c[0]\n\\i[arrow-e] 兵营\n\\i[arrow-s] 河流\n\\i[arrow-w] 湖泊\n<<A<<[CHANGED 2018/03/14]",
     "entities.394.settings.event.0.message": "嗯，我们到了。就是那边那个大楼。<<A<<[CHANGED 2017/10/10]",
     "entities.397.settings.dialog.0.text": "别过去，会挨揍的....<<A<<[CHANGED 2017/10/10]",
@@ -11285,6 +12199,7 @@
     "entities.461.settings.npcStates.0.event.0.elseStep.3.message": "别...\\.别再来找我了...<<A<<[CHANGED 2018/09/02]"
   },
   "assets/data/maps/arid-dng/first/jump-last.json": {
+    "entities.1.settings.destinations.0.label": "en_US",
     "entities.2.settings.event.8.message": "\\s[5]...这是?!<<A<<[CHANGED 2018/03/14]",
     "entities.2.settings.event.23.message": "我们难不成打破了第四面墙?!<<A<<[CHANGED 2018/03/14]",
     "entities.2.settings.event.24.message": "...<<A<<[CHANGED 2018/03/14]",
@@ -11709,12 +12624,14 @@
     "entities.64.settings.event.131.message": "莉亚！\\.快阻止他！！<<A<<[CHANGED 2018/08/28]",
     "entities.64.settings.event.141.message": "等等！<<A<<[CHANGED 2018/08/28]",
     "entities.64.settings.event.169.message": "我也是时候下线了。<<A<<[CHANGED 2018/08/28]",
-    "entities.64.settings.event.174.message": "\\s[6]高谭，不要！！<<A<<[CHANGED 2018/09/02]"
+    "entities.64.settings.event.174.message": "\\s[6]高谭，不要！！<<A<<[CHANGED 2018/09/02]",
+    "entities.66.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/arid-dng/second/f99/pre-server.json": {
     "entities.47.settings.event.13.text": "秘钥确认<<A<<[CHANGED 2018/08/28]",
     "entities.47.settings.event.17.text": "秘钥确认<<A<<[CHANGED 2018/08/28]",
-    "entities.47.settings.event.20.text": "秘钥确认<<A<<[CHANGED 2018/08/28]"
+    "entities.47.settings.event.20.text": "秘钥确认<<A<<[CHANGED 2018/08/28]",
+    "entities.48.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/arid-dng/second/f99/server-room.json": {
     "entities.27.settings.event.8.message": "嗯。<<A<<[CHANGED 2018/08/28]",
@@ -14426,6 +15343,7 @@
     "entities.16.settings.event.1.text": "拒绝访问<<C<<[CN CHANGED 2017/11/17]",
     "entities.18.settings.teleportLabel": "zh_CN",
     "entities.20.settings.teleportLabel": "zh_CN",
+    "entities.21.settings.teleportLabel": "en_US",
     "entities.22.settings.teleportLabel": "zh_CN",
     "entities.33.settings.event.1.text": "拒绝访问<<C<<[CN CHANGED 2017/11/17]",
     "entities.34.settings.event.1.text": "拒绝访问<<C<<[CN CHANGED 2017/11/17]",
@@ -15058,7 +15976,7 @@
     "entities.82.settings.dialog.4.text": "不过我们也一样要刷高级怪…",
     "entities.83.settings.npcStates.0.event.2.message": "我需要离开键盘忙点事情，稍后回来。",
     "entities.84.settings.displayName": "简",
-    "entities.84.settings.npcStates.0.event.0.name": "",
+    "entities.84.settings.npcStates.0.event.0.name": "Jean",
     "entities.84.settings.npcStates.0.event.2.message": "你好！",
     "entities.84.settings.npcStates.0.event.3.message": "莉…莉亚？！见到你真是惊喜！",
     "entities.84.settings.npcStates.0.event.4.message": "没想到你居然还找到我的公会里来了！",
@@ -16688,7 +17606,7 @@
     "entities.455.settings.npcStates.5.event.3.message": "[摇头]",
     "entities.455.settings.npcStates.5.event.4.message": "啊…啊…好吧。不要有太大压力啊，有人跟我说它巨强！",
     "entities.455.settings.npcStates.5.event.5.message": "它一定在卑尔根之路的\\c[3]迎风陡坡\\c[0]某一处。",
-    "entities.455.settings.npcStates.6.event.quest.0.name": "",
+    "entities.455.settings.npcStates.6.event.quest.0.name": "Jean",
     "entities.455.settings.npcStates.6.event.quest.2.message": "你好，莉亚！",
     "entities.455.settings.npcStates.6.event.quest.3.message": "…",
     "entities.455.settings.npcStates.6.event.quest.4.message": "…",
@@ -18477,6 +19395,10 @@
     "entities.85.settings.event.58.message": "另外，这些家伙还在呢。",
     "entities.85.settings.event.61.message": "再见了，莉亚。\\.好好享受远星世界吧！",
     "entities.91.settings.teleportLabel": "前往电梯<<A<<[CHANGED 2018/03/14]",
+    "entities.92.settings.teleportLabel": "en_US",
+    "entities.93.settings.teleportLabel": "en_US",
+    "entities.94.settings.teleportLabel": "en_US",
+    "entities.95.settings.teleportLabel": "en_US",
     "entities.98.settings.event.6.message": "没想到吧！<<A<<[CHANGED 2018/03/14]",
     "entities.98.settings.event.7.message": "我在货船上加了一个\\c[3]地标\\c[0]。<<A<<[CHANGED 2018/03/14]",
     "entities.98.settings.event.8.message": "也就是说从现在开始你可以随时传送回货舱了。<<A<<[CHANGED 2018/03/14]",
@@ -27478,6 +28400,8 @@
     "entities.4.settings.event.12.thenStep.0.action.0.thenStep.1.thenStep.4.text": "\\v[tmp.tempCrateString]<<A<<[CHANGED 2018/08/01]",
     "entities.4.settings.event.12.thenStep.0.action.0.thenStep.1.thenStep.5.thenStep.1.text": "LOADED<<A<<[CHANGED 2018/08/01]",
     "entities.5.settings.event.14.thenStep.0.text": "\\v[tmp.tempHideStringOmega]<<A<<[CHANGED 2018/08/01]",
+    "entities.6.settings.event.15.value": "[Waiting for crate]",
+    "entities.6.settings.event.16.value": "[New platform incoming]",
     "entities.7.settings.event.0.thenStep.5.thenStep.2.thenStep.0.text": "双重生成！<<A<<[CHANGED 2018/09/14]",
     "entities.7.settings.event.0.thenStep.7.thenStep.0.text": "敌人将于\\v[tmp.tempSpawnTime]秒内生成！<<A<<[CHANGED 2018/09/14]",
     "entities.7.settings.event.0.thenStep.9.thenStep.10.action.0.thenStep.0.text": "\\v[tmp.tempStringEnemyName]<<A<<[CHANGED 2018/08/28]",
@@ -27660,6 +28584,10 @@
     "entities.33.settings.npcStates.0.event.2.message": "LOL, DO NOT TRANSLATE THIS!<<A<<[CHANGED 2018/09/19]",
     "entities.34.settings.npcStates.0.event.2.message": "LOL, DO NOT TRANSLATE THIS!<<A<<[CHANGED 2018/09/19]"
   },
+  "assets/data/maps/rd-test.json": {
+    "entities.1.settings.npcStates.3.event.1.message": "Sad...",
+    "entities.1.settings.npcStates.3.event.2.message": "SHOCKED!"
+  },
   "assets/data/maps/rhombus-dng/boss.json": {
     "entities.20.settings.event.1.message": "来了…",
     "entities.20.settings.event.2.message": "…？",
@@ -27705,6 +28633,9 @@
     "entities.45.settings.text": "一个箱子！有些美味的\\c[3]\\v[item.1.name]\\c[0]在里面。",
     "entities.46.settings.text": "一个箱子！但是里面有什么呢？",
     "entities.47.settings.text": "一个箱子！里面有两个\\c[3]\\v[item.2.name]\\c[0]/"
+  },
+  "assets/data/maps/rhombus-dng/room-1-7.json": {
+    "entities.9.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-dng/room-1.json": {
     "entities.10.settings.event.0.message": "好了，莉亚…我要离开几分钟。",
@@ -27845,6 +28776,9 @@
     "entities.7.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]",
     "entities.8.settings.teleportLabel": "天际轨道<<A<<[CHANGED 2018/07/09]",
     "entities.9.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]",
+    "entities.10.settings.teleportLabel": "en_US",
+    "entities.11.settings.teleportLabel": "en_US",
+    "entities.12.settings.teleportLabel": "en_US",
     "entities.447.settings.interact.hoverText": "\\c[3]牛角面包咖啡馆\\c[0]<<A<<[CHANGED 2018/07/09]",
     "entities.593.settings.event.0.text": "缺少通行证<<A<<[CHANGED 2018/07/09]",
     "entities.619.settings.npcStates.0.event.quest.2.message": "日安，莉亚。<<A<<[CHANGED 2018/08/28]",
@@ -28889,6 +29823,9 @@
     "entities.994.settings.event.36.task": "最好再次进入朱红废土的准备。准备就绪之后在\\c[3]藏身处\\c[0]跟\\c[3]智史\\c[0]谈一谈。<<A<<[CHANGED 2018/08/28]"
   },
   "assets/data/maps/rhombus-sqr/shops-1.json": {
+    "entities.216.settings.teleportLabel": "en_US",
+    "entities.217.settings.teleportLabel": "en_US",
+    "entities.218.settings.teleportLabel": "en_US",
     "entities.219.settings.teleportLabel": "天际轨道<<A<<[CHANGED 2018/05/01]",
     "entities.220.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]",
     "entities.221.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]",
@@ -28913,12 +29850,32 @@
     "entities.4.settings.description": "罗姆布斯广场的入口和通往大陆的出口。<<A<<[CHANGED 2018/08/01]"
   },
   "assets/data/maps/rhombus-sqr/test.json": {
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.30.settings.teleportLabel": "en_US",
+    "entities.31.settings.teleportLabel": "en_US",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
+    "entities.36.settings.teleportLabel": "en_US",
+    "entities.37.settings.teleportLabel": "en_US",
+    "entities.38.settings.teleportLabel": "en_US",
     "entities.39.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]",
-    "entities.41.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]"
+    "entities.41.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]",
+    "entities.44.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-sqr/test2.json": {
+    "entities.27.settings.teleportLabel": "en_US",
+    "entities.28.settings.teleportLabel": "en_US",
+    "entities.30.settings.teleportLabel": "en_US",
+    "entities.31.settings.teleportLabel": "en_US",
+    "entities.32.settings.teleportLabel": "en_US",
+    "entities.34.settings.teleportLabel": "en_US",
+    "entities.35.settings.teleportLabel": "en_US",
+    "entities.36.settings.teleportLabel": "en_US",
+    "entities.37.settings.teleportLabel": "en_US",
     "entities.38.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]",
-    "entities.40.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]"
+    "entities.40.settings.teleportLabel": "某处<<A<<[CHANGED 2017/12/12]",
+    "entities.43.settings.teleportLabel": "en_US"
   },
   "assets/data/maps/rhombus-square-view.json": {
     "entities.9.settings.event.9.message": "好了，该从哪里开始呢？<<A<<[CHANGED 2018/09/19]",
@@ -29226,7 +30183,7 @@
     "entities.628.settings.npcStates.4.event.3.message": "这次一定要把他绳之于法！",
     "entities.628.settings.npcStates.5.event.1.name": "基玛",
     "entities.628.settings.npcStates.5.event.2.message": "又让他跑了？！你必须在我们成为笑柄之前赶紧逮住他！",
-    "entities.628.settings.npcStates.6.event.1.name": "",
+    "entities.628.settings.npcStates.6.event.1.name": "Kima",
     "entities.628.settings.npcStates.6.event.2.message": "多亏了你，终于可以把这恶棍关进监狱了！\\.你现在最好回去向布拉塞尔中士汇报下。",
     "entities.628.settings.npcStates.7.event.1.name": "基玛",
     "entities.628.settings.npcStates.7.event.2.message": "很高兴又见到你了，\\v[lore.title.seeker]。自从你将那个扒手逮捕归案之后，市场变得平静多了。",
